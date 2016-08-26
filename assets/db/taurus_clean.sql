@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Aug 23, 2016 at 09:47 
+-- Generation Time: Aug 25, 2016 at 09:21 
 -- Server version: 5.6.21
 -- PHP Version: 5.5.19
 
@@ -75,14 +75,6 @@ CREATE TABLE `dosen_mata_kuliah` (
   `updated_by` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COMMENT='dosen mengajar mata kuliah';
 
---
--- Dumping data for table `dosen_mata_kuliah`
---
-
-INSERT INTO `dosen_mata_kuliah` (`id`, `id_dosen`, `id_mata_kuliah`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES
-(1, 7, 1, '2016-08-23 21:09:23', '2016-08-23 14:09:23', 1, 0),
-(2, 7, 2, '2016-08-23 21:46:15', '2016-08-23 14:46:15', 1, 0);
-
 -- --------------------------------------------------------
 
 --
@@ -119,13 +111,6 @@ CREATE TABLE `laboratorium` (
   `updated_by` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data for table `laboratorium`
---
-
-INSERT INTO `laboratorium` (`id`, `nama_laboratorium`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES
-(1, 'Praktikum Basis Data', '2016-08-23 19:43:12', '2016-08-23 14:33:13', 0, 0);
-
 -- --------------------------------------------------------
 
 --
@@ -153,14 +138,6 @@ CREATE TABLE `mata_kuliah` (
   `created_by` int(11) NOT NULL,
   `updated_by` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `mata_kuliah`
---
-
-INSERT INTO `mata_kuliah` (`id`, `nama_mata_kuliah`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES
-(1, 'Biologi', '2016-08-23 01:01:39', '2016-08-22 18:01:39', 0, 0),
-(2, 'Kalkulus', '2016-08-23 01:01:51', '2016-08-22 18:01:51', 0, 0);
 
 -- --------------------------------------------------------
 
@@ -239,10 +216,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `ip_address`, `username`, `password`, `salt`, `email`, `activation_code`, `forgotten_password_code`, `forgotten_password_time`, `remember_code`, `created_on`, `last_login`, `active`, `name`, `gender`) VALUES
-(1, '127.0.0.1', 'administrator', '$2a$07$SeBknntpZror9uyftVopmu61qg0ms8Qv1yV6FG.kQOSM.9QhmTo36', '', 'admin@admin.com', '', NULL, NULL, NULL, 1268889823, 1471952074, 1, 'Admin', 'laki-laki'),
-(5, '127.0.0.1', '123456789', '$2y$08$RNNKmWCZn6ckzTwsFpQ4wejekPgWSlRFvmw7WZmcVn7SIMPkZyzmK', '', 'Makita@email.com', NULL, NULL, NULL, NULL, 1471880916, NULL, 1, 'Makita', 'laki-laki'),
-(6, '127.0.0.1', '987654321', '$2y$08$usadNaK5OBhd1eYCHAe0L.JfeXpeT6TxpMduqJDD4lc.b2SN3P8lu', '', 'Wangi@email.com', NULL, NULL, NULL, NULL, 1471884147, NULL, 1, 'Wangi', 'perempuan'),
-(7, '127.0.0.1', '123456', '$2y$08$CPrTsvif9P7ZPsLyPgNdmeSefaJp1kz39gfYwExDVHLOl6z8wHcE2', '', '123456@email.com', NULL, NULL, NULL, NULL, 1471887397, NULL, 1, 'Tommy Kurniawan, S.T, M.T', 'laki-laki');
+(1, '127.0.0.1', 'administrator', '$2a$07$SeBknntpZror9uyftVopmu61qg0ms8Qv1yV6FG.kQOSM.9QhmTo36', '', 'admin@admin.com', '', NULL, NULL, NULL, 1268889823, 1472134659, 1, 'Admin', 'laki-laki');
 
 -- --------------------------------------------------------
 
@@ -258,13 +232,6 @@ CREATE TABLE `users_dosen` (
   `created_by` int(11) NOT NULL,
   `updated_by` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `users_dosen`
---
-
-INSERT INTO `users_dosen` (`id`, `nip`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES
-(7, '123456', '2016-08-23 00:36:37', '2016-08-22 17:41:19', 1, 1);
 
 -- --------------------------------------------------------
 
@@ -284,10 +251,7 @@ CREATE TABLE `users_groups` (
 
 INSERT INTO `users_groups` (`id`, `user_id`, `group_id`) VALUES
 (1, 1, 1),
-(2, 1, 2),
-(5, 5, 3),
-(6, 6, 3),
-(7, 7, 2);
+(2, 1, 2);
 
 -- --------------------------------------------------------
 
@@ -303,14 +267,6 @@ CREATE TABLE `users_mahasiswa` (
   `created_by` int(11) NOT NULL,
   `updated_by` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `users_mahasiswa`
---
-
-INSERT INTO `users_mahasiswa` (`id`, `nim`, `created_at`, `updated_at`, `created_by`, `updated_by`) VALUES
-(5, '123456789', '2016-08-22 22:48:36', '2016-08-22 15:48:36', 1, 0),
-(6, '987654321', '2016-08-22 23:42:27', '2016-08-22 17:18:49', 1, 1);
 
 --
 -- Indexes for dumped tables
@@ -437,7 +393,7 @@ ALTER TABLE `absensi_rfid_mahasiswa`
 -- AUTO_INCREMENT for table `dosen_mata_kuliah`
 --
 ALTER TABLE `dosen_mata_kuliah`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `groups`
 --
@@ -447,7 +403,7 @@ ALTER TABLE `groups`
 -- AUTO_INCREMENT for table `laboratorium`
 --
 ALTER TABLE `laboratorium`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 --
 -- AUTO_INCREMENT for table `login_attempts`
 --
@@ -457,7 +413,7 @@ ALTER TABLE `login_attempts`
 -- AUTO_INCREMENT for table `mata_kuliah`
 --
 ALTER TABLE `mata_kuliah`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT for table `rfid`
 --

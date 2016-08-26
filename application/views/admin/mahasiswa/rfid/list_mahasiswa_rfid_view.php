@@ -12,7 +12,9 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 <!-- The Breadcrumb -->
 <ul class="breadcrumb">
     <li><a href="<?php echo site_url('admin'); ?>">Dashboard</a></li>
-    <li class="active">Mengajar</li>
+    <li><a href="<?php echo site_url('admin/mahasiswa'); ?>">Mahasiswa</a></li>
+    <li><a href="<?php echo site_url('admin/mahasiswa/edit/'.$mahasiswa->id); ?>"><?= $mahasiswa->user->name; ?></a></li>
+    <li class="active">List RFID</li>
 </ul>
 
 <div class="row">
@@ -22,7 +24,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
             <div class="panel-heading">
                 <h3 class="panel-title"><?= $page_title; ?></h3>
                 <ul class="panel-controls">
-                    <li><a class="" href="<?php echo site_url('admin/mengajar/create'); ?>"><i class="fa fa-plus"></i></a> </li>
+                    <li><a class="" href="<?php echo site_url('admin/mahasiswa/add_rfid/'.$mahasiswa->id); ?>"><i class="fa fa-plus"></i></a> </li>
                 </ul>
             </div>
             <div class="panel-body panel-body-table">
@@ -31,25 +33,24 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                         <thead>
                         <tr>
                             <th>ID</th>
-                            <th>Mata kuliah</th>
-                            <th>Dosen</th>
+                            <th>Kode RFID</th>
+                            <th>Mata Kuliah</th>
                             <th>Operations</th>
                         </tr>
                         </thead>
                         <tbody>
                         <?php
-                        if(!empty($mengajar)):
-                            foreach($mengajar as $data_mengajar):
+                        if(!empty($mahasiswa->mahasiswa_rfid)):
+                            foreach($mahasiswa->mahasiswa_rfid as $rfid):
                                 ?>
                                 <tr>
-                                    <td><?php echo $data_mengajar->id; ?></td>
-                                    <td><?php echo $data_mengajar->mata_kuliah->nama_mata_kuliah; ?></td>
-                                    <td>
-                                        <?= "({$data_mengajar->dosen->nip}) {$data_mengajar->dosen->user->name}"; ?></td>
+                                    <td><?php echo $rfid->id; ?></td>
+                                    <td><?php echo $rfid->rfid->kode_rfid; ?></td>
+                                    <td><?php echo $rfid->mata_kuliah->nama_mata_kuliah; ?></td>
                                     <td>
                                         <?php
-                                            echo anchor('admin/mengajar/edit/'.$data_mengajar->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']);
-                                            echo anchor('admin/mengajar/delete/'.$data_mengajar->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('admin/mahasiswa/edit/'.$rfid->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('admin/mahasiswa/delete/'.$rfid->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs']);
                                         ?>
                                     </td>
                                 </tr>

@@ -12,7 +12,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 <!-- The Breadcrumb -->
 <ul class="breadcrumb">
     <li><a href="<?php echo site_url('admin'); ?>">Dashboard</a></li>
-    <li class="active">Laboratoriumh</li>
+    <li class="active">Laboratorium</li>
 </ul>
 
 <div class="row">

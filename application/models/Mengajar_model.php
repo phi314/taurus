@@ -13,16 +13,15 @@ class Mengajar_model extends US_Model {
     {
         $this->table = 'dosen_mata_kuliah';
         $this->primary_key = 'id';
-        $this->has_one['user_dosen'] = ['user_model', 'id', 'id_dosen'];
-        $this->has_one['dosen'] = ['dosen_model', 'id', 'id_dosen'];
-        $this->has_one['mata_kuliah'] = ['mata_kuliah_model', 'id', 'id_mata_kuliah'];
+        $this->has_one['dosen'] = ['dosen_model', 'id', 'dosen_id'];
+        $this->has_one['mata_kuliah'] = ['mata_kuliah_model', 'id', 'mata_kuliah_id'];
         parent::__construct();
     }
 
     public $rules = [
             'insert' => [
                 'dosen' => ['field'=>'dosen', 'label'=>'Dosen', 'rules'=>'trim|required'],
-                'mata_kuliah' => ['field'=>'dosen', 'label'=>'Mata Kuliah', 'rules'=>'trim|required']
+                'mata_kuliah' => ['field'=>'mata_kuliah', 'label'=>'Mata Kuliah', 'rules'=>'trim|required|callback_mengajar_duplicate']
             ],
             'update' => [
                 'dosen' => ['field'=>'dosen', 'label'=>'Dosen', 'rules'=>'trim|required'],

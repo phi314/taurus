@@ -48,12 +48,11 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                                     <td><?php echo $data_mahasiswa->nim; ?></td>
                                     <td><?php echo $data_mahasiswa->user->name; ?></td>
                                     <td><?php echo $data_mahasiswa->user->gender; ?></td>
-                                    <td><?php echo anchor('admin/mahasiswa/edit/'.$data_mahasiswa->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']); ?>
+                                    <td>
                                         <?php
-                                        if($current_user->id != $data_mahasiswa->id)
-                                        {
+                                            echo anchor('admin/mahasiswa/edit/'.$data_mahasiswa->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('admin/mahasiswa/add_rfid/'.$data_mahasiswa->id, '<i class="fa fa-barcode"></i>',  ['class'=>'btn btn-link btn-xs']);
                                             echo anchor('admin/mahasiswa/delete/'.$data_mahasiswa->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs']);
-                                        }
                                         ?>
                                     </td>
                                 </tr>

@@ -16,6 +16,9 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
         <li>
             <a href="<?php echo site_url('admin/users'); ?>" title="Users"><span class="fa fa-user"></span> Users</a>
         </li>
+        <li>
+            <a href="<?php echo site_url('admin/rfid'); ?>" title="RFID"><span class="fa fa-barcode"></span> RFID</a>
+        </li>
     </ul>
 </li>
 <li>

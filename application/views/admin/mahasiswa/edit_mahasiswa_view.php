@@ -75,6 +75,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
             </div>
             <div class="panel-footer">
                 <?php echo form_hidden('id', $mahasiswa->id); ?>
+                <?php echo anchor('admin/mahasiswa/rfid', 'Daftar RFID', ['class'=>'btn btn-info']) ?>
                 <?php echo form_submit('submit', 'Edit mahasiswa', ['class'=>'btn btn-primary pull-right']); ?>
             </div>
         </div>

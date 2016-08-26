@@ -11,9 +11,9 @@ class Dosen_model extends US_Model {
 
     public function __construct() 
     {
-        $this->table = 'users_dosen';
+        $this->table = 'dosen';
         $this->primary_key = 'id';
-        $this->has_one['user'] = 'User_model';
+        $this->has_one['user'] = 'user_model';
         parent::__construct();
     }
 

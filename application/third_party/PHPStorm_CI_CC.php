@@ -83,6 +83,8 @@
 	 * @property mata_kuliah_model        $mata_kuliah_model
 	 * @property laboratorium_model       $laboratorium_model
 	 * @property mengajar_model           $mengajar_model
+	 * @property rfid_model               $rfid_model
+	 * @property mahasiswa_rfid_model     $mahasiswa_rfid_model
 	 */
 	class CI_Controller {
 		public function __construct() {

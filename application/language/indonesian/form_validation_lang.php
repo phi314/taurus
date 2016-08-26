@@ -39,3 +39,9 @@ $lang['form_validation_greater_than'] = 'Bagian {field} harus berisi angka lebih
 $lang['form_validation_greater_than_equal_to'] = 'Bagian {field} harus berisi angka yang lebih besar dari atau sama dengan {param}.';
 $lang['form_validation_error_message_not_set'] = 'Tidak dapat mengakses pesan kesalahan sesuai dengan nama Bagian Anda {field}.';
 $lang['form_validation_in_list'] = 'Bagian {field} harus menjadi salah satu dari: {param}.';
+
+// Custom Callback
+$lang['form_validation_rfid_check'] = 'Kartu RFID belum terdaftar';
+$lang['form_validation_rfid_duplicate'] = 'Mahasiswa dengan RFID tersebut sudah terdaftar';
+$lang['form_validation_rfid_only_one_mata_kuliah'] = 'Mahasiswa hanya boleh memiliki 1 RFID untuk 1 Mata Kuliah';
+$lang['form_validation_mengajar_duplicate'] = 'Dosen sudah terdaftar Mata Kuliah';
