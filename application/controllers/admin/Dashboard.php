@@ -16,6 +16,7 @@ class Dashboard extends Admin_Controller {
 
     public function index()
     {
+        $this->data['user'] = $this->ion_auth->user()->row();
         $this->render('admin/dashboard/dashboard_view');
     }
     

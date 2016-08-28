@@ -23,73 +23,50 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Mengajar.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mengajar.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="32" selection-start="2449" selection-end="2449" vertical-scroll-proportion="-18.481482" vertical-offset="743" max-vertical-offset="1800">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/admin/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="8" selection-start="2278" selection-end="2457" vertical-scroll-proportion="-3.148148" vertical-offset="1193" max-vertical-offset="1962">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Users.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/admin/Users.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="152" column="5" selection-start="5863" selection-end="6260" vertical-scroll-proportion="-13.148149" vertical-offset="2381" max-vertical-offset="2934">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form_validation_lang.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="80" selection-start="3541" selection-end="3541" vertical-scroll-proportion="-17.148148" vertical-offset="365" max-vertical-offset="936">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Mahasiswa.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mahasiswa.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="113" selection-start="584" selection-end="584" vertical-scroll-proportion="-1.1717902" vertical-offset="1026" max-vertical-offset="4374">
+            <state line="111" column="0" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.3615917" vertical-offset="1789" max-vertical-offset="3294">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mahasiswa_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Mahasiswa_model.php">
+      <file leaf-file-name="list_mahasiswa_view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="55" selection-start="2336" selection-end="2336" vertical-scroll-proportion="-13.481482" vertical-offset="482" max-vertical-offset="1062">
+            <state line="56" column="186" selection-start="2639" selection-end="2639" vertical-scroll-proportion="-6.740741" vertical-offset="826" max-vertical-offset="1404">
+              <folding>
+                <marker date="1472408182984" expanded="true" signature="2066:2224" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mahasiswa.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/mahasiswa.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="47" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+              <folding>
+                <element signature="e#0#40#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="set_rfid.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/set_rfid.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="23" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create_mengajar_view.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/admin/mengajar/create_mengajar_view.php">
+      <file leaf-file-name="actions.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/actions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="58" selection-start="1841" selection-end="1841" vertical-scroll-proportion="-16.74074" vertical-offset="268" max-vertical-offset="1008">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mengajar_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Mengajar_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="55" selection-start="718" selection-end="718" vertical-scroll-proportion="-12.222222" vertical-offset="84" max-vertical-offset="702">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10278">
               <folding />
             </state>
           </provider>
@@ -105,20 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/core/US_Model.php" />
-        <option value="$PROJECT_DIR$/application/config/database.php" />
-        <option value="$PROJECT_DIR$/application/config/ion_auth.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/groups/list_group_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/groups/create_group_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/users/list_users_view.php" />
-        <option value="$PROJECT_DIR$/application/config/migration.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/users/create_user_view.php" />
-        <option value="$PROJECT_DIR$/application/migrations/002_install_ion_auth.php" />
-        <option value="$PROJECT_DIR$/application/models/Users_model.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/dosen/list_dosen_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/dosen/create_dosen_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/create_mahasiswa_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/dosen/edit_dosen_view.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mata_kuliah/list_mata_kuliah_view.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mata_kuliah/create_mata_kuliah_view.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mata_kuliah/edit_mata_kuliah_view.php" />
@@ -134,27 +97,41 @@
         <option value="$PROJECT_DIR$/application/views/admin/mengajar/create_mengajar_view.php" />
         <option value="$PROJECT_DIR$/application/models/User_model.php" />
         <option value="$PROJECT_DIR$/application/views/admin/laboratorium/list_laboratorium_view.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/_parts/user_menu_admin_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/rfid/create_rfid_view.php" />
         <option value="$PROJECT_DIR$/assets/js/admin/rfid/create_rfid_view.js" />
-        <option value="$PROJECT_DIR$/application/views/admin/rfid/list_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Rfid.php" />
         <option value="$PROJECT_DIR$/assets/js/admin/mahasiswa/add_rfid.js" />
         <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/add_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/edit_mahasiswa_view.php" />
-        <option value="$PROJECT_DIR$/application/models/Dosen_model.php" />
         <option value="$PROJECT_DIR$/application/models/Rfid_mahasiswa_model.php" />
         <option value="$PROJECT_DIR$/application/third_party/PHPStorm_CI_CC.php" />
-        <option value="$PROJECT_DIR$/application/models/Mahasiswa_rfid_model.php" />
-        <option value="$PROJECT_DIR$/application/models/Rfid_model.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mengajar/list_mengajar_view.php" />
+        <option value="$PROJECT_DIR$/assets/css/admin/app.css" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/Dashboard.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/dashboard/dashboard_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/rfid/edit_rfid_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/rfid/create_rfid_view.php" />
+        <option value="$PROJECT_DIR$/application/migrations/001_initialize_table.php" />
+        <option value="$PROJECT_DIR$/application/migrations/003_remove_rfid_mahasiswa_and_field_mata_kuliah_id" />
+        <option value="$PROJECT_DIR$/application/migrations/003_remove_mahasiswa_rfid.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/models/Mahasiswa_model.php" />
-        <option value="$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/rfid/list_rfid_view.php" />
+        <option value="$PROJECT_DIR$/application/models/Dosen_model.php" />
         <option value="$PROJECT_DIR$/application/models/Mengajar_model.php" />
         <option value="$PROJECT_DIR$/application/controllers/admin/Mengajar.php" />
+        <option value="$PROJECT_DIR$/application/models/Rfid_model.php" />
+        <option value="$PROJECT_DIR$/application/models/Mahasiswa_rfid_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/Rfid.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid/list_mahasiswa_by_rfid_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid/list_rfid_by_mahasiswa_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/edit_mahasiswa_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid_mahasiswa_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/admin/mahasiswa/set_rfid.js" />
+        <option value="$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php" />
+        <option value="$PROJECT_DIR$/application/models/Mahasiswa_model.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/admin_master_view.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/_parts/user_menu_admin_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/set_rfid_mahasiswa_view.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/mahasiswa.js" />
         <option value="$PROJECT_DIR$/application/controllers/admin/Mahasiswa.php" />
       </list>
     </option>
@@ -192,6 +169,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,6 +201,10 @@
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -241,6 +223,58 @@
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mahasiswa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -271,6 +305,54 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_parts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -293,32 +375,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mengajar" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,36 +401,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mahasiswa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mahasiswa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rfid" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -393,46 +419,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="language" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="indonesian" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -478,7 +464,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,17 +473,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid" />
+      <recent name="$PROJECT_DIR$/application/views/admin/rfid" />
       <recent name="$PROJECT_DIR$/application/models" />
       <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid" />
       <recent name="$PROJECT_DIR$/assets/js/admin/mahasiswa" />
-      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa" />
-      <recent name="$PROJECT_DIR$/application/views/admin/rfid" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/js/_controller" />
+      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa" />
+      <recent name="$PROJECT_DIR$/assets/js/admin/mahasiswa" />
+      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid" />
       <recent name="$PROJECT_DIR$/assets/js/admin/mahasiswa/rfid" />
-      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid" />
-      <recent name="$PROJECT_DIR$/application/views/admin" />
-      <recent name="$PROJECT_DIR$/application/views/admin/users" />
     </key>
   </component>
   <component name="RunManager">
@@ -535,7 +521,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27572662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2804399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -543,11 +529,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -564,10 +550,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27101335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2804399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -587,77 +573,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/libraries/Ion_auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="298" column="20" selection-start="7946" selection-end="7946" vertical-scroll-proportion="0.33217993" vertical-offset="5172" max-vertical-offset="9846">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="540" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/groups/list_group_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="100" selection-start="2024" selection-end="2024" vertical-scroll-proportion="-23.407408" vertical-offset="232" max-vertical-offset="1296" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/system/helpers/form_helper.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="815" column="13" selection-start="19312" selection-end="19312" vertical-scroll-proportion="0.33217993" vertical-offset="14478" max-vertical-offset="18684">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/US_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="484" column="20" selection-start="18842" selection-end="18842" vertical-scroll-proportion="-7.4444447" vertical-offset="8511" max-vertical-offset="34956">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/groups/edit_group_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="10.0" vertical-offset="270" max-vertical-offset="972" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/dosen/create_dosen_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="54" selection-start="2362" selection-end="2362" vertical-scroll-proportion="-15.407408" vertical-offset="466" max-vertical-offset="1080" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/dosen/list_dosen_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="74" selection-start="716" selection-end="716" vertical-scroll-proportion="0.2857143" vertical-offset="292" max-vertical-offset="1386" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/dosen/edit_dosen_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="60" selection-start="4378" selection-end="4378" vertical-scroll-proportion="-14.074074" vertical-offset="1006" max-vertical-offset="1584" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/admin_master_sidebar_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="7.9259257" vertical-offset="214" max-vertical-offset="792" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mata_kuliah/list_mata_kuliah_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="74" selection-start="1926" selection-end="1926" vertical-scroll-proportion="-32.0" vertical-offset="0" max-vertical-offset="1260" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mata_kuliah/create_mata_kuliah_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="59" selection-start="829" selection-end="829" vertical-scroll-proportion="-9.740741" vertical-offset="205" max-vertical-offset="810" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mata_kuliah/edit_mata_kuliah_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="66" selection-start="1451" selection-end="1451" vertical-scroll-proportion="-14.666667" vertical-offset="216" max-vertical-offset="828" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/Dosen.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="72" column="97" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="2106" />
@@ -695,11 +610,6 @@
         <state line="14" column="35" selection-start="326" selection-end="326" vertical-scroll-proportion="-9.074074" vertical-offset="7" max-vertical-offset="1260" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/user_menu_admin_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="113" selection-start="730" selection-end="730" vertical-scroll-proportion="-7.4074073" vertical-offset="142" max-vertical-offset="792" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/core/US_Controller.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="59" column="23" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-37.333332" vertical-offset="54" max-vertical-offset="1548">
@@ -717,51 +627,6 @@
     <entry file="file://$PROJECT_DIR$/application/views/templates/admin_auth_view.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="86" selection-start="613" selection-end="613" vertical-scroll-proportion="0.4231465" vertical-offset="0" max-vertical-offset="990" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/admin_master_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="34.851852" vertical-offset="941" max-vertical-offset="1494" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/admin/rfid/create_rfid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="288" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mata_kuliah.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="53" selection-start="1268" selection-end="1394" vertical-scroll-proportion="-17.88889" vertical-offset="273" max-vertical-offset="1620" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/rfid/list_rfid_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="67" selection-start="2654" selection-end="2654" vertical-scroll-proportion="-8.666667" vertical-offset="846" max-vertical-offset="1476" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="129" selection-start="2280" selection-end="2280" vertical-scroll-proportion="-35.333332" vertical-offset="0" max-vertical-offset="1368" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Rfid.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="62" selection-start="806" selection-end="806" vertical-scroll-proportion="-19.333334" vertical-offset="0" max-vertical-offset="1242" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/admin/mahasiswa/rfid/add_rfid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="110" selection-end="110" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="324" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/rfid/create_rfid_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="18" selection-start="723" selection-end="1301" vertical-scroll-proportion="-11.814815" vertical-offset="257" max-vertical-offset="810" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/edit_mahasiswa_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="97" selection-start="4451" selection-end="4451" vertical-scroll-proportion="-32.074074" vertical-offset="520" max-vertical-offset="1602" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/models/Mata_kuliah_model.php">
@@ -785,107 +650,240 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Dosen_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="41" selection-start="659" selection-end="659" vertical-scroll-proportion="-15.333333" vertical-offset="0" max-vertical-offset="828">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Rfid_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="8" selection-start="627" selection-end="627" vertical-scroll-proportion="0.5280289" vertical-offset="122" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Mahasiswa_rfid_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="62" selection-start="477" selection-end="477" vertical-scroll-proportion="-5.814815" vertical-offset="131" max-vertical-offset="684">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="17" selection-start="555" selection-end="555" vertical-scroll-proportion="0.15370706" vertical-offset="257" max-vertical-offset="1332">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/admin/mengajar/list_mengajar_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="40" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1401384" vertical-offset="61" max-vertical-offset="1314">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="58" selection-start="2311" selection-end="2311" vertical-scroll-proportion="0.83725137" vertical-offset="311" max-vertical-offset="1080">
-          <folding />
-        </state>
+        <state line="40" column="40" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1401384" vertical-offset="61" max-vertical-offset="1314" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/create_mahasiswa_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="34" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.28028932" vertical-offset="367" max-vertical-offset="1080">
-          <folding />
-        </state>
+        <state line="29" column="34" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.28028932" vertical-offset="367" max-vertical-offset="1080" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/admin/mengajar/create_mengajar_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="58" selection-start="1841" selection-end="1841" vertical-scroll-proportion="-16.74074" vertical-offset="268" max-vertical-offset="1008">
+        <state line="40" column="58" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.7820069" vertical-offset="268" max-vertical-offset="1008">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Mahasiswa_model.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="55" selection-start="2336" selection-end="2336" vertical-scroll-proportion="-13.481482" vertical-offset="482" max-vertical-offset="1062">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="80" selection-start="3541" selection-end="3541" vertical-scroll-proportion="-17.148148" vertical-offset="365" max-vertical-offset="936">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Mengajar_model.php">
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="55" selection-start="718" selection-end="718" vertical-scroll-proportion="-12.222222" vertical-offset="84" max-vertical-offset="702">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5184">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/admin/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="899" column="34" selection-start="23220" selection-end="23220" vertical-scroll-proportion="0.0" vertical-offset="15853" max-vertical-offset="132462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/public_master_header_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/Users.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="5" selection-start="5863" selection-end="6260" vertical-scroll-proportion="-13.148149" vertical-offset="2381" max-vertical-offset="2934">
+        <state line="152" column="5" selection-start="5863" selection-end="6260" vertical-scroll-proportion="-49.074074" vertical-offset="1411" max-vertical-offset="2934">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="60" selection-start="385" selection-end="385" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/dashboard/dashboard_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="322.0" vertical-offset="8694" max-vertical-offset="14850">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="8" selection-start="2278" selection-end="2457" vertical-scroll-proportion="-3.148148" vertical-offset="1193" max-vertical-offset="1962">
+        <state line="71" column="8" selection-start="2278" selection-end="2457" vertical-scroll-proportion="-14.074074" vertical-offset="898" max-vertical-offset="1962">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/US_Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.710669" vertical-offset="2052" max-vertical-offset="34956">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/migrations/001_initialize_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/migrations/002_install_ion_auth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="229" column="59" selection-start="5030" selection-end="5223" vertical-scroll-proportion="-152.66667" vertical-offset="0" max-vertical-offset="4284">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mata_kuliah.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="53" selection-start="1268" selection-end="1394" vertical-scroll-proportion="-17.88889" vertical-offset="273" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Dosen_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="51" selection-start="367" selection-end="367" vertical-scroll-proportion="-3.7407408" vertical-offset="169" max-vertical-offset="828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mengajar_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="53" selection-start="381" selection-end="383" vertical-scroll-proportion="-6.888889" vertical-offset="84" max-vertical-offset="702">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mengajar.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="32" selection-start="2449" selection-end="2449" vertical-scroll-proportion="-18.481482" vertical-offset="743" max-vertical-offset="1800">
+        <state line="21" column="17" selection-start="672" selection-end="672" vertical-scroll-proportion="-8.481482" vertical-offset="149" max-vertical-offset="1800">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/edit_mahasiswa_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="52" selection-start="4343" selection-end="4343" vertical-scroll-proportion="-16.666666" vertical-offset="918" max-vertical-offset="1602">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/rfid_mahasiswa_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="51" selection-start="812" selection-end="812" vertical-scroll-proportion="-11.481482" vertical-offset="158" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="21" selection-start="3278" selection-end="3278" vertical-scroll-proportion="-13.962963" vertical-offset="415" max-vertical-offset="918">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/admin_master_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="57" selection-start="3241" selection-end="3241" vertical-scroll-proportion="-15.185185" vertical-offset="868" max-vertical-offset="1494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12078">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/user_menu_admin_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="604" selection-end="604" vertical-scroll-proportion="-10.407408" vertical-offset="43" max-vertical-offset="738">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/set_rfid_mahasiswa_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="65" selection-start="1300" selection-end="1300" vertical-scroll-proportion="-10.666667" vertical-offset="270" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mahasiswa_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="-0.6666667" vertical-offset="270" max-vertical-offset="882">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/set_rfid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="23" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="186" selection-start="2639" selection-end="2639" vertical-scroll-proportion="-6.740741" vertical-offset="826" max-vertical-offset="1404">
+          <folding>
+            <marker date="1472408182984" expanded="true" signature="2066:2224" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/mahasiswa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="47" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mahasiswa.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="113" selection-start="584" selection-end="584" vertical-scroll-proportion="-1.1717902" vertical-offset="1026" max-vertical-offset="4374">
+        <state line="111" column="0" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.3615917" vertical-offset="1789" max-vertical-offset="3294">
           <folding />
         </state>
       </provider>

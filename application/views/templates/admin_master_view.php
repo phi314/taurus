@@ -21,7 +21,7 @@
     <body>
 
         <!-- The Content -->
-        <div class="page-container page-navigation-toggled ">
+        <div class="page-container page-navigation-top-fixed">
 
             <!-- The Sidebar
             <?php $this->load->view('templates/_parts/admin_master_sidebar_view'); ?>
@@ -68,8 +68,8 @@
         <script src="<?php echo site_url(JS.'vendor/jquery-ui.min.js'); ?>"></script>
         <script src="<?php echo site_url(JS.'bootstrap/bootstrap.min.js'); ?>"></script>
         <script src="<?php echo site_url(JS.'mcustomscrollbar/jquery.mCustomScrollbar.min.js'); ?>"></script>
-        <script src="<?php echo site_url(JS.'admin/plugins.js'); ?>"></script>
-        <script src="<?php echo site_url(JS.'admin/actions.js'); ?>"></script>
+        <script src="<?php echo site_url(JS.'_controller/admin/plugins.js'); ?>"></script>
+        <script src="<?php echo site_url(JS.'_controller/admin/actions.js'); ?>"></script>
 
         <?= $before_body; ?>
 

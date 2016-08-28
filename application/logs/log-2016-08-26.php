@@ -9653,3 +9653,7231 @@ INFO - 2016-08-26 11:25:55 --> File loaded: /media/phi314/Data/Web Development/t
 INFO - 2016-08-26 11:25:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
 INFO - 2016-08-26 11:25:55 --> Final output sent to browser
 DEBUG - 2016-08-26 11:25:55 --> Total execution time: 0.1243
+INFO - 2016-08-26 12:28:06 --> Config Class Initialized
+INFO - 2016-08-26 12:28:06 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:06 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:06 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:06 --> URI Class Initialized
+DEBUG - 2016-08-26 12:28:07 --> No URI present. Default controller set.
+INFO - 2016-08-26 12:28:07 --> Router Class Initialized
+INFO - 2016-08-26 12:28:07 --> Output Class Initialized
+INFO - 2016-08-26 12:28:07 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:07 --> Input Class Initialized
+INFO - 2016-08-26 12:28:07 --> Language Class Initialized
+INFO - 2016-08-26 12:28:08 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:08 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:08 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:08 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:08 --> Controller Class Initialized
+INFO - 2016-08-26 12:28:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/pages/home_view.php
+INFO - 2016-08-26 12:28:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/page_master_view.php
+INFO - 2016-08-26 12:28:08 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:08 --> Total execution time: 3.0659
+INFO - 2016-08-26 12:28:37 --> Config Class Initialized
+INFO - 2016-08-26 12:28:37 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:37 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:37 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:37 --> URI Class Initialized
+INFO - 2016-08-26 12:28:37 --> Router Class Initialized
+INFO - 2016-08-26 12:28:37 --> Output Class Initialized
+INFO - 2016-08-26 12:28:37 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:37 --> Input Class Initialized
+INFO - 2016-08-26 12:28:37 --> Language Class Initialized
+INFO - 2016-08-26 12:28:37 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:37 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:37 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:37 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:37 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:38 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:38 --> Email Class Initialized
+INFO - 2016-08-26 12:28:38 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:38 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:38 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:38 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:38 --> Model Class Initialized
+INFO - 2016-08-26 12:28:38 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:38 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:38 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:28:38 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:38 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:38 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:38 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:38 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:38 --> Total execution time: 0.4765
+INFO - 2016-08-26 12:28:38 --> Config Class Initialized
+INFO - 2016-08-26 12:28:38 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:38 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:38 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:38 --> URI Class Initialized
+INFO - 2016-08-26 12:28:38 --> Router Class Initialized
+INFO - 2016-08-26 12:28:38 --> Output Class Initialized
+INFO - 2016-08-26 12:28:38 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:38 --> Input Class Initialized
+INFO - 2016-08-26 12:28:38 --> Language Class Initialized
+ERROR - 2016-08-26 12:28:38 --> 404 Page Not Found: admin/Faviconico/index
+INFO - 2016-08-26 12:28:40 --> Config Class Initialized
+INFO - 2016-08-26 12:28:40 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:40 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:40 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:40 --> URI Class Initialized
+INFO - 2016-08-26 12:28:40 --> Router Class Initialized
+INFO - 2016-08-26 12:28:40 --> Output Class Initialized
+INFO - 2016-08-26 12:28:40 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:40 --> Input Class Initialized
+INFO - 2016-08-26 12:28:40 --> Language Class Initialized
+INFO - 2016-08-26 12:28:41 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:41 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:41 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:41 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:41 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:41 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:41 --> Email Class Initialized
+INFO - 2016-08-26 12:28:41 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:41 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:41 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:41 --> Model Class Initialized
+INFO - 2016-08-26 12:28:41 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:41 --> Model Class Initialized
+INFO - 2016-08-26 12:28:41 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:41 --> Model Class Initialized
+INFO - 2016-08-26 12:28:41 --> Model Class Initialized
+INFO - 2016-08-26 12:28:41 --> Model Class Initialized
+INFO - 2016-08-26 12:28:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mengajar/list_mengajar_view.php
+INFO - 2016-08-26 12:28:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:41 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:41 --> Total execution time: 0.2878
+INFO - 2016-08-26 12:28:44 --> Config Class Initialized
+INFO - 2016-08-26 12:28:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:44 --> URI Class Initialized
+INFO - 2016-08-26 12:28:44 --> Router Class Initialized
+INFO - 2016-08-26 12:28:44 --> Output Class Initialized
+INFO - 2016-08-26 12:28:44 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:44 --> Input Class Initialized
+INFO - 2016-08-26 12:28:44 --> Language Class Initialized
+INFO - 2016-08-26 12:28:44 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:44 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:44 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:44 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:44 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:44 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:44 --> Email Class Initialized
+INFO - 2016-08-26 12:28:44 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:44 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:44 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:44 --> Model Class Initialized
+INFO - 2016-08-26 12:28:44 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:44 --> Model Class Initialized
+INFO - 2016-08-26 12:28:44 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/laboratorium/list_laboratorium_view.php
+INFO - 2016-08-26 12:28:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:44 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:44 --> Total execution time: 0.1689
+INFO - 2016-08-26 12:28:47 --> Config Class Initialized
+INFO - 2016-08-26 12:28:47 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:47 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:47 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:47 --> URI Class Initialized
+INFO - 2016-08-26 12:28:47 --> Router Class Initialized
+INFO - 2016-08-26 12:28:47 --> Output Class Initialized
+INFO - 2016-08-26 12:28:47 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:47 --> Input Class Initialized
+INFO - 2016-08-26 12:28:47 --> Language Class Initialized
+INFO - 2016-08-26 12:28:47 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:47 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:47 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:47 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:47 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:47 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:47 --> Email Class Initialized
+INFO - 2016-08-26 12:28:47 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:47 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:47 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:47 --> Model Class Initialized
+INFO - 2016-08-26 12:28:47 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:47 --> Model Class Initialized
+INFO - 2016-08-26 12:28:47 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mata_kuliah/list_mata_kuliah_view.php
+INFO - 2016-08-26 12:28:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:47 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:47 --> Total execution time: 0.1636
+INFO - 2016-08-26 12:28:49 --> Config Class Initialized
+INFO - 2016-08-26 12:28:49 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:49 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:49 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:49 --> URI Class Initialized
+INFO - 2016-08-26 12:28:49 --> Router Class Initialized
+INFO - 2016-08-26 12:28:49 --> Output Class Initialized
+INFO - 2016-08-26 12:28:49 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:49 --> Input Class Initialized
+INFO - 2016-08-26 12:28:49 --> Language Class Initialized
+INFO - 2016-08-26 12:28:49 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:49 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:49 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:49 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:49 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:50 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:50 --> Email Class Initialized
+INFO - 2016-08-26 12:28:50 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:50 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:50 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:50 --> Model Class Initialized
+INFO - 2016-08-26 12:28:50 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:50 --> Model Class Initialized
+INFO - 2016-08-26 12:28:50 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:50 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:28:50 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:28:50 --> Model Class Initialized
+INFO - 2016-08-26 12:28:50 --> Model Class Initialized
+INFO - 2016-08-26 12:28:50 --> Model Class Initialized
+INFO - 2016-08-26 12:28:50 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:28:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:28:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:50 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:50 --> Total execution time: 0.2857
+INFO - 2016-08-26 12:28:52 --> Config Class Initialized
+INFO - 2016-08-26 12:28:52 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:52 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:52 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:52 --> URI Class Initialized
+INFO - 2016-08-26 12:28:52 --> Router Class Initialized
+INFO - 2016-08-26 12:28:52 --> Output Class Initialized
+INFO - 2016-08-26 12:28:52 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:52 --> Input Class Initialized
+INFO - 2016-08-26 12:28:52 --> Language Class Initialized
+INFO - 2016-08-26 12:28:52 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:52 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:52 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:52 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:52 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:52 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:52 --> Email Class Initialized
+INFO - 2016-08-26 12:28:52 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:52 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:52 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:52 --> Model Class Initialized
+INFO - 2016-08-26 12:28:52 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:52 --> Model Class Initialized
+INFO - 2016-08-26 12:28:52 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mata_kuliah/list_mata_kuliah_view.php
+INFO - 2016-08-26 12:28:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:52 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:52 --> Total execution time: 0.1120
+INFO - 2016-08-26 12:28:54 --> Config Class Initialized
+INFO - 2016-08-26 12:28:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:54 --> URI Class Initialized
+INFO - 2016-08-26 12:28:54 --> Router Class Initialized
+INFO - 2016-08-26 12:28:54 --> Output Class Initialized
+INFO - 2016-08-26 12:28:54 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:54 --> Input Class Initialized
+INFO - 2016-08-26 12:28:54 --> Language Class Initialized
+INFO - 2016-08-26 12:28:54 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:54 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:54 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:54 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:54 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:54 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:54 --> Email Class Initialized
+INFO - 2016-08-26 12:28:54 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:54 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:54 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:54 --> Model Class Initialized
+INFO - 2016-08-26 12:28:54 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:54 --> Model Class Initialized
+INFO - 2016-08-26 12:28:54 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:54 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:28:54 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:28:54 --> Model Class Initialized
+INFO - 2016-08-26 12:28:54 --> Model Class Initialized
+INFO - 2016-08-26 12:28:54 --> Model Class Initialized
+INFO - 2016-08-26 12:28:54 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:28:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:28:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:54 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:54 --> Total execution time: 0.1223
+INFO - 2016-08-26 12:28:59 --> Config Class Initialized
+INFO - 2016-08-26 12:28:59 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:28:59 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:28:59 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:28:59 --> URI Class Initialized
+INFO - 2016-08-26 12:28:59 --> Router Class Initialized
+INFO - 2016-08-26 12:28:59 --> Output Class Initialized
+INFO - 2016-08-26 12:28:59 --> Security Class Initialized
+DEBUG - 2016-08-26 12:28:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:28:59 --> Input Class Initialized
+INFO - 2016-08-26 12:28:59 --> Language Class Initialized
+INFO - 2016-08-26 12:28:59 --> Loader Class Initialized
+INFO - 2016-08-26 12:28:59 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:28:59 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:28:59 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:28:59 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:28:59 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:28:59 --> Email Class Initialized
+INFO - 2016-08-26 12:28:59 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:28:59 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:28:59 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:28:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:28:59 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:28:59 --> Model Class Initialized
+INFO - 2016-08-26 12:28:59 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:28:59 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:28:59 --> Model Class Initialized
+INFO - 2016-08-26 12:28:59 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:28:59 --> Model Class Initialized
+INFO - 2016-08-26 12:28:59 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dosen/list_dosen_view.php
+INFO - 2016-08-26 12:28:59 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:28:59 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:28:59 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:28:59 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:28:59 --> Final output sent to browser
+DEBUG - 2016-08-26 12:28:59 --> Total execution time: 0.1365
+INFO - 2016-08-26 12:29:01 --> Config Class Initialized
+INFO - 2016-08-26 12:29:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:29:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:29:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:29:01 --> URI Class Initialized
+INFO - 2016-08-26 12:29:01 --> Router Class Initialized
+INFO - 2016-08-26 12:29:01 --> Output Class Initialized
+INFO - 2016-08-26 12:29:01 --> Security Class Initialized
+DEBUG - 2016-08-26 12:29:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:29:01 --> Input Class Initialized
+INFO - 2016-08-26 12:29:01 --> Language Class Initialized
+INFO - 2016-08-26 12:29:01 --> Loader Class Initialized
+INFO - 2016-08-26 12:29:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:29:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:29:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:29:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:29:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:29:01 --> Email Class Initialized
+INFO - 2016-08-26 12:29:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:29:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:29:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:29:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:29:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:29:01 --> Model Class Initialized
+INFO - 2016-08-26 12:29:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:29:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:29:01 --> Model Class Initialized
+INFO - 2016-08-26 12:29:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:29:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:29:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:29:01 --> Model Class Initialized
+INFO - 2016-08-26 12:29:01 --> Model Class Initialized
+INFO - 2016-08-26 12:29:01 --> Model Class Initialized
+INFO - 2016-08-26 12:29:01 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:29:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:29:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:29:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:29:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:29:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:29:01 --> Final output sent to browser
+DEBUG - 2016-08-26 12:29:01 --> Total execution time: 0.1226
+INFO - 2016-08-26 12:32:09 --> Config Class Initialized
+INFO - 2016-08-26 12:32:09 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:32:09 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:32:09 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:32:09 --> URI Class Initialized
+INFO - 2016-08-26 12:32:09 --> Router Class Initialized
+INFO - 2016-08-26 12:32:09 --> Output Class Initialized
+INFO - 2016-08-26 12:32:09 --> Security Class Initialized
+DEBUG - 2016-08-26 12:32:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:32:09 --> Input Class Initialized
+INFO - 2016-08-26 12:32:09 --> Language Class Initialized
+INFO - 2016-08-26 12:32:09 --> Loader Class Initialized
+INFO - 2016-08-26 12:32:09 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:32:09 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:32:09 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:32:09 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:32:09 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:32:09 --> Email Class Initialized
+INFO - 2016-08-26 12:32:09 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:32:09 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:32:09 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:32:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:32:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:32:09 --> Model Class Initialized
+INFO - 2016-08-26 12:32:09 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:32:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:32:09 --> Model Class Initialized
+INFO - 2016-08-26 12:32:09 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:32:09 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:32:09 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:32:09 --> Model Class Initialized
+INFO - 2016-08-26 12:32:09 --> Model Class Initialized
+INFO - 2016-08-26 12:32:09 --> Model Class Initialized
+INFO - 2016-08-26 12:32:09 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:32:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:32:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:32:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:32:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:32:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:32:09 --> Final output sent to browser
+DEBUG - 2016-08-26 12:32:09 --> Total execution time: 0.1312
+INFO - 2016-08-26 12:33:44 --> Config Class Initialized
+INFO - 2016-08-26 12:33:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:33:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:33:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:33:44 --> URI Class Initialized
+INFO - 2016-08-26 12:33:44 --> Router Class Initialized
+INFO - 2016-08-26 12:33:44 --> Output Class Initialized
+INFO - 2016-08-26 12:33:44 --> Security Class Initialized
+DEBUG - 2016-08-26 12:33:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:33:44 --> Input Class Initialized
+INFO - 2016-08-26 12:33:44 --> Language Class Initialized
+INFO - 2016-08-26 12:33:44 --> Loader Class Initialized
+INFO - 2016-08-26 12:33:44 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:33:44 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:33:44 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:33:44 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:33:44 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:33:44 --> Email Class Initialized
+INFO - 2016-08-26 12:33:44 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:33:44 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:33:44 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:33:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:33:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:33:44 --> Model Class Initialized
+INFO - 2016-08-26 12:33:44 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:33:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:33:44 --> Model Class Initialized
+INFO - 2016-08-26 12:33:44 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:33:44 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:33:44 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:33:44 --> Model Class Initialized
+INFO - 2016-08-26 12:33:44 --> Model Class Initialized
+INFO - 2016-08-26 12:33:44 --> Model Class Initialized
+INFO - 2016-08-26 12:33:44 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:33:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:33:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:33:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:33:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:33:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:33:44 --> Final output sent to browser
+DEBUG - 2016-08-26 12:33:44 --> Total execution time: 0.1234
+INFO - 2016-08-26 12:33:44 --> Config Class Initialized
+INFO - 2016-08-26 12:33:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:33:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:33:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:33:44 --> URI Class Initialized
+INFO - 2016-08-26 12:33:44 --> Router Class Initialized
+INFO - 2016-08-26 12:33:44 --> Output Class Initialized
+INFO - 2016-08-26 12:33:44 --> Security Class Initialized
+DEBUG - 2016-08-26 12:33:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:33:44 --> Input Class Initialized
+INFO - 2016-08-26 12:33:44 --> Language Class Initialized
+ERROR - 2016-08-26 12:33:44 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:34:12 --> Config Class Initialized
+INFO - 2016-08-26 12:34:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:34:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:34:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:34:12 --> URI Class Initialized
+INFO - 2016-08-26 12:34:12 --> Router Class Initialized
+INFO - 2016-08-26 12:34:12 --> Output Class Initialized
+INFO - 2016-08-26 12:34:12 --> Security Class Initialized
+DEBUG - 2016-08-26 12:34:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:34:12 --> Input Class Initialized
+INFO - 2016-08-26 12:34:12 --> Language Class Initialized
+INFO - 2016-08-26 12:34:12 --> Loader Class Initialized
+INFO - 2016-08-26 12:34:12 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:34:12 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:34:12 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:34:12 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:34:12 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:34:12 --> Email Class Initialized
+INFO - 2016-08-26 12:34:12 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:34:12 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:34:12 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:34:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:34:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:34:12 --> Model Class Initialized
+INFO - 2016-08-26 12:34:12 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:34:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:34:12 --> Model Class Initialized
+INFO - 2016-08-26 12:34:12 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:34:12 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:34:12 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:34:12 --> Model Class Initialized
+INFO - 2016-08-26 12:34:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 12:34:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:34:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:34:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:34:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:34:12 --> Final output sent to browser
+DEBUG - 2016-08-26 12:34:12 --> Total execution time: 0.2463
+INFO - 2016-08-26 12:34:12 --> Config Class Initialized
+INFO - 2016-08-26 12:34:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:34:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:34:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:34:12 --> URI Class Initialized
+INFO - 2016-08-26 12:34:12 --> Router Class Initialized
+INFO - 2016-08-26 12:34:12 --> Output Class Initialized
+INFO - 2016-08-26 12:34:12 --> Security Class Initialized
+DEBUG - 2016-08-26 12:34:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:34:12 --> Input Class Initialized
+INFO - 2016-08-26 12:34:12 --> Language Class Initialized
+ERROR - 2016-08-26 12:34:12 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:34:14 --> Config Class Initialized
+INFO - 2016-08-26 12:34:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:34:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:34:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:34:14 --> URI Class Initialized
+INFO - 2016-08-26 12:34:14 --> Router Class Initialized
+INFO - 2016-08-26 12:34:14 --> Output Class Initialized
+INFO - 2016-08-26 12:34:14 --> Security Class Initialized
+DEBUG - 2016-08-26 12:34:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:34:14 --> Input Class Initialized
+INFO - 2016-08-26 12:34:14 --> Language Class Initialized
+INFO - 2016-08-26 12:34:14 --> Loader Class Initialized
+INFO - 2016-08-26 12:34:14 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:34:14 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:34:14 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:34:14 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:34:14 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:34:14 --> Email Class Initialized
+INFO - 2016-08-26 12:34:14 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:34:14 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:34:14 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:34:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:34:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:34:14 --> Model Class Initialized
+INFO - 2016-08-26 12:34:14 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:34:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:34:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:34:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:34:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:34:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:34:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:34:14 --> Final output sent to browser
+DEBUG - 2016-08-26 12:34:14 --> Total execution time: 0.1082
+INFO - 2016-08-26 12:34:14 --> Config Class Initialized
+INFO - 2016-08-26 12:34:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:34:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:34:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:34:14 --> URI Class Initialized
+INFO - 2016-08-26 12:34:14 --> Router Class Initialized
+INFO - 2016-08-26 12:34:14 --> Output Class Initialized
+INFO - 2016-08-26 12:34:14 --> Security Class Initialized
+DEBUG - 2016-08-26 12:34:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:34:14 --> Input Class Initialized
+INFO - 2016-08-26 12:34:14 --> Language Class Initialized
+ERROR - 2016-08-26 12:34:14 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:35:07 --> Config Class Initialized
+INFO - 2016-08-26 12:35:07 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:35:07 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:35:07 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:35:07 --> URI Class Initialized
+INFO - 2016-08-26 12:35:07 --> Router Class Initialized
+INFO - 2016-08-26 12:35:07 --> Output Class Initialized
+INFO - 2016-08-26 12:35:07 --> Security Class Initialized
+DEBUG - 2016-08-26 12:35:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:35:07 --> Input Class Initialized
+INFO - 2016-08-26 12:35:07 --> Language Class Initialized
+INFO - 2016-08-26 12:35:07 --> Loader Class Initialized
+INFO - 2016-08-26 12:35:07 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:35:07 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:35:07 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:35:07 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:35:07 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:35:07 --> Email Class Initialized
+INFO - 2016-08-26 12:35:07 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:35:07 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:35:07 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:35:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:35:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:35:07 --> Model Class Initialized
+INFO - 2016-08-26 12:35:07 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:35:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:35:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:35:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:35:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:35:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:35:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:35:07 --> Final output sent to browser
+DEBUG - 2016-08-26 12:35:07 --> Total execution time: 0.1091
+INFO - 2016-08-26 12:35:07 --> Config Class Initialized
+INFO - 2016-08-26 12:35:07 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:35:07 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:35:07 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:35:07 --> URI Class Initialized
+INFO - 2016-08-26 12:35:07 --> Router Class Initialized
+INFO - 2016-08-26 12:35:07 --> Output Class Initialized
+INFO - 2016-08-26 12:35:07 --> Security Class Initialized
+DEBUG - 2016-08-26 12:35:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:35:07 --> Input Class Initialized
+INFO - 2016-08-26 12:35:07 --> Language Class Initialized
+ERROR - 2016-08-26 12:35:07 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:35:35 --> Config Class Initialized
+INFO - 2016-08-26 12:35:35 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:35:35 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:35:35 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:35:35 --> URI Class Initialized
+INFO - 2016-08-26 12:35:35 --> Router Class Initialized
+INFO - 2016-08-26 12:35:35 --> Output Class Initialized
+INFO - 2016-08-26 12:35:35 --> Security Class Initialized
+DEBUG - 2016-08-26 12:35:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:35:35 --> Input Class Initialized
+INFO - 2016-08-26 12:35:35 --> Language Class Initialized
+INFO - 2016-08-26 12:35:35 --> Loader Class Initialized
+INFO - 2016-08-26 12:35:35 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:35:35 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:35:35 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:35:35 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:35:35 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:35:35 --> Email Class Initialized
+INFO - 2016-08-26 12:35:35 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:35:35 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:35:35 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:35:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:35:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:35:36 --> Model Class Initialized
+INFO - 2016-08-26 12:35:36 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:35:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:35:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:35:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:35:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:35:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:35:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:35:36 --> Final output sent to browser
+DEBUG - 2016-08-26 12:35:36 --> Total execution time: 0.1135
+INFO - 2016-08-26 12:35:36 --> Config Class Initialized
+INFO - 2016-08-26 12:35:36 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:35:36 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:35:36 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:35:36 --> URI Class Initialized
+INFO - 2016-08-26 12:35:36 --> Router Class Initialized
+INFO - 2016-08-26 12:35:36 --> Output Class Initialized
+INFO - 2016-08-26 12:35:36 --> Security Class Initialized
+DEBUG - 2016-08-26 12:35:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:35:36 --> Input Class Initialized
+INFO - 2016-08-26 12:35:36 --> Language Class Initialized
+ERROR - 2016-08-26 12:35:36 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:37:50 --> Config Class Initialized
+INFO - 2016-08-26 12:37:50 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:37:50 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:37:50 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:37:50 --> URI Class Initialized
+INFO - 2016-08-26 12:37:50 --> Router Class Initialized
+INFO - 2016-08-26 12:37:50 --> Output Class Initialized
+INFO - 2016-08-26 12:37:50 --> Security Class Initialized
+DEBUG - 2016-08-26 12:37:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:37:50 --> Input Class Initialized
+INFO - 2016-08-26 12:37:50 --> Language Class Initialized
+INFO - 2016-08-26 12:37:50 --> Loader Class Initialized
+INFO - 2016-08-26 12:37:50 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:37:50 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:37:50 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:37:50 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:37:50 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:37:50 --> Email Class Initialized
+INFO - 2016-08-26 12:37:50 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:37:50 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:37:50 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:37:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:37:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:37:50 --> Model Class Initialized
+INFO - 2016-08-26 12:37:50 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:37:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+ERROR - 2016-08-26 12:37:50 --> Severity: Notice --> Undefined property: Dashboard::$name /media/phi314/Data/Web Development/taurus/system/core/Model.php 77
+INFO - 2016-08-26 12:37:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:37:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:37:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:37:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:37:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:37:50 --> Final output sent to browser
+DEBUG - 2016-08-26 12:37:50 --> Total execution time: 0.1364
+INFO - 2016-08-26 12:37:50 --> Config Class Initialized
+INFO - 2016-08-26 12:37:50 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:37:50 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:37:50 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:37:50 --> URI Class Initialized
+INFO - 2016-08-26 12:37:50 --> Router Class Initialized
+INFO - 2016-08-26 12:37:50 --> Output Class Initialized
+INFO - 2016-08-26 12:37:50 --> Security Class Initialized
+DEBUG - 2016-08-26 12:37:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:37:50 --> Input Class Initialized
+INFO - 2016-08-26 12:37:50 --> Language Class Initialized
+ERROR - 2016-08-26 12:37:50 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:38:05 --> Config Class Initialized
+INFO - 2016-08-26 12:38:05 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:38:05 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:38:05 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:38:05 --> URI Class Initialized
+INFO - 2016-08-26 12:38:05 --> Router Class Initialized
+INFO - 2016-08-26 12:38:05 --> Output Class Initialized
+INFO - 2016-08-26 12:38:05 --> Security Class Initialized
+DEBUG - 2016-08-26 12:38:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:38:05 --> Input Class Initialized
+INFO - 2016-08-26 12:38:05 --> Language Class Initialized
+INFO - 2016-08-26 12:38:05 --> Loader Class Initialized
+INFO - 2016-08-26 12:38:05 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:38:05 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:38:05 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:38:05 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:38:05 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:38:05 --> Email Class Initialized
+INFO - 2016-08-26 12:38:05 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:38:05 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:38:05 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:38:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:38:05 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:38:05 --> Model Class Initialized
+INFO - 2016-08-26 12:38:05 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:38:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+ERROR - 2016-08-26 12:38:05 --> Severity: Notice --> Undefined property: Dashboard::$name /media/phi314/Data/Web Development/taurus/system/core/Model.php 77
+INFO - 2016-08-26 12:38:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:38:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:38:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:38:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:38:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:38:05 --> Final output sent to browser
+DEBUG - 2016-08-26 12:38:05 --> Total execution time: 0.1068
+INFO - 2016-08-26 12:38:05 --> Config Class Initialized
+INFO - 2016-08-26 12:38:05 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:38:05 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:38:05 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:38:05 --> URI Class Initialized
+INFO - 2016-08-26 12:38:05 --> Router Class Initialized
+INFO - 2016-08-26 12:38:05 --> Output Class Initialized
+INFO - 2016-08-26 12:38:05 --> Security Class Initialized
+DEBUG - 2016-08-26 12:38:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:38:05 --> Input Class Initialized
+INFO - 2016-08-26 12:38:05 --> Language Class Initialized
+ERROR - 2016-08-26 12:38:05 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:38:54 --> Config Class Initialized
+INFO - 2016-08-26 12:38:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:38:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:38:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:38:54 --> URI Class Initialized
+INFO - 2016-08-26 12:38:54 --> Router Class Initialized
+INFO - 2016-08-26 12:38:54 --> Output Class Initialized
+INFO - 2016-08-26 12:38:54 --> Security Class Initialized
+DEBUG - 2016-08-26 12:38:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:38:54 --> Input Class Initialized
+INFO - 2016-08-26 12:38:54 --> Language Class Initialized
+INFO - 2016-08-26 12:38:54 --> Loader Class Initialized
+INFO - 2016-08-26 12:38:54 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:38:54 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:38:54 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:38:54 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:38:54 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:38:54 --> Email Class Initialized
+INFO - 2016-08-26 12:38:54 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:38:54 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:38:54 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:38:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:38:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:38:54 --> Model Class Initialized
+INFO - 2016-08-26 12:38:54 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:38:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:38:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:38:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:38:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:38:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:38:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:38:54 --> Final output sent to browser
+DEBUG - 2016-08-26 12:38:54 --> Total execution time: 0.1156
+INFO - 2016-08-26 12:38:54 --> Config Class Initialized
+INFO - 2016-08-26 12:38:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:38:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:38:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:38:54 --> URI Class Initialized
+INFO - 2016-08-26 12:38:54 --> Router Class Initialized
+INFO - 2016-08-26 12:38:54 --> Output Class Initialized
+INFO - 2016-08-26 12:38:54 --> Security Class Initialized
+DEBUG - 2016-08-26 12:38:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:38:54 --> Input Class Initialized
+INFO - 2016-08-26 12:38:54 --> Language Class Initialized
+ERROR - 2016-08-26 12:38:54 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:39:18 --> Config Class Initialized
+INFO - 2016-08-26 12:39:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:39:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:39:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:39:18 --> URI Class Initialized
+INFO - 2016-08-26 12:39:18 --> Router Class Initialized
+INFO - 2016-08-26 12:39:18 --> Output Class Initialized
+INFO - 2016-08-26 12:39:18 --> Security Class Initialized
+DEBUG - 2016-08-26 12:39:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:39:18 --> Input Class Initialized
+INFO - 2016-08-26 12:39:18 --> Language Class Initialized
+INFO - 2016-08-26 12:39:18 --> Loader Class Initialized
+INFO - 2016-08-26 12:39:18 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:39:18 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:39:18 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:39:18 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:39:18 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:39:18 --> Email Class Initialized
+INFO - 2016-08-26 12:39:18 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:39:18 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:39:18 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:39:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:39:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:39:18 --> Model Class Initialized
+INFO - 2016-08-26 12:39:18 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:39:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:39:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:39:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:39:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:39:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:39:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:39:18 --> Final output sent to browser
+DEBUG - 2016-08-26 12:39:18 --> Total execution time: 0.1114
+INFO - 2016-08-26 12:39:18 --> Config Class Initialized
+INFO - 2016-08-26 12:39:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:39:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:39:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:39:18 --> URI Class Initialized
+INFO - 2016-08-26 12:39:18 --> Router Class Initialized
+INFO - 2016-08-26 12:39:18 --> Output Class Initialized
+INFO - 2016-08-26 12:39:18 --> Security Class Initialized
+DEBUG - 2016-08-26 12:39:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:39:18 --> Input Class Initialized
+INFO - 2016-08-26 12:39:18 --> Language Class Initialized
+ERROR - 2016-08-26 12:39:18 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:39:23 --> Config Class Initialized
+INFO - 2016-08-26 12:39:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:39:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:39:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:39:23 --> URI Class Initialized
+INFO - 2016-08-26 12:39:23 --> Router Class Initialized
+INFO - 2016-08-26 12:39:23 --> Output Class Initialized
+INFO - 2016-08-26 12:39:23 --> Security Class Initialized
+DEBUG - 2016-08-26 12:39:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:39:23 --> Input Class Initialized
+INFO - 2016-08-26 12:39:23 --> Language Class Initialized
+INFO - 2016-08-26 12:39:23 --> Loader Class Initialized
+INFO - 2016-08-26 12:39:23 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:39:23 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:39:23 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:39:23 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:39:23 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:39:23 --> Email Class Initialized
+INFO - 2016-08-26 12:39:23 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:39:23 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:39:23 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:39:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:39:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:39:23 --> Model Class Initialized
+INFO - 2016-08-26 12:39:23 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:39:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:39:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:39:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:39:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:39:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:39:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:39:23 --> Final output sent to browser
+DEBUG - 2016-08-26 12:39:23 --> Total execution time: 0.1027
+INFO - 2016-08-26 12:39:24 --> Config Class Initialized
+INFO - 2016-08-26 12:39:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:39:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:39:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:39:24 --> URI Class Initialized
+INFO - 2016-08-26 12:39:24 --> Router Class Initialized
+INFO - 2016-08-26 12:39:24 --> Output Class Initialized
+INFO - 2016-08-26 12:39:24 --> Security Class Initialized
+DEBUG - 2016-08-26 12:39:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:39:24 --> Input Class Initialized
+INFO - 2016-08-26 12:39:24 --> Language Class Initialized
+ERROR - 2016-08-26 12:39:24 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:39:30 --> Config Class Initialized
+INFO - 2016-08-26 12:39:30 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:39:30 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:39:30 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:39:30 --> URI Class Initialized
+INFO - 2016-08-26 12:39:30 --> Router Class Initialized
+INFO - 2016-08-26 12:39:30 --> Output Class Initialized
+INFO - 2016-08-26 12:39:30 --> Security Class Initialized
+DEBUG - 2016-08-26 12:39:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:39:30 --> Input Class Initialized
+INFO - 2016-08-26 12:39:30 --> Language Class Initialized
+INFO - 2016-08-26 12:39:30 --> Loader Class Initialized
+INFO - 2016-08-26 12:39:30 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:39:30 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:39:30 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:39:30 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:39:30 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:39:30 --> Email Class Initialized
+INFO - 2016-08-26 12:39:30 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:39:30 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:39:30 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:39:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:39:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:39:30 --> Model Class Initialized
+INFO - 2016-08-26 12:39:30 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:39:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:39:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 12:39:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:39:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:39:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:39:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:39:30 --> Final output sent to browser
+DEBUG - 2016-08-26 12:39:30 --> Total execution time: 0.1089
+INFO - 2016-08-26 12:39:30 --> Config Class Initialized
+INFO - 2016-08-26 12:39:30 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:39:30 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:39:30 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:39:31 --> URI Class Initialized
+INFO - 2016-08-26 12:39:31 --> Router Class Initialized
+INFO - 2016-08-26 12:39:31 --> Output Class Initialized
+INFO - 2016-08-26 12:39:31 --> Security Class Initialized
+DEBUG - 2016-08-26 12:39:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:39:31 --> Input Class Initialized
+INFO - 2016-08-26 12:39:31 --> Language Class Initialized
+ERROR - 2016-08-26 12:39:31 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:40:11 --> Config Class Initialized
+INFO - 2016-08-26 12:40:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:11 --> URI Class Initialized
+INFO - 2016-08-26 12:40:11 --> Router Class Initialized
+INFO - 2016-08-26 12:40:11 --> Output Class Initialized
+INFO - 2016-08-26 12:40:11 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:11 --> Input Class Initialized
+INFO - 2016-08-26 12:40:11 --> Language Class Initialized
+INFO - 2016-08-26 12:40:11 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:11 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:11 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:11 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:11 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:11 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:11 --> Email Class Initialized
+INFO - 2016-08-26 12:40:11 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:11 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:11 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:11 --> Model Class Initialized
+INFO - 2016-08-26 12:40:11 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:11 --> Model Class Initialized
+INFO - 2016-08-26 12:40:11 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:11 --> Model Class Initialized
+INFO - 2016-08-26 12:40:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dosen/list_dosen_view.php
+INFO - 2016-08-26 12:40:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:11 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:11 --> Total execution time: 0.1038
+INFO - 2016-08-26 12:40:11 --> Config Class Initialized
+INFO - 2016-08-26 12:40:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:11 --> URI Class Initialized
+INFO - 2016-08-26 12:40:11 --> Router Class Initialized
+INFO - 2016-08-26 12:40:11 --> Output Class Initialized
+INFO - 2016-08-26 12:40:11 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:11 --> Input Class Initialized
+INFO - 2016-08-26 12:40:11 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:11 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:40:33 --> Config Class Initialized
+INFO - 2016-08-26 12:40:33 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:33 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:33 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:33 --> URI Class Initialized
+INFO - 2016-08-26 12:40:33 --> Router Class Initialized
+INFO - 2016-08-26 12:40:33 --> Output Class Initialized
+INFO - 2016-08-26 12:40:33 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:33 --> Input Class Initialized
+INFO - 2016-08-26 12:40:33 --> Language Class Initialized
+INFO - 2016-08-26 12:40:33 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:33 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:33 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:33 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:33 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:33 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:33 --> Email Class Initialized
+INFO - 2016-08-26 12:40:33 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:33 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:33 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:33 --> Model Class Initialized
+INFO - 2016-08-26 12:40:33 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:33 --> Model Class Initialized
+INFO - 2016-08-26 12:40:33 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:33 --> Model Class Initialized
+INFO - 2016-08-26 12:40:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dosen/list_dosen_view.php
+INFO - 2016-08-26 12:40:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:33 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:33 --> Total execution time: 0.1055
+INFO - 2016-08-26 12:40:33 --> Config Class Initialized
+INFO - 2016-08-26 12:40:33 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:33 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:33 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:33 --> URI Class Initialized
+INFO - 2016-08-26 12:40:33 --> Router Class Initialized
+INFO - 2016-08-26 12:40:33 --> Output Class Initialized
+INFO - 2016-08-26 12:40:33 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:33 --> Input Class Initialized
+INFO - 2016-08-26 12:40:33 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:33 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:40:34 --> Config Class Initialized
+INFO - 2016-08-26 12:40:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:34 --> URI Class Initialized
+INFO - 2016-08-26 12:40:34 --> Router Class Initialized
+INFO - 2016-08-26 12:40:34 --> Output Class Initialized
+INFO - 2016-08-26 12:40:34 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:34 --> Input Class Initialized
+INFO - 2016-08-26 12:40:34 --> Language Class Initialized
+INFO - 2016-08-26 12:40:34 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:34 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:34 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:34 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:34 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:34 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:34 --> Email Class Initialized
+INFO - 2016-08-26 12:40:34 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:34 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:34 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:34 --> Model Class Initialized
+INFO - 2016-08-26 12:40:34 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:34 --> Model Class Initialized
+INFO - 2016-08-26 12:40:34 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:34 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:40:34 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:40:34 --> Model Class Initialized
+INFO - 2016-08-26 12:40:34 --> Model Class Initialized
+INFO - 2016-08-26 12:40:34 --> Model Class Initialized
+INFO - 2016-08-26 12:40:34 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:40:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:40:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:34 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:34 --> Total execution time: 0.1221
+INFO - 2016-08-26 12:40:34 --> Config Class Initialized
+INFO - 2016-08-26 12:40:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:34 --> URI Class Initialized
+INFO - 2016-08-26 12:40:34 --> Router Class Initialized
+INFO - 2016-08-26 12:40:34 --> Output Class Initialized
+INFO - 2016-08-26 12:40:34 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:34 --> Input Class Initialized
+INFO - 2016-08-26 12:40:34 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:34 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:40:44 --> Config Class Initialized
+INFO - 2016-08-26 12:40:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:44 --> URI Class Initialized
+INFO - 2016-08-26 12:40:44 --> Router Class Initialized
+INFO - 2016-08-26 12:40:44 --> Output Class Initialized
+INFO - 2016-08-26 12:40:44 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:44 --> Input Class Initialized
+INFO - 2016-08-26 12:40:44 --> Language Class Initialized
+INFO - 2016-08-26 12:40:44 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:44 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:44 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:44 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:44 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:44 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:44 --> Email Class Initialized
+INFO - 2016-08-26 12:40:44 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:44 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:44 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:44 --> Model Class Initialized
+INFO - 2016-08-26 12:40:44 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:44 --> Model Class Initialized
+INFO - 2016-08-26 12:40:44 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:44 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:40:44 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:40:44 --> Model Class Initialized
+INFO - 2016-08-26 12:40:44 --> Model Class Initialized
+INFO - 2016-08-26 12:40:44 --> Model Class Initialized
+INFO - 2016-08-26 12:40:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 12:40:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:44 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:44 --> Total execution time: 0.1551
+INFO - 2016-08-26 12:40:45 --> Config Class Initialized
+INFO - 2016-08-26 12:40:45 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:45 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:45 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:45 --> URI Class Initialized
+INFO - 2016-08-26 12:40:45 --> Router Class Initialized
+INFO - 2016-08-26 12:40:45 --> Output Class Initialized
+INFO - 2016-08-26 12:40:45 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:45 --> Input Class Initialized
+INFO - 2016-08-26 12:40:45 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:45 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:40:45 --> Config Class Initialized
+INFO - 2016-08-26 12:40:45 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:45 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:45 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:45 --> URI Class Initialized
+INFO - 2016-08-26 12:40:45 --> Router Class Initialized
+INFO - 2016-08-26 12:40:45 --> Output Class Initialized
+INFO - 2016-08-26 12:40:45 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:45 --> Input Class Initialized
+INFO - 2016-08-26 12:40:45 --> Language Class Initialized
+INFO - 2016-08-26 12:40:45 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:45 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:45 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:45 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:45 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:45 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:45 --> Email Class Initialized
+INFO - 2016-08-26 12:40:45 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:45 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:45 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:45 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:45 --> Model Class Initialized
+INFO - 2016-08-26 12:40:45 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:45 --> Model Class Initialized
+INFO - 2016-08-26 12:40:45 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:45 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:40:45 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:40:45 --> Model Class Initialized
+INFO - 2016-08-26 12:40:45 --> Model Class Initialized
+INFO - 2016-08-26 12:40:45 --> Model Class Initialized
+INFO - 2016-08-26 12:40:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 12:40:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:45 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:45 --> Total execution time: 0.1080
+INFO - 2016-08-26 12:40:46 --> Config Class Initialized
+INFO - 2016-08-26 12:40:46 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:46 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:46 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:46 --> URI Class Initialized
+INFO - 2016-08-26 12:40:46 --> Router Class Initialized
+INFO - 2016-08-26 12:40:46 --> Output Class Initialized
+INFO - 2016-08-26 12:40:46 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:46 --> Input Class Initialized
+INFO - 2016-08-26 12:40:46 --> Language Class Initialized
+INFO - 2016-08-26 12:40:46 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:46 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:46 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:46 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:46 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:47 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:47 --> Email Class Initialized
+INFO - 2016-08-26 12:40:47 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:47 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:47 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:47 --> Model Class Initialized
+INFO - 2016-08-26 12:40:47 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:47 --> Model Class Initialized
+INFO - 2016-08-26 12:40:47 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:47 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:40:47 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:40:47 --> Model Class Initialized
+INFO - 2016-08-26 12:40:47 --> Model Class Initialized
+INFO - 2016-08-26 12:40:47 --> Model Class Initialized
+INFO - 2016-08-26 12:40:47 --> Model Class Initialized
+INFO - 2016-08-26 12:40:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 12:40:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:47 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:47 --> Total execution time: 0.1655
+INFO - 2016-08-26 12:40:47 --> Config Class Initialized
+INFO - 2016-08-26 12:40:47 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:47 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:47 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:47 --> URI Class Initialized
+INFO - 2016-08-26 12:40:47 --> Router Class Initialized
+INFO - 2016-08-26 12:40:47 --> Output Class Initialized
+INFO - 2016-08-26 12:40:47 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:47 --> Input Class Initialized
+INFO - 2016-08-26 12:40:47 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:47 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:40:47 --> Config Class Initialized
+INFO - 2016-08-26 12:40:47 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:47 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:47 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:47 --> URI Class Initialized
+INFO - 2016-08-26 12:40:47 --> Router Class Initialized
+INFO - 2016-08-26 12:40:47 --> Output Class Initialized
+INFO - 2016-08-26 12:40:47 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:47 --> Input Class Initialized
+INFO - 2016-08-26 12:40:47 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:47 --> 404 Page Not Found: admin/Mahasiswa/favicon.ico
+INFO - 2016-08-26 12:40:55 --> Config Class Initialized
+INFO - 2016-08-26 12:40:55 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:55 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:55 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:55 --> URI Class Initialized
+INFO - 2016-08-26 12:40:55 --> Router Class Initialized
+INFO - 2016-08-26 12:40:55 --> Output Class Initialized
+INFO - 2016-08-26 12:40:55 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:55 --> Input Class Initialized
+INFO - 2016-08-26 12:40:55 --> Language Class Initialized
+INFO - 2016-08-26 12:40:55 --> Loader Class Initialized
+INFO - 2016-08-26 12:40:55 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:40:55 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:40:55 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:40:55 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:40:55 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:40:55 --> Email Class Initialized
+INFO - 2016-08-26 12:40:55 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:40:55 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:40:55 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:40:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:40:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:40:55 --> Model Class Initialized
+INFO - 2016-08-26 12:40:56 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:40:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:40:56 --> Model Class Initialized
+INFO - 2016-08-26 12:40:56 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:40:56 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:40:56 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:40:56 --> Model Class Initialized
+INFO - 2016-08-26 12:40:56 --> Model Class Initialized
+INFO - 2016-08-26 12:40:56 --> Model Class Initialized
+INFO - 2016-08-26 12:40:56 --> Helper loaded: file_helper
+INFO - 2016-08-26 12:40:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 12:40:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:40:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:40:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:40:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:40:56 --> Final output sent to browser
+DEBUG - 2016-08-26 12:40:56 --> Total execution time: 0.1472
+INFO - 2016-08-26 12:40:56 --> Config Class Initialized
+INFO - 2016-08-26 12:40:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:40:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:40:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:40:56 --> URI Class Initialized
+INFO - 2016-08-26 12:40:56 --> Router Class Initialized
+INFO - 2016-08-26 12:40:56 --> Output Class Initialized
+INFO - 2016-08-26 12:40:56 --> Security Class Initialized
+DEBUG - 2016-08-26 12:40:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:40:56 --> Input Class Initialized
+INFO - 2016-08-26 12:40:56 --> Language Class Initialized
+ERROR - 2016-08-26 12:40:56 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:41:00 --> Config Class Initialized
+INFO - 2016-08-26 12:41:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:41:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:41:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:41:00 --> URI Class Initialized
+INFO - 2016-08-26 12:41:00 --> Router Class Initialized
+INFO - 2016-08-26 12:41:00 --> Output Class Initialized
+INFO - 2016-08-26 12:41:00 --> Security Class Initialized
+DEBUG - 2016-08-26 12:41:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:41:00 --> Input Class Initialized
+INFO - 2016-08-26 12:41:00 --> Language Class Initialized
+INFO - 2016-08-26 12:41:00 --> Loader Class Initialized
+INFO - 2016-08-26 12:41:00 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:41:00 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:41:00 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:41:00 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:41:00 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:41:00 --> Email Class Initialized
+INFO - 2016-08-26 12:41:00 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:41:00 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:41:00 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:41:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:41:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:41:00 --> Model Class Initialized
+INFO - 2016-08-26 12:41:00 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:41:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:41:00 --> Model Class Initialized
+INFO - 2016-08-26 12:41:00 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:41:00 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:41:00 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:41:00 --> Model Class Initialized
+INFO - 2016-08-26 12:41:00 --> Model Class Initialized
+INFO - 2016-08-26 12:41:00 --> Model Class Initialized
+INFO - 2016-08-26 12:41:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 12:41:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:41:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:41:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:41:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:41:00 --> Final output sent to browser
+DEBUG - 2016-08-26 12:41:00 --> Total execution time: 0.1231
+INFO - 2016-08-26 12:41:00 --> Config Class Initialized
+INFO - 2016-08-26 12:41:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:41:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:41:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:41:00 --> URI Class Initialized
+INFO - 2016-08-26 12:41:00 --> Router Class Initialized
+INFO - 2016-08-26 12:41:00 --> Output Class Initialized
+INFO - 2016-08-26 12:41:00 --> Security Class Initialized
+DEBUG - 2016-08-26 12:41:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:41:00 --> Input Class Initialized
+INFO - 2016-08-26 12:41:00 --> Language Class Initialized
+ERROR - 2016-08-26 12:41:00 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:41:02 --> Config Class Initialized
+INFO - 2016-08-26 12:41:02 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:41:02 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:41:02 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:41:02 --> URI Class Initialized
+INFO - 2016-08-26 12:41:02 --> Router Class Initialized
+INFO - 2016-08-26 12:41:02 --> Output Class Initialized
+INFO - 2016-08-26 12:41:02 --> Security Class Initialized
+DEBUG - 2016-08-26 12:41:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:41:02 --> Input Class Initialized
+INFO - 2016-08-26 12:41:02 --> Language Class Initialized
+INFO - 2016-08-26 12:41:02 --> Loader Class Initialized
+INFO - 2016-08-26 12:41:02 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:41:02 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:41:03 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:41:03 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:41:03 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:41:03 --> Email Class Initialized
+INFO - 2016-08-26 12:41:03 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:41:03 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:41:03 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:41:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:41:03 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:41:03 --> Model Class Initialized
+INFO - 2016-08-26 12:41:03 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:41:03 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:41:03 --> Model Class Initialized
+INFO - 2016-08-26 12:41:03 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:41:03 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:41:03 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:41:03 --> Model Class Initialized
+INFO - 2016-08-26 12:41:03 --> Model Class Initialized
+INFO - 2016-08-26 12:41:03 --> Model Class Initialized
+INFO - 2016-08-26 12:41:03 --> Model Class Initialized
+INFO - 2016-08-26 12:41:03 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 12:41:03 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:41:03 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:41:03 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:41:03 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:41:03 --> Final output sent to browser
+DEBUG - 2016-08-26 12:41:03 --> Total execution time: 0.1509
+INFO - 2016-08-26 12:41:03 --> Config Class Initialized
+INFO - 2016-08-26 12:41:03 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:41:03 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:41:03 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:41:03 --> URI Class Initialized
+INFO - 2016-08-26 12:41:03 --> Router Class Initialized
+INFO - 2016-08-26 12:41:03 --> Output Class Initialized
+INFO - 2016-08-26 12:41:03 --> Security Class Initialized
+DEBUG - 2016-08-26 12:41:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:41:03 --> Input Class Initialized
+INFO - 2016-08-26 12:41:03 --> Language Class Initialized
+ERROR - 2016-08-26 12:41:03 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:41:58 --> Config Class Initialized
+INFO - 2016-08-26 12:41:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:41:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:41:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:41:58 --> URI Class Initialized
+INFO - 2016-08-26 12:41:58 --> Router Class Initialized
+INFO - 2016-08-26 12:41:58 --> Output Class Initialized
+INFO - 2016-08-26 12:41:58 --> Security Class Initialized
+DEBUG - 2016-08-26 12:41:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:41:58 --> Input Class Initialized
+INFO - 2016-08-26 12:41:58 --> Language Class Initialized
+INFO - 2016-08-26 12:41:58 --> Loader Class Initialized
+INFO - 2016-08-26 12:41:58 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:41:58 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:41:58 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:41:58 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:41:58 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:41:58 --> Email Class Initialized
+INFO - 2016-08-26 12:41:58 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:41:58 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:41:58 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:41:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:41:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:41:58 --> Model Class Initialized
+INFO - 2016-08-26 12:41:58 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:41:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:41:58 --> Model Class Initialized
+INFO - 2016-08-26 12:41:58 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:41:58 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:41:58 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:41:58 --> Model Class Initialized
+INFO - 2016-08-26 12:41:58 --> Model Class Initialized
+INFO - 2016-08-26 12:41:58 --> Model Class Initialized
+INFO - 2016-08-26 12:41:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 12:41:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:41:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:41:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:41:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:41:58 --> Final output sent to browser
+DEBUG - 2016-08-26 12:41:58 --> Total execution time: 0.1424
+INFO - 2016-08-26 12:41:58 --> Config Class Initialized
+INFO - 2016-08-26 12:41:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:41:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:41:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:41:58 --> URI Class Initialized
+INFO - 2016-08-26 12:41:58 --> Router Class Initialized
+INFO - 2016-08-26 12:41:58 --> Output Class Initialized
+INFO - 2016-08-26 12:41:58 --> Security Class Initialized
+DEBUG - 2016-08-26 12:41:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:41:58 --> Input Class Initialized
+INFO - 2016-08-26 12:41:58 --> Language Class Initialized
+ERROR - 2016-08-26 12:41:58 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 12:42:01 --> Config Class Initialized
+INFO - 2016-08-26 12:42:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:42:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:42:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:42:01 --> URI Class Initialized
+INFO - 2016-08-26 12:42:01 --> Router Class Initialized
+INFO - 2016-08-26 12:42:01 --> Output Class Initialized
+INFO - 2016-08-26 12:42:01 --> Security Class Initialized
+DEBUG - 2016-08-26 12:42:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:42:01 --> Input Class Initialized
+INFO - 2016-08-26 12:42:01 --> Language Class Initialized
+INFO - 2016-08-26 12:42:01 --> Loader Class Initialized
+INFO - 2016-08-26 12:42:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 12:42:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 12:42:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 12:42:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 12:42:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 12:42:01 --> Email Class Initialized
+INFO - 2016-08-26 12:42:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 12:42:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 12:42:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 12:42:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 12:42:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 12:42:01 --> Model Class Initialized
+INFO - 2016-08-26 12:42:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 12:42:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 12:42:01 --> Model Class Initialized
+INFO - 2016-08-26 12:42:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 12:42:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 12:42:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 12:42:01 --> Model Class Initialized
+INFO - 2016-08-26 12:42:01 --> Model Class Initialized
+INFO - 2016-08-26 12:42:01 --> Model Class Initialized
+INFO - 2016-08-26 12:42:01 --> Model Class Initialized
+INFO - 2016-08-26 12:42:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 12:42:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 12:42:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 12:42:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 12:42:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 12:42:01 --> Final output sent to browser
+DEBUG - 2016-08-26 12:42:01 --> Total execution time: 0.1275
+INFO - 2016-08-26 12:42:01 --> Config Class Initialized
+INFO - 2016-08-26 12:42:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 12:42:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 12:42:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 12:42:01 --> URI Class Initialized
+INFO - 2016-08-26 12:42:01 --> Router Class Initialized
+INFO - 2016-08-26 12:42:01 --> Output Class Initialized
+INFO - 2016-08-26 12:42:01 --> Security Class Initialized
+DEBUG - 2016-08-26 12:42:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 12:42:01 --> Input Class Initialized
+INFO - 2016-08-26 12:42:01 --> Language Class Initialized
+ERROR - 2016-08-26 12:42:01 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:52:50 --> Config Class Initialized
+INFO - 2016-08-26 17:52:50 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:50 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:50 --> URI Class Initialized
+INFO - 2016-08-26 17:52:50 --> Router Class Initialized
+INFO - 2016-08-26 17:52:50 --> Output Class Initialized
+INFO - 2016-08-26 17:52:50 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:50 --> Input Class Initialized
+INFO - 2016-08-26 17:52:50 --> Language Class Initialized
+INFO - 2016-08-26 17:52:50 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:50 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:50 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:50 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:50 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:50 --> Email Class Initialized
+INFO - 2016-08-26 17:52:50 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:50 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:50 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:50 --> Model Class Initialized
+INFO - 2016-08-26 17:52:50 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:50 --> Config Class Initialized
+INFO - 2016-08-26 17:52:50 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:50 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:50 --> URI Class Initialized
+INFO - 2016-08-26 17:52:50 --> Router Class Initialized
+INFO - 2016-08-26 17:52:50 --> Output Class Initialized
+INFO - 2016-08-26 17:52:50 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:50 --> Input Class Initialized
+INFO - 2016-08-26 17:52:50 --> Language Class Initialized
+INFO - 2016-08-26 17:52:50 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:50 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:50 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:50 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:50 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:50 --> Email Class Initialized
+INFO - 2016-08-26 17:52:50 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:50 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:50 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:50 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:50 --> Model Class Initialized
+INFO - 2016-08-26 17:52:50 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:50 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:52:50 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:52:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/user/login_view.php
+INFO - 2016-08-26 17:52:50 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_auth_view.php
+INFO - 2016-08-26 17:52:50 --> Final output sent to browser
+DEBUG - 2016-08-26 17:52:50 --> Total execution time: 0.1453
+INFO - 2016-08-26 17:52:50 --> Config Class Initialized
+INFO - 2016-08-26 17:52:50 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:50 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:50 --> URI Class Initialized
+INFO - 2016-08-26 17:52:50 --> Router Class Initialized
+INFO - 2016-08-26 17:52:50 --> Output Class Initialized
+INFO - 2016-08-26 17:52:50 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:50 --> Input Class Initialized
+INFO - 2016-08-26 17:52:50 --> Language Class Initialized
+ERROR - 2016-08-26 17:52:50 --> 404 Page Not Found: admin/User/favicon.ico
+INFO - 2016-08-26 17:52:52 --> Config Class Initialized
+INFO - 2016-08-26 17:52:52 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:52 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:52 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:52 --> URI Class Initialized
+INFO - 2016-08-26 17:52:52 --> Router Class Initialized
+INFO - 2016-08-26 17:52:52 --> Output Class Initialized
+INFO - 2016-08-26 17:52:52 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:52 --> Input Class Initialized
+INFO - 2016-08-26 17:52:52 --> Language Class Initialized
+INFO - 2016-08-26 17:52:52 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:52 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:52 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:52 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:52 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:52 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:52 --> Email Class Initialized
+INFO - 2016-08-26 17:52:52 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:52 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:52 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:52 --> Model Class Initialized
+INFO - 2016-08-26 17:52:52 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:52 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:52:52 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:52:52 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:52:52 --> Config Class Initialized
+INFO - 2016-08-26 17:52:52 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:52 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:52 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:52 --> URI Class Initialized
+INFO - 2016-08-26 17:52:52 --> Router Class Initialized
+INFO - 2016-08-26 17:52:52 --> Output Class Initialized
+INFO - 2016-08-26 17:52:52 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:52 --> Input Class Initialized
+INFO - 2016-08-26 17:52:52 --> Language Class Initialized
+INFO - 2016-08-26 17:52:52 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:52 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:52 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:52 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:52 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:52 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:52 --> Email Class Initialized
+INFO - 2016-08-26 17:52:52 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:52 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:52 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:52 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:52 --> Model Class Initialized
+INFO - 2016-08-26 17:52:52 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:52:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/dashboard/dashboard_view.php
+INFO - 2016-08-26 17:52:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:52:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:52:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:52:52 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:52:52 --> Final output sent to browser
+DEBUG - 2016-08-26 17:52:52 --> Total execution time: 0.0967
+INFO - 2016-08-26 17:52:53 --> Config Class Initialized
+INFO - 2016-08-26 17:52:53 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:53 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:53 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:53 --> URI Class Initialized
+INFO - 2016-08-26 17:52:53 --> Router Class Initialized
+INFO - 2016-08-26 17:52:53 --> Output Class Initialized
+INFO - 2016-08-26 17:52:53 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:53 --> Input Class Initialized
+INFO - 2016-08-26 17:52:53 --> Language Class Initialized
+ERROR - 2016-08-26 17:52:53 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:52:54 --> Config Class Initialized
+INFO - 2016-08-26 17:52:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:54 --> URI Class Initialized
+INFO - 2016-08-26 17:52:54 --> Router Class Initialized
+INFO - 2016-08-26 17:52:54 --> Output Class Initialized
+INFO - 2016-08-26 17:52:54 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:54 --> Input Class Initialized
+INFO - 2016-08-26 17:52:54 --> Language Class Initialized
+INFO - 2016-08-26 17:52:54 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:54 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:54 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:54 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:54 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:54 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:54 --> Email Class Initialized
+INFO - 2016-08-26 17:52:54 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:54 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:54 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:54 --> Model Class Initialized
+INFO - 2016-08-26 17:52:54 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:52:54 --> Model Class Initialized
+INFO - 2016-08-26 17:52:54 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:52:54 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:52:54 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:52:54 --> Model Class Initialized
+INFO - 2016-08-26 17:52:54 --> Model Class Initialized
+INFO - 2016-08-26 17:52:54 --> Model Class Initialized
+INFO - 2016-08-26 17:52:54 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:52:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:52:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:52:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:52:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:52:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:52:54 --> Final output sent to browser
+DEBUG - 2016-08-26 17:52:54 --> Total execution time: 0.1323
+INFO - 2016-08-26 17:52:55 --> Config Class Initialized
+INFO - 2016-08-26 17:52:55 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:55 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:55 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:55 --> URI Class Initialized
+INFO - 2016-08-26 17:52:55 --> Router Class Initialized
+INFO - 2016-08-26 17:52:55 --> Output Class Initialized
+INFO - 2016-08-26 17:52:55 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:55 --> Input Class Initialized
+INFO - 2016-08-26 17:52:55 --> Language Class Initialized
+ERROR - 2016-08-26 17:52:55 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:52:57 --> Config Class Initialized
+INFO - 2016-08-26 17:52:57 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:57 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:57 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:57 --> URI Class Initialized
+INFO - 2016-08-26 17:52:57 --> Router Class Initialized
+INFO - 2016-08-26 17:52:57 --> Output Class Initialized
+INFO - 2016-08-26 17:52:57 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:57 --> Input Class Initialized
+INFO - 2016-08-26 17:52:57 --> Language Class Initialized
+INFO - 2016-08-26 17:52:57 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:57 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:57 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:57 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:57 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:57 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:57 --> Email Class Initialized
+INFO - 2016-08-26 17:52:57 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:57 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:57 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:57 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:57 --> Model Class Initialized
+INFO - 2016-08-26 17:52:57 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:57 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:52:57 --> Model Class Initialized
+INFO - 2016-08-26 17:52:57 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:52:57 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:52:57 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:52:57 --> Model Class Initialized
+INFO - 2016-08-26 17:52:57 --> Model Class Initialized
+INFO - 2016-08-26 17:52:57 --> Model Class Initialized
+INFO - 2016-08-26 17:52:57 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:52:57 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:52:57 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:52:57 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:52:57 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:52:57 --> Final output sent to browser
+DEBUG - 2016-08-26 17:52:57 --> Total execution time: 0.1123
+INFO - 2016-08-26 17:52:57 --> Config Class Initialized
+INFO - 2016-08-26 17:52:57 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:57 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:57 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:57 --> URI Class Initialized
+INFO - 2016-08-26 17:52:57 --> Router Class Initialized
+INFO - 2016-08-26 17:52:57 --> Output Class Initialized
+INFO - 2016-08-26 17:52:57 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:57 --> Input Class Initialized
+INFO - 2016-08-26 17:52:57 --> Language Class Initialized
+ERROR - 2016-08-26 17:52:57 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:52:58 --> Config Class Initialized
+INFO - 2016-08-26 17:52:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:58 --> URI Class Initialized
+INFO - 2016-08-26 17:52:58 --> Router Class Initialized
+INFO - 2016-08-26 17:52:58 --> Output Class Initialized
+INFO - 2016-08-26 17:52:58 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:58 --> Input Class Initialized
+INFO - 2016-08-26 17:52:58 --> Language Class Initialized
+INFO - 2016-08-26 17:52:58 --> Loader Class Initialized
+INFO - 2016-08-26 17:52:58 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:52:58 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:52:58 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:52:58 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:52:58 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:52:58 --> Email Class Initialized
+INFO - 2016-08-26 17:52:58 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:52:58 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:52:58 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:52:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:52:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:52:58 --> Model Class Initialized
+INFO - 2016-08-26 17:52:58 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:52:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:52:58 --> Model Class Initialized
+INFO - 2016-08-26 17:52:58 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:52:58 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:52:58 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:52:58 --> Model Class Initialized
+INFO - 2016-08-26 17:52:58 --> Model Class Initialized
+INFO - 2016-08-26 17:52:58 --> Model Class Initialized
+INFO - 2016-08-26 17:52:58 --> Model Class Initialized
+INFO - 2016-08-26 17:52:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:52:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:52:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:52:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:52:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:52:58 --> Final output sent to browser
+DEBUG - 2016-08-26 17:52:58 --> Total execution time: 0.1296
+INFO - 2016-08-26 17:52:58 --> Config Class Initialized
+INFO - 2016-08-26 17:52:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:52:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:52:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:52:58 --> URI Class Initialized
+INFO - 2016-08-26 17:52:58 --> Router Class Initialized
+INFO - 2016-08-26 17:52:58 --> Output Class Initialized
+INFO - 2016-08-26 17:52:58 --> Security Class Initialized
+DEBUG - 2016-08-26 17:52:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:52:58 --> Input Class Initialized
+INFO - 2016-08-26 17:52:58 --> Language Class Initialized
+ERROR - 2016-08-26 17:52:58 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:53:01 --> Config Class Initialized
+INFO - 2016-08-26 17:53:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:53:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:53:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:53:01 --> URI Class Initialized
+INFO - 2016-08-26 17:53:01 --> Router Class Initialized
+INFO - 2016-08-26 17:53:01 --> Output Class Initialized
+INFO - 2016-08-26 17:53:01 --> Security Class Initialized
+DEBUG - 2016-08-26 17:53:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:53:01 --> Input Class Initialized
+INFO - 2016-08-26 17:53:01 --> Language Class Initialized
+INFO - 2016-08-26 17:53:01 --> Loader Class Initialized
+INFO - 2016-08-26 17:53:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:53:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:53:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:53:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:53:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:53:01 --> Email Class Initialized
+INFO - 2016-08-26 17:53:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:53:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:53:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:53:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:53:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:53:01 --> Model Class Initialized
+INFO - 2016-08-26 17:53:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:53:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:53:01 --> Model Class Initialized
+INFO - 2016-08-26 17:53:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:53:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:53:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:53:01 --> Model Class Initialized
+INFO - 2016-08-26 17:53:01 --> Model Class Initialized
+INFO - 2016-08-26 17:53:01 --> Model Class Initialized
+INFO - 2016-08-26 17:53:01 --> Model Class Initialized
+INFO - 2016-08-26 17:53:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:53:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:53:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:53:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:53:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:53:01 --> Final output sent to browser
+DEBUG - 2016-08-26 17:53:01 --> Total execution time: 0.1200
+INFO - 2016-08-26 17:53:01 --> Config Class Initialized
+INFO - 2016-08-26 17:53:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:53:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:53:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:53:01 --> URI Class Initialized
+INFO - 2016-08-26 17:53:01 --> Router Class Initialized
+INFO - 2016-08-26 17:53:01 --> Output Class Initialized
+INFO - 2016-08-26 17:53:01 --> Security Class Initialized
+DEBUG - 2016-08-26 17:53:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:53:01 --> Input Class Initialized
+INFO - 2016-08-26 17:53:01 --> Language Class Initialized
+ERROR - 2016-08-26 17:53:01 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:53:18 --> Config Class Initialized
+INFO - 2016-08-26 17:53:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:53:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:53:18 --> URI Class Initialized
+INFO - 2016-08-26 17:53:18 --> Router Class Initialized
+INFO - 2016-08-26 17:53:18 --> Output Class Initialized
+INFO - 2016-08-26 17:53:18 --> Security Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:53:18 --> Input Class Initialized
+INFO - 2016-08-26 17:53:18 --> Language Class Initialized
+INFO - 2016-08-26 17:53:18 --> Loader Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:53:18 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:53:18 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:53:18 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:53:18 --> Email Class Initialized
+INFO - 2016-08-26 17:53:18 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:53:18 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:53:18 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:53:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:53:18 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:53:18 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Config Class Initialized
+INFO - 2016-08-26 17:53:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:53:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:53:18 --> URI Class Initialized
+INFO - 2016-08-26 17:53:18 --> Router Class Initialized
+INFO - 2016-08-26 17:53:18 --> Output Class Initialized
+INFO - 2016-08-26 17:53:18 --> Security Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:53:18 --> Input Class Initialized
+INFO - 2016-08-26 17:53:18 --> Language Class Initialized
+INFO - 2016-08-26 17:53:18 --> Loader Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:53:18 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:53:18 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:53:18 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:53:18 --> Email Class Initialized
+INFO - 2016-08-26 17:53:18 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:53:18 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:53:18 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:53:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:53:18 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:53:18 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Model Class Initialized
+INFO - 2016-08-26 17:53:18 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:53:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:53:18 --> Final output sent to browser
+DEBUG - 2016-08-26 17:53:18 --> Total execution time: 0.1353
+INFO - 2016-08-26 17:53:18 --> Config Class Initialized
+INFO - 2016-08-26 17:53:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:53:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:53:18 --> URI Class Initialized
+INFO - 2016-08-26 17:53:18 --> Router Class Initialized
+INFO - 2016-08-26 17:53:18 --> Output Class Initialized
+INFO - 2016-08-26 17:53:18 --> Security Class Initialized
+DEBUG - 2016-08-26 17:53:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:53:18 --> Input Class Initialized
+INFO - 2016-08-26 17:53:18 --> Language Class Initialized
+ERROR - 2016-08-26 17:53:18 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:54:13 --> Config Class Initialized
+INFO - 2016-08-26 17:54:13 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:13 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:13 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:13 --> URI Class Initialized
+INFO - 2016-08-26 17:54:13 --> Router Class Initialized
+INFO - 2016-08-26 17:54:13 --> Output Class Initialized
+INFO - 2016-08-26 17:54:13 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:13 --> Input Class Initialized
+INFO - 2016-08-26 17:54:13 --> Language Class Initialized
+INFO - 2016-08-26 17:54:13 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:13 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:13 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:13 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:13 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:13 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:13 --> Email Class Initialized
+INFO - 2016-08-26 17:54:13 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:13 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:13 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:13 --> Model Class Initialized
+INFO - 2016-08-26 17:54:13 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:13 --> Model Class Initialized
+INFO - 2016-08-26 17:54:13 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:13 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:13 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:13 --> Model Class Initialized
+INFO - 2016-08-26 17:54:13 --> Model Class Initialized
+INFO - 2016-08-26 17:54:13 --> Model Class Initialized
+INFO - 2016-08-26 17:54:13 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:54:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:54:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:54:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:54:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:54:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:54:13 --> Final output sent to browser
+DEBUG - 2016-08-26 17:54:13 --> Total execution time: 0.1357
+INFO - 2016-08-26 17:54:13 --> Config Class Initialized
+INFO - 2016-08-26 17:54:13 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:13 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:13 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:13 --> URI Class Initialized
+INFO - 2016-08-26 17:54:13 --> Router Class Initialized
+INFO - 2016-08-26 17:54:13 --> Output Class Initialized
+INFO - 2016-08-26 17:54:13 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:13 --> Input Class Initialized
+INFO - 2016-08-26 17:54:13 --> Language Class Initialized
+ERROR - 2016-08-26 17:54:13 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:54:16 --> Config Class Initialized
+INFO - 2016-08-26 17:54:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:16 --> URI Class Initialized
+INFO - 2016-08-26 17:54:16 --> Router Class Initialized
+INFO - 2016-08-26 17:54:16 --> Output Class Initialized
+INFO - 2016-08-26 17:54:16 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:16 --> Input Class Initialized
+INFO - 2016-08-26 17:54:16 --> Language Class Initialized
+INFO - 2016-08-26 17:54:16 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:16 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:16 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:16 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:16 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:16 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:17 --> Email Class Initialized
+INFO - 2016-08-26 17:54:17 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:17 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:17 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:17 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:17 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:17 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:54:17 --> Final output sent to browser
+DEBUG - 2016-08-26 17:54:17 --> Total execution time: 0.1197
+INFO - 2016-08-26 17:54:17 --> Config Class Initialized
+INFO - 2016-08-26 17:54:17 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:17 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:17 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:17 --> URI Class Initialized
+INFO - 2016-08-26 17:54:17 --> Router Class Initialized
+INFO - 2016-08-26 17:54:17 --> Output Class Initialized
+INFO - 2016-08-26 17:54:17 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:17 --> Input Class Initialized
+INFO - 2016-08-26 17:54:17 --> Language Class Initialized
+INFO - 2016-08-26 17:54:17 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:17 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:17 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:17 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:17 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:17 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:17 --> Email Class Initialized
+INFO - 2016-08-26 17:54:17 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:17 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:17 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:17 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:17 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:17 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:17 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Model Class Initialized
+INFO - 2016-08-26 17:54:17 --> Config Class Initialized
+INFO - 2016-08-26 17:54:17 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:17 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:17 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:17 --> URI Class Initialized
+INFO - 2016-08-26 17:54:17 --> Router Class Initialized
+INFO - 2016-08-26 17:54:17 --> Output Class Initialized
+INFO - 2016-08-26 17:54:17 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:17 --> Input Class Initialized
+INFO - 2016-08-26 17:54:17 --> Language Class Initialized
+ERROR - 2016-08-26 17:54:17 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:54:20 --> Config Class Initialized
+INFO - 2016-08-26 17:54:20 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:20 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:20 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:20 --> URI Class Initialized
+INFO - 2016-08-26 17:54:20 --> Router Class Initialized
+INFO - 2016-08-26 17:54:20 --> Output Class Initialized
+INFO - 2016-08-26 17:54:20 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:20 --> Input Class Initialized
+INFO - 2016-08-26 17:54:20 --> Language Class Initialized
+INFO - 2016-08-26 17:54:20 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:20 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:20 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:20 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:20 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:20 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:20 --> Email Class Initialized
+INFO - 2016-08-26 17:54:20 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:20 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:20 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:20 --> Model Class Initialized
+INFO - 2016-08-26 17:54:20 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:20 --> Model Class Initialized
+INFO - 2016-08-26 17:54:20 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:20 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:20 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:20 --> Model Class Initialized
+INFO - 2016-08-26 17:54:20 --> Model Class Initialized
+INFO - 2016-08-26 17:54:20 --> Model Class Initialized
+INFO - 2016-08-26 17:54:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:54:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:54:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:54:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:54:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:54:20 --> Final output sent to browser
+DEBUG - 2016-08-26 17:54:20 --> Total execution time: 0.1111
+INFO - 2016-08-26 17:54:20 --> Config Class Initialized
+INFO - 2016-08-26 17:54:20 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:20 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:20 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:20 --> URI Class Initialized
+INFO - 2016-08-26 17:54:20 --> Router Class Initialized
+INFO - 2016-08-26 17:54:20 --> Output Class Initialized
+INFO - 2016-08-26 17:54:20 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:20 --> Input Class Initialized
+INFO - 2016-08-26 17:54:20 --> Language Class Initialized
+ERROR - 2016-08-26 17:54:20 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:54:23 --> Config Class Initialized
+INFO - 2016-08-26 17:54:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:23 --> URI Class Initialized
+INFO - 2016-08-26 17:54:23 --> Router Class Initialized
+INFO - 2016-08-26 17:54:23 --> Output Class Initialized
+INFO - 2016-08-26 17:54:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:23 --> Input Class Initialized
+INFO - 2016-08-26 17:54:23 --> Language Class Initialized
+INFO - 2016-08-26 17:54:23 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:23 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:23 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:23 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:23 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:23 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:23 --> Email Class Initialized
+INFO - 2016-08-26 17:54:23 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:23 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:23 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:23 --> Model Class Initialized
+INFO - 2016-08-26 17:54:23 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:23 --> Model Class Initialized
+INFO - 2016-08-26 17:54:23 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:23 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:23 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:23 --> Model Class Initialized
+INFO - 2016-08-26 17:54:23 --> Model Class Initialized
+INFO - 2016-08-26 17:54:23 --> Model Class Initialized
+INFO - 2016-08-26 17:54:23 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:54:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:54:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:54:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:54:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:54:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:54:23 --> Final output sent to browser
+DEBUG - 2016-08-26 17:54:23 --> Total execution time: 0.1190
+INFO - 2016-08-26 17:54:23 --> Config Class Initialized
+INFO - 2016-08-26 17:54:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:23 --> URI Class Initialized
+INFO - 2016-08-26 17:54:23 --> Router Class Initialized
+INFO - 2016-08-26 17:54:23 --> Output Class Initialized
+INFO - 2016-08-26 17:54:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:23 --> Input Class Initialized
+INFO - 2016-08-26 17:54:23 --> Language Class Initialized
+ERROR - 2016-08-26 17:54:23 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:54:26 --> Config Class Initialized
+INFO - 2016-08-26 17:54:26 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:26 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:26 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:26 --> URI Class Initialized
+INFO - 2016-08-26 17:54:26 --> Router Class Initialized
+INFO - 2016-08-26 17:54:26 --> Output Class Initialized
+INFO - 2016-08-26 17:54:26 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:26 --> Input Class Initialized
+INFO - 2016-08-26 17:54:26 --> Language Class Initialized
+INFO - 2016-08-26 17:54:26 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:26 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:26 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:26 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:26 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:26 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:26 --> Email Class Initialized
+INFO - 2016-08-26 17:54:26 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:26 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:26 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:26 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:26 --> Model Class Initialized
+INFO - 2016-08-26 17:54:26 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:26 --> Model Class Initialized
+INFO - 2016-08-26 17:54:26 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:26 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:26 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:26 --> Model Class Initialized
+INFO - 2016-08-26 17:54:26 --> Model Class Initialized
+INFO - 2016-08-26 17:54:26 --> Model Class Initialized
+INFO - 2016-08-26 17:54:26 --> Model Class Initialized
+INFO - 2016-08-26 17:54:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:54:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:54:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:54:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:54:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:54:26 --> Final output sent to browser
+DEBUG - 2016-08-26 17:54:26 --> Total execution time: 0.1143
+INFO - 2016-08-26 17:54:26 --> Config Class Initialized
+INFO - 2016-08-26 17:54:26 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:26 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:26 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:26 --> URI Class Initialized
+INFO - 2016-08-26 17:54:26 --> Router Class Initialized
+INFO - 2016-08-26 17:54:26 --> Output Class Initialized
+INFO - 2016-08-26 17:54:26 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:26 --> Input Class Initialized
+INFO - 2016-08-26 17:54:26 --> Language Class Initialized
+ERROR - 2016-08-26 17:54:26 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:54:56 --> Config Class Initialized
+INFO - 2016-08-26 17:54:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:56 --> URI Class Initialized
+INFO - 2016-08-26 17:54:56 --> Router Class Initialized
+INFO - 2016-08-26 17:54:56 --> Output Class Initialized
+INFO - 2016-08-26 17:54:56 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:56 --> Input Class Initialized
+INFO - 2016-08-26 17:54:56 --> Language Class Initialized
+INFO - 2016-08-26 17:54:56 --> Loader Class Initialized
+INFO - 2016-08-26 17:54:56 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:54:56 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:54:56 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:54:56 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:54:56 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:54:56 --> Email Class Initialized
+INFO - 2016-08-26 17:54:56 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:54:56 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:54:56 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:54:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:54:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:54:56 --> Model Class Initialized
+INFO - 2016-08-26 17:54:56 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:54:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:54:56 --> Model Class Initialized
+INFO - 2016-08-26 17:54:56 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:54:56 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:54:56 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:54:56 --> Model Class Initialized
+INFO - 2016-08-26 17:54:56 --> Model Class Initialized
+INFO - 2016-08-26 17:54:56 --> Model Class Initialized
+INFO - 2016-08-26 17:54:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:54:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:54:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:54:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:54:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:54:56 --> Final output sent to browser
+DEBUG - 2016-08-26 17:54:56 --> Total execution time: 0.1168
+INFO - 2016-08-26 17:54:56 --> Config Class Initialized
+INFO - 2016-08-26 17:54:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:54:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:54:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:54:56 --> URI Class Initialized
+INFO - 2016-08-26 17:54:56 --> Router Class Initialized
+INFO - 2016-08-26 17:54:56 --> Output Class Initialized
+INFO - 2016-08-26 17:54:56 --> Security Class Initialized
+DEBUG - 2016-08-26 17:54:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:54:56 --> Input Class Initialized
+INFO - 2016-08-26 17:54:56 --> Language Class Initialized
+ERROR - 2016-08-26 17:54:56 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:55:08 --> Config Class Initialized
+INFO - 2016-08-26 17:55:08 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:08 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:08 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:08 --> URI Class Initialized
+INFO - 2016-08-26 17:55:08 --> Router Class Initialized
+INFO - 2016-08-26 17:55:08 --> Output Class Initialized
+INFO - 2016-08-26 17:55:08 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:08 --> Input Class Initialized
+INFO - 2016-08-26 17:55:08 --> Language Class Initialized
+INFO - 2016-08-26 17:55:08 --> Loader Class Initialized
+INFO - 2016-08-26 17:55:08 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:55:08 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:55:08 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:55:08 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:55:08 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:55:08 --> Email Class Initialized
+INFO - 2016-08-26 17:55:08 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:55:08 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:55:08 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:55:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:55:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:55:08 --> Model Class Initialized
+INFO - 2016-08-26 17:55:08 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:55:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:55:08 --> Model Class Initialized
+INFO - 2016-08-26 17:55:08 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:55:08 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:55:08 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:55:08 --> Model Class Initialized
+INFO - 2016-08-26 17:55:08 --> Model Class Initialized
+INFO - 2016-08-26 17:55:08 --> Model Class Initialized
+INFO - 2016-08-26 17:55:08 --> Model Class Initialized
+INFO - 2016-08-26 17:55:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:55:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:55:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:55:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:55:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:55:08 --> Final output sent to browser
+DEBUG - 2016-08-26 17:55:08 --> Total execution time: 0.1192
+INFO - 2016-08-26 17:55:08 --> Config Class Initialized
+INFO - 2016-08-26 17:55:08 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:08 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:08 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:08 --> URI Class Initialized
+INFO - 2016-08-26 17:55:08 --> Router Class Initialized
+INFO - 2016-08-26 17:55:08 --> Output Class Initialized
+INFO - 2016-08-26 17:55:08 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:08 --> Input Class Initialized
+INFO - 2016-08-26 17:55:08 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:08 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:55:10 --> Config Class Initialized
+INFO - 2016-08-26 17:55:10 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:10 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:10 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:10 --> URI Class Initialized
+INFO - 2016-08-26 17:55:10 --> Router Class Initialized
+INFO - 2016-08-26 17:55:10 --> Output Class Initialized
+INFO - 2016-08-26 17:55:10 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:10 --> Input Class Initialized
+INFO - 2016-08-26 17:55:10 --> Language Class Initialized
+INFO - 2016-08-26 17:55:10 --> Loader Class Initialized
+INFO - 2016-08-26 17:55:10 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:55:10 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:55:10 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:55:10 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:55:10 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:55:10 --> Email Class Initialized
+INFO - 2016-08-26 17:55:10 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:55:10 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:55:10 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:55:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:55:10 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:55:10 --> Model Class Initialized
+INFO - 2016-08-26 17:55:10 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:55:10 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:55:10 --> Model Class Initialized
+INFO - 2016-08-26 17:55:10 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:55:10 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:55:10 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:55:10 --> Model Class Initialized
+INFO - 2016-08-26 17:55:10 --> Model Class Initialized
+INFO - 2016-08-26 17:55:10 --> Model Class Initialized
+INFO - 2016-08-26 17:55:10 --> Model Class Initialized
+INFO - 2016-08-26 17:55:10 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:55:10 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:55:10 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:55:10 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:55:10 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:55:10 --> Final output sent to browser
+DEBUG - 2016-08-26 17:55:10 --> Total execution time: 0.1516
+INFO - 2016-08-26 17:55:11 --> Config Class Initialized
+INFO - 2016-08-26 17:55:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:11 --> URI Class Initialized
+INFO - 2016-08-26 17:55:11 --> Router Class Initialized
+INFO - 2016-08-26 17:55:11 --> Output Class Initialized
+INFO - 2016-08-26 17:55:11 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:11 --> Input Class Initialized
+INFO - 2016-08-26 17:55:11 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:11 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 17:55:11 --> Config Class Initialized
+INFO - 2016-08-26 17:55:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:11 --> URI Class Initialized
+INFO - 2016-08-26 17:55:11 --> Router Class Initialized
+INFO - 2016-08-26 17:55:11 --> Output Class Initialized
+INFO - 2016-08-26 17:55:11 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:11 --> Input Class Initialized
+INFO - 2016-08-26 17:55:11 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:11 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:55:11 --> Config Class Initialized
+INFO - 2016-08-26 17:55:11 --> Hooks Class Initialized
+INFO - 2016-08-26 17:55:11 --> Config Class Initialized
+INFO - 2016-08-26 17:55:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:11 --> Utf8 Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:11 --> URI Class Initialized
+INFO - 2016-08-26 17:55:11 --> URI Class Initialized
+INFO - 2016-08-26 17:55:11 --> Router Class Initialized
+INFO - 2016-08-26 17:55:11 --> Output Class Initialized
+INFO - 2016-08-26 17:55:11 --> Router Class Initialized
+INFO - 2016-08-26 17:55:11 --> Security Class Initialized
+INFO - 2016-08-26 17:55:11 --> Output Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:11 --> Security Class Initialized
+INFO - 2016-08-26 17:55:11 --> Input Class Initialized
+INFO - 2016-08-26 17:55:11 --> Language Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:11 --> Input Class Initialized
+INFO - 2016-08-26 17:55:11 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:11 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 17:55:11 --> Loader Class Initialized
+INFO - 2016-08-26 17:55:11 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:55:11 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:55:11 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:55:11 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:55:11 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:55:11 --> Email Class Initialized
+INFO - 2016-08-26 17:55:11 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:55:11 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:55:11 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:55:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:55:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:55:11 --> Model Class Initialized
+INFO - 2016-08-26 17:55:11 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:55:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:55:11 --> Model Class Initialized
+INFO - 2016-08-26 17:55:11 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:55:11 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:55:11 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:55:11 --> Model Class Initialized
+INFO - 2016-08-26 17:55:11 --> Model Class Initialized
+INFO - 2016-08-26 17:55:11 --> Model Class Initialized
+INFO - 2016-08-26 17:55:11 --> Model Class Initialized
+INFO - 2016-08-26 17:55:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:55:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:55:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:55:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:55:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:55:11 --> Final output sent to browser
+DEBUG - 2016-08-26 17:55:11 --> Total execution time: 0.1396
+INFO - 2016-08-26 17:55:23 --> Config Class Initialized
+INFO - 2016-08-26 17:55:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:23 --> URI Class Initialized
+INFO - 2016-08-26 17:55:23 --> Router Class Initialized
+INFO - 2016-08-26 17:55:23 --> Output Class Initialized
+INFO - 2016-08-26 17:55:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:23 --> Input Class Initialized
+INFO - 2016-08-26 17:55:23 --> Language Class Initialized
+INFO - 2016-08-26 17:55:23 --> Loader Class Initialized
+INFO - 2016-08-26 17:55:23 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:55:23 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:55:23 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:55:23 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:55:23 --> Email Class Initialized
+INFO - 2016-08-26 17:55:23 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:55:23 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:55:23 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:55:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:55:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:55:23 --> Model Class Initialized
+INFO - 2016-08-26 17:55:23 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:55:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:55:23 --> Model Class Initialized
+INFO - 2016-08-26 17:55:23 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:55:23 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:55:23 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:55:23 --> Model Class Initialized
+INFO - 2016-08-26 17:55:23 --> Model Class Initialized
+INFO - 2016-08-26 17:55:23 --> Model Class Initialized
+INFO - 2016-08-26 17:55:23 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:55:23 --> Model Class Initialized
+INFO - 2016-08-26 17:55:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:55:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:55:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:55:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:55:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:55:23 --> Final output sent to browser
+DEBUG - 2016-08-26 17:55:23 --> Total execution time: 0.1145
+INFO - 2016-08-26 17:55:23 --> Config Class Initialized
+INFO - 2016-08-26 17:55:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:23 --> URI Class Initialized
+INFO - 2016-08-26 17:55:23 --> Router Class Initialized
+INFO - 2016-08-26 17:55:23 --> Output Class Initialized
+INFO - 2016-08-26 17:55:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:23 --> Input Class Initialized
+INFO - 2016-08-26 17:55:23 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:23 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 17:55:23 --> Config Class Initialized
+INFO - 2016-08-26 17:55:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:23 --> URI Class Initialized
+INFO - 2016-08-26 17:55:23 --> Router Class Initialized
+INFO - 2016-08-26 17:55:23 --> Output Class Initialized
+INFO - 2016-08-26 17:55:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:23 --> Input Class Initialized
+INFO - 2016-08-26 17:55:23 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:23 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:55:23 --> Config Class Initialized
+INFO - 2016-08-26 17:55:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:23 --> URI Class Initialized
+INFO - 2016-08-26 17:55:23 --> Router Class Initialized
+INFO - 2016-08-26 17:55:23 --> Output Class Initialized
+INFO - 2016-08-26 17:55:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:23 --> Input Class Initialized
+INFO - 2016-08-26 17:55:23 --> Language Class Initialized
+ERROR - 2016-08-26 17:55:23 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 17:55:28 --> Config Class Initialized
+INFO - 2016-08-26 17:55:28 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:55:28 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:55:28 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:55:28 --> URI Class Initialized
+INFO - 2016-08-26 17:55:28 --> Router Class Initialized
+INFO - 2016-08-26 17:55:28 --> Output Class Initialized
+INFO - 2016-08-26 17:55:28 --> Security Class Initialized
+DEBUG - 2016-08-26 17:55:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:55:28 --> Input Class Initialized
+INFO - 2016-08-26 17:55:28 --> Language Class Initialized
+INFO - 2016-08-26 17:55:29 --> Loader Class Initialized
+INFO - 2016-08-26 17:55:29 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:55:29 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:55:29 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:55:29 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:55:29 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:55:29 --> Email Class Initialized
+INFO - 2016-08-26 17:55:29 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:55:29 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:55:29 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:55:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:55:29 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:55:29 --> Model Class Initialized
+INFO - 2016-08-26 17:55:29 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:55:29 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:55:29 --> Model Class Initialized
+INFO - 2016-08-26 17:55:29 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:55:29 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:55:29 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:55:29 --> Model Class Initialized
+INFO - 2016-08-26 17:55:29 --> Model Class Initialized
+INFO - 2016-08-26 17:55:29 --> Model Class Initialized
+INFO - 2016-08-26 17:55:29 --> Language file loaded: language/indonesian/form_validation_lang.php
+ERROR - 2016-08-26 17:55:29 --> Query error: Column 'mata_kuliah_id' cannot be null - Invalid query: INSERT INTO `mahasiswa_rfid` (`mahasiswa_id`, `rfid_id`, `mata_kuliah_id`, `created_by`, `created_at`) VALUES ('11', '2', NULL, '1', '2016-08-26 17:55:29')
+INFO - 2016-08-26 17:55:29 --> Language file loaded: language/indonesian/db_lang.php
+INFO - 2016-08-26 17:56:01 --> Config Class Initialized
+INFO - 2016-08-26 17:56:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:01 --> URI Class Initialized
+INFO - 2016-08-26 17:56:01 --> Router Class Initialized
+INFO - 2016-08-26 17:56:01 --> Output Class Initialized
+INFO - 2016-08-26 17:56:01 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:01 --> Input Class Initialized
+INFO - 2016-08-26 17:56:01 --> Language Class Initialized
+INFO - 2016-08-26 17:56:01 --> Loader Class Initialized
+INFO - 2016-08-26 17:56:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:56:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:56:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:56:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:56:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:56:01 --> Email Class Initialized
+INFO - 2016-08-26 17:56:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:56:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:56:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:56:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:56:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:56:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:56:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:56:01 --> Config Class Initialized
+INFO - 2016-08-26 17:56:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:01 --> URI Class Initialized
+INFO - 2016-08-26 17:56:01 --> Router Class Initialized
+INFO - 2016-08-26 17:56:01 --> Output Class Initialized
+INFO - 2016-08-26 17:56:01 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:01 --> Input Class Initialized
+INFO - 2016-08-26 17:56:01 --> Language Class Initialized
+INFO - 2016-08-26 17:56:01 --> Loader Class Initialized
+INFO - 2016-08-26 17:56:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:56:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:56:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:56:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:56:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:56:01 --> Email Class Initialized
+INFO - 2016-08-26 17:56:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:56:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:56:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:56:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:56:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:56:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:56:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> Model Class Initialized
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:56:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:56:01 --> Final output sent to browser
+DEBUG - 2016-08-26 17:56:01 --> Total execution time: 0.1192
+INFO - 2016-08-26 17:56:02 --> Config Class Initialized
+INFO - 2016-08-26 17:56:02 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:02 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:02 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:02 --> URI Class Initialized
+INFO - 2016-08-26 17:56:02 --> Router Class Initialized
+INFO - 2016-08-26 17:56:02 --> Output Class Initialized
+INFO - 2016-08-26 17:56:02 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:02 --> Input Class Initialized
+INFO - 2016-08-26 17:56:02 --> Language Class Initialized
+ERROR - 2016-08-26 17:56:02 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:56:13 --> Config Class Initialized
+INFO - 2016-08-26 17:56:13 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:13 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:13 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:13 --> URI Class Initialized
+INFO - 2016-08-26 17:56:13 --> Router Class Initialized
+INFO - 2016-08-26 17:56:13 --> Output Class Initialized
+INFO - 2016-08-26 17:56:13 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:13 --> Input Class Initialized
+INFO - 2016-08-26 17:56:13 --> Language Class Initialized
+INFO - 2016-08-26 17:56:13 --> Loader Class Initialized
+INFO - 2016-08-26 17:56:13 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:56:13 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:56:13 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:56:13 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:56:13 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:56:13 --> Email Class Initialized
+INFO - 2016-08-26 17:56:13 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:56:13 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:56:13 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:56:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:56:13 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:56:13 --> Model Class Initialized
+INFO - 2016-08-26 17:56:13 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:56:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:56:13 --> Model Class Initialized
+INFO - 2016-08-26 17:56:13 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:56:13 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:56:13 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:56:13 --> Model Class Initialized
+INFO - 2016-08-26 17:56:13 --> Model Class Initialized
+INFO - 2016-08-26 17:56:13 --> Model Class Initialized
+INFO - 2016-08-26 17:56:13 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:56:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:56:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:56:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:56:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:56:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:56:13 --> Final output sent to browser
+DEBUG - 2016-08-26 17:56:13 --> Total execution time: 0.1603
+INFO - 2016-08-26 17:56:14 --> Config Class Initialized
+INFO - 2016-08-26 17:56:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:14 --> URI Class Initialized
+INFO - 2016-08-26 17:56:14 --> Router Class Initialized
+INFO - 2016-08-26 17:56:14 --> Output Class Initialized
+INFO - 2016-08-26 17:56:14 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:14 --> Input Class Initialized
+INFO - 2016-08-26 17:56:14 --> Language Class Initialized
+ERROR - 2016-08-26 17:56:14 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:56:16 --> Config Class Initialized
+INFO - 2016-08-26 17:56:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:16 --> URI Class Initialized
+INFO - 2016-08-26 17:56:16 --> Router Class Initialized
+INFO - 2016-08-26 17:56:16 --> Output Class Initialized
+INFO - 2016-08-26 17:56:16 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:16 --> Input Class Initialized
+INFO - 2016-08-26 17:56:16 --> Language Class Initialized
+INFO - 2016-08-26 17:56:16 --> Loader Class Initialized
+INFO - 2016-08-26 17:56:16 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:56:16 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:56:16 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:56:16 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:56:16 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:56:16 --> Email Class Initialized
+INFO - 2016-08-26 17:56:16 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:56:16 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:56:16 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:56:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:56:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:56:16 --> Model Class Initialized
+INFO - 2016-08-26 17:56:16 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:56:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:56:16 --> Model Class Initialized
+INFO - 2016-08-26 17:56:16 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:56:16 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:56:16 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:56:16 --> Model Class Initialized
+INFO - 2016-08-26 17:56:16 --> Model Class Initialized
+INFO - 2016-08-26 17:56:16 --> Model Class Initialized
+INFO - 2016-08-26 17:56:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:56:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:56:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:56:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:56:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:56:16 --> Final output sent to browser
+DEBUG - 2016-08-26 17:56:16 --> Total execution time: 0.1210
+INFO - 2016-08-26 17:56:16 --> Config Class Initialized
+INFO - 2016-08-26 17:56:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:16 --> URI Class Initialized
+INFO - 2016-08-26 17:56:16 --> Router Class Initialized
+INFO - 2016-08-26 17:56:16 --> Output Class Initialized
+INFO - 2016-08-26 17:56:16 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:16 --> Input Class Initialized
+INFO - 2016-08-26 17:56:16 --> Language Class Initialized
+ERROR - 2016-08-26 17:56:16 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:56:35 --> Config Class Initialized
+INFO - 2016-08-26 17:56:35 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:35 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:35 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:35 --> URI Class Initialized
+INFO - 2016-08-26 17:56:35 --> Router Class Initialized
+INFO - 2016-08-26 17:56:35 --> Output Class Initialized
+INFO - 2016-08-26 17:56:35 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:35 --> Input Class Initialized
+INFO - 2016-08-26 17:56:35 --> Language Class Initialized
+INFO - 2016-08-26 17:56:35 --> Loader Class Initialized
+INFO - 2016-08-26 17:56:35 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:56:35 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:56:35 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:56:35 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:56:35 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:56:35 --> Email Class Initialized
+INFO - 2016-08-26 17:56:35 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:56:35 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:56:35 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:56:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:56:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:56:35 --> Model Class Initialized
+INFO - 2016-08-26 17:56:35 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:56:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:56:35 --> Model Class Initialized
+INFO - 2016-08-26 17:56:35 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:56:35 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:56:35 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:56:35 --> Model Class Initialized
+INFO - 2016-08-26 17:56:35 --> Model Class Initialized
+INFO - 2016-08-26 17:56:35 --> Model Class Initialized
+ERROR - 2016-08-26 17:56:35 --> Severity: Notice --> Undefined property: stdClass::$name /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php 14
+INFO - 2016-08-26 17:56:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:56:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:56:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:56:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:56:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:56:35 --> Final output sent to browser
+DEBUG - 2016-08-26 17:56:35 --> Total execution time: 0.1299
+INFO - 2016-08-26 17:56:35 --> Config Class Initialized
+INFO - 2016-08-26 17:56:35 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:35 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:35 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:35 --> URI Class Initialized
+INFO - 2016-08-26 17:56:35 --> Router Class Initialized
+INFO - 2016-08-26 17:56:35 --> Output Class Initialized
+INFO - 2016-08-26 17:56:35 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:35 --> Input Class Initialized
+INFO - 2016-08-26 17:56:35 --> Language Class Initialized
+ERROR - 2016-08-26 17:56:35 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:56:48 --> Config Class Initialized
+INFO - 2016-08-26 17:56:48 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:48 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:48 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:48 --> URI Class Initialized
+INFO - 2016-08-26 17:56:48 --> Router Class Initialized
+INFO - 2016-08-26 17:56:48 --> Output Class Initialized
+INFO - 2016-08-26 17:56:48 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:48 --> Input Class Initialized
+INFO - 2016-08-26 17:56:48 --> Language Class Initialized
+INFO - 2016-08-26 17:56:48 --> Loader Class Initialized
+INFO - 2016-08-26 17:56:48 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:56:48 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:56:48 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:56:48 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:56:48 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:56:48 --> Email Class Initialized
+INFO - 2016-08-26 17:56:48 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:56:48 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:56:48 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:56:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:56:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:56:48 --> Model Class Initialized
+INFO - 2016-08-26 17:56:48 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:56:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:56:48 --> Model Class Initialized
+INFO - 2016-08-26 17:56:48 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:56:48 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:56:49 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:56:49 --> Model Class Initialized
+INFO - 2016-08-26 17:56:49 --> Model Class Initialized
+INFO - 2016-08-26 17:56:49 --> Model Class Initialized
+INFO - 2016-08-26 17:56:49 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:56:49 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:56:49 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:56:49 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:56:49 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:56:49 --> Final output sent to browser
+DEBUG - 2016-08-26 17:56:49 --> Total execution time: 0.1290
+INFO - 2016-08-26 17:56:49 --> Config Class Initialized
+INFO - 2016-08-26 17:56:49 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:56:49 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:56:49 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:56:49 --> URI Class Initialized
+INFO - 2016-08-26 17:56:49 --> Router Class Initialized
+INFO - 2016-08-26 17:56:49 --> Output Class Initialized
+INFO - 2016-08-26 17:56:49 --> Security Class Initialized
+DEBUG - 2016-08-26 17:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:56:49 --> Input Class Initialized
+INFO - 2016-08-26 17:56:49 --> Language Class Initialized
+ERROR - 2016-08-26 17:56:49 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:04 --> Config Class Initialized
+INFO - 2016-08-26 17:57:04 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:04 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:04 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:04 --> URI Class Initialized
+INFO - 2016-08-26 17:57:04 --> Router Class Initialized
+INFO - 2016-08-26 17:57:04 --> Output Class Initialized
+INFO - 2016-08-26 17:57:04 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:04 --> Input Class Initialized
+INFO - 2016-08-26 17:57:04 --> Language Class Initialized
+INFO - 2016-08-26 17:57:04 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:04 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:04 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:04 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:04 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:04 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:04 --> Email Class Initialized
+INFO - 2016-08-26 17:57:04 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:04 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:04 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:04 --> Model Class Initialized
+INFO - 2016-08-26 17:57:04 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:04 --> Model Class Initialized
+INFO - 2016-08-26 17:57:04 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:04 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:04 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:04 --> Model Class Initialized
+INFO - 2016-08-26 17:57:04 --> Model Class Initialized
+INFO - 2016-08-26 17:57:04 --> Model Class Initialized
+INFO - 2016-08-26 17:57:04 --> Model Class Initialized
+INFO - 2016-08-26 17:57:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:57:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:04 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:04 --> Total execution time: 0.1296
+INFO - 2016-08-26 17:57:04 --> Config Class Initialized
+INFO - 2016-08-26 17:57:04 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:04 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:04 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:04 --> URI Class Initialized
+INFO - 2016-08-26 17:57:04 --> Router Class Initialized
+INFO - 2016-08-26 17:57:04 --> Output Class Initialized
+INFO - 2016-08-26 17:57:04 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:04 --> Input Class Initialized
+INFO - 2016-08-26 17:57:04 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:04 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:07 --> Config Class Initialized
+INFO - 2016-08-26 17:57:07 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:07 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:07 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:07 --> URI Class Initialized
+INFO - 2016-08-26 17:57:07 --> Router Class Initialized
+INFO - 2016-08-26 17:57:07 --> Output Class Initialized
+INFO - 2016-08-26 17:57:07 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:07 --> Input Class Initialized
+INFO - 2016-08-26 17:57:07 --> Language Class Initialized
+INFO - 2016-08-26 17:57:07 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:07 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:07 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:07 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:07 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:07 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:07 --> Email Class Initialized
+INFO - 2016-08-26 17:57:07 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:07 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:07 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:07 --> Model Class Initialized
+INFO - 2016-08-26 17:57:07 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:07 --> Model Class Initialized
+INFO - 2016-08-26 17:57:07 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:07 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:07 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:07 --> Model Class Initialized
+INFO - 2016-08-26 17:57:07 --> Model Class Initialized
+INFO - 2016-08-26 17:57:07 --> Model Class Initialized
+INFO - 2016-08-26 17:57:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:57:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:07 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:07 --> Total execution time: 0.1065
+INFO - 2016-08-26 17:57:07 --> Config Class Initialized
+INFO - 2016-08-26 17:57:07 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:07 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:07 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:07 --> URI Class Initialized
+INFO - 2016-08-26 17:57:07 --> Router Class Initialized
+INFO - 2016-08-26 17:57:07 --> Output Class Initialized
+INFO - 2016-08-26 17:57:07 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:07 --> Input Class Initialized
+INFO - 2016-08-26 17:57:07 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:07 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:08 --> Config Class Initialized
+INFO - 2016-08-26 17:57:08 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:08 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:08 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:08 --> URI Class Initialized
+INFO - 2016-08-26 17:57:08 --> Router Class Initialized
+INFO - 2016-08-26 17:57:08 --> Output Class Initialized
+INFO - 2016-08-26 17:57:08 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:08 --> Input Class Initialized
+INFO - 2016-08-26 17:57:08 --> Language Class Initialized
+INFO - 2016-08-26 17:57:08 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:08 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:08 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:08 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:08 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:08 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:08 --> Email Class Initialized
+INFO - 2016-08-26 17:57:08 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:08 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:08 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:08 --> Model Class Initialized
+INFO - 2016-08-26 17:57:08 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:08 --> Model Class Initialized
+INFO - 2016-08-26 17:57:08 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:08 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:08 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:08 --> Model Class Initialized
+INFO - 2016-08-26 17:57:08 --> Model Class Initialized
+INFO - 2016-08-26 17:57:08 --> Model Class Initialized
+INFO - 2016-08-26 17:57:08 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:57:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:57:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:08 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:08 --> Total execution time: 0.1272
+INFO - 2016-08-26 17:57:08 --> Config Class Initialized
+INFO - 2016-08-26 17:57:08 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:08 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:08 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:08 --> URI Class Initialized
+INFO - 2016-08-26 17:57:08 --> Router Class Initialized
+INFO - 2016-08-26 17:57:08 --> Output Class Initialized
+INFO - 2016-08-26 17:57:08 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:08 --> Input Class Initialized
+INFO - 2016-08-26 17:57:08 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:08 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:10 --> Config Class Initialized
+INFO - 2016-08-26 17:57:10 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:11 --> URI Class Initialized
+INFO - 2016-08-26 17:57:11 --> Router Class Initialized
+INFO - 2016-08-26 17:57:11 --> Output Class Initialized
+INFO - 2016-08-26 17:57:11 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:11 --> Input Class Initialized
+INFO - 2016-08-26 17:57:11 --> Language Class Initialized
+INFO - 2016-08-26 17:57:11 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:11 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:11 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:11 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:11 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:11 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:11 --> Email Class Initialized
+INFO - 2016-08-26 17:57:11 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:11 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:11 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:11 --> Model Class Initialized
+INFO - 2016-08-26 17:57:11 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:11 --> Model Class Initialized
+INFO - 2016-08-26 17:57:11 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:11 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:11 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:11 --> Model Class Initialized
+INFO - 2016-08-26 17:57:11 --> Model Class Initialized
+INFO - 2016-08-26 17:57:11 --> Model Class Initialized
+INFO - 2016-08-26 17:57:11 --> Model Class Initialized
+INFO - 2016-08-26 17:57:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:57:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:11 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:11 --> Total execution time: 0.1159
+INFO - 2016-08-26 17:57:11 --> Config Class Initialized
+INFO - 2016-08-26 17:57:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:11 --> URI Class Initialized
+INFO - 2016-08-26 17:57:11 --> Router Class Initialized
+INFO - 2016-08-26 17:57:11 --> Output Class Initialized
+INFO - 2016-08-26 17:57:11 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:11 --> Input Class Initialized
+INFO - 2016-08-26 17:57:11 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:11 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:12 --> Config Class Initialized
+INFO - 2016-08-26 17:57:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:12 --> URI Class Initialized
+INFO - 2016-08-26 17:57:12 --> Router Class Initialized
+INFO - 2016-08-26 17:57:12 --> Output Class Initialized
+INFO - 2016-08-26 17:57:12 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:12 --> Input Class Initialized
+INFO - 2016-08-26 17:57:12 --> Language Class Initialized
+INFO - 2016-08-26 17:57:12 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:12 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:12 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:12 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:12 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:12 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:12 --> Email Class Initialized
+INFO - 2016-08-26 17:57:12 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:12 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:12 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:13 --> Model Class Initialized
+INFO - 2016-08-26 17:57:13 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:13 --> Model Class Initialized
+INFO - 2016-08-26 17:57:13 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:13 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:13 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:13 --> Model Class Initialized
+INFO - 2016-08-26 17:57:13 --> Model Class Initialized
+INFO - 2016-08-26 17:57:13 --> Model Class Initialized
+INFO - 2016-08-26 17:57:13 --> Model Class Initialized
+INFO - 2016-08-26 17:57:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:57:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:13 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:13 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:13 --> Total execution time: 0.1265
+INFO - 2016-08-26 17:57:13 --> Config Class Initialized
+INFO - 2016-08-26 17:57:13 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:13 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:13 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:13 --> URI Class Initialized
+INFO - 2016-08-26 17:57:13 --> Router Class Initialized
+INFO - 2016-08-26 17:57:13 --> Output Class Initialized
+INFO - 2016-08-26 17:57:13 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:13 --> Input Class Initialized
+INFO - 2016-08-26 17:57:13 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:13 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 17:57:13 --> Config Class Initialized
+INFO - 2016-08-26 17:57:13 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:13 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:13 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:13 --> URI Class Initialized
+INFO - 2016-08-26 17:57:13 --> Router Class Initialized
+INFO - 2016-08-26 17:57:13 --> Output Class Initialized
+INFO - 2016-08-26 17:57:13 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:13 --> Input Class Initialized
+INFO - 2016-08-26 17:57:13 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:13 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:13 --> Config Class Initialized
+INFO - 2016-08-26 17:57:13 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:13 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:13 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:13 --> URI Class Initialized
+INFO - 2016-08-26 17:57:13 --> Router Class Initialized
+INFO - 2016-08-26 17:57:13 --> Output Class Initialized
+INFO - 2016-08-26 17:57:13 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:13 --> Input Class Initialized
+INFO - 2016-08-26 17:57:13 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:13 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 17:57:27 --> Config Class Initialized
+INFO - 2016-08-26 17:57:27 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:27 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:27 --> URI Class Initialized
+INFO - 2016-08-26 17:57:27 --> Router Class Initialized
+INFO - 2016-08-26 17:57:27 --> Output Class Initialized
+INFO - 2016-08-26 17:57:27 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:27 --> Input Class Initialized
+INFO - 2016-08-26 17:57:27 --> Language Class Initialized
+INFO - 2016-08-26 17:57:27 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:27 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:27 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:27 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:27 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:27 --> Email Class Initialized
+INFO - 2016-08-26 17:57:27 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:27 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:27 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:27 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:27 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:57:27 --> Config Class Initialized
+INFO - 2016-08-26 17:57:27 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:27 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:27 --> URI Class Initialized
+INFO - 2016-08-26 17:57:27 --> Router Class Initialized
+INFO - 2016-08-26 17:57:27 --> Output Class Initialized
+INFO - 2016-08-26 17:57:27 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:27 --> Input Class Initialized
+INFO - 2016-08-26 17:57:27 --> Language Class Initialized
+INFO - 2016-08-26 17:57:27 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:27 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:27 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:27 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:27 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:27 --> Email Class Initialized
+INFO - 2016-08-26 17:57:27 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:27 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:27 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:27 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:27 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> Model Class Initialized
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:27 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:27 --> Total execution time: 0.1121
+INFO - 2016-08-26 17:57:27 --> Config Class Initialized
+INFO - 2016-08-26 17:57:27 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:27 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:27 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:27 --> URI Class Initialized
+INFO - 2016-08-26 17:57:27 --> Router Class Initialized
+INFO - 2016-08-26 17:57:27 --> Output Class Initialized
+INFO - 2016-08-26 17:57:28 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:28 --> Input Class Initialized
+INFO - 2016-08-26 17:57:28 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:28 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:36 --> Config Class Initialized
+INFO - 2016-08-26 17:57:36 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:36 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:36 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:36 --> URI Class Initialized
+INFO - 2016-08-26 17:57:36 --> Router Class Initialized
+INFO - 2016-08-26 17:57:36 --> Output Class Initialized
+INFO - 2016-08-26 17:57:36 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:36 --> Input Class Initialized
+INFO - 2016-08-26 17:57:36 --> Language Class Initialized
+INFO - 2016-08-26 17:57:36 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:36 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:36 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:36 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:36 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:36 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:36 --> Email Class Initialized
+INFO - 2016-08-26 17:57:36 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:36 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:36 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:36 --> Model Class Initialized
+INFO - 2016-08-26 17:57:36 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:36 --> Model Class Initialized
+INFO - 2016-08-26 17:57:36 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:36 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:36 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:36 --> Model Class Initialized
+INFO - 2016-08-26 17:57:36 --> Model Class Initialized
+INFO - 2016-08-26 17:57:36 --> Model Class Initialized
+INFO - 2016-08-26 17:57:36 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:57:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:57:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:36 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:36 --> Total execution time: 0.1431
+INFO - 2016-08-26 17:57:37 --> Config Class Initialized
+INFO - 2016-08-26 17:57:37 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:37 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:37 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:37 --> URI Class Initialized
+INFO - 2016-08-26 17:57:37 --> Router Class Initialized
+INFO - 2016-08-26 17:57:37 --> Output Class Initialized
+INFO - 2016-08-26 17:57:37 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:37 --> Input Class Initialized
+INFO - 2016-08-26 17:57:37 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:37 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:40 --> Config Class Initialized
+INFO - 2016-08-26 17:57:40 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:40 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:40 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:40 --> URI Class Initialized
+INFO - 2016-08-26 17:57:40 --> Router Class Initialized
+INFO - 2016-08-26 17:57:40 --> Output Class Initialized
+INFO - 2016-08-26 17:57:40 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:40 --> Input Class Initialized
+INFO - 2016-08-26 17:57:40 --> Language Class Initialized
+INFO - 2016-08-26 17:57:40 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:40 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:40 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:40 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:40 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:40 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:40 --> Email Class Initialized
+INFO - 2016-08-26 17:57:40 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:40 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:40 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:40 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:40 --> Model Class Initialized
+INFO - 2016-08-26 17:57:40 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:40 --> Model Class Initialized
+INFO - 2016-08-26 17:57:40 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:40 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:40 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:40 --> Model Class Initialized
+INFO - 2016-08-26 17:57:40 --> Model Class Initialized
+INFO - 2016-08-26 17:57:40 --> Model Class Initialized
+INFO - 2016-08-26 17:57:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:57:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:40 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:40 --> Total execution time: 0.1270
+INFO - 2016-08-26 17:57:40 --> Config Class Initialized
+INFO - 2016-08-26 17:57:40 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:40 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:40 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:40 --> URI Class Initialized
+INFO - 2016-08-26 17:57:40 --> Router Class Initialized
+INFO - 2016-08-26 17:57:40 --> Output Class Initialized
+INFO - 2016-08-26 17:57:40 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:40 --> Input Class Initialized
+INFO - 2016-08-26 17:57:40 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:40 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:43 --> Config Class Initialized
+INFO - 2016-08-26 17:57:43 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:43 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:43 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:43 --> URI Class Initialized
+INFO - 2016-08-26 17:57:43 --> Router Class Initialized
+INFO - 2016-08-26 17:57:43 --> Output Class Initialized
+INFO - 2016-08-26 17:57:43 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:43 --> Input Class Initialized
+INFO - 2016-08-26 17:57:43 --> Language Class Initialized
+INFO - 2016-08-26 17:57:43 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:43 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:43 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:43 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:43 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:43 --> Email Class Initialized
+INFO - 2016-08-26 17:57:43 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:43 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:43 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:43 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:43 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:57:43 --> Config Class Initialized
+INFO - 2016-08-26 17:57:43 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:43 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:43 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:43 --> URI Class Initialized
+INFO - 2016-08-26 17:57:43 --> Router Class Initialized
+INFO - 2016-08-26 17:57:43 --> Output Class Initialized
+INFO - 2016-08-26 17:57:43 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:43 --> Input Class Initialized
+INFO - 2016-08-26 17:57:43 --> Language Class Initialized
+INFO - 2016-08-26 17:57:43 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:43 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:43 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:43 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:43 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:43 --> Email Class Initialized
+INFO - 2016-08-26 17:57:43 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:43 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:43 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:43 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:43 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Model Class Initialized
+INFO - 2016-08-26 17:57:43 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:43 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:43 --> Total execution time: 0.1262
+INFO - 2016-08-26 17:57:44 --> Config Class Initialized
+INFO - 2016-08-26 17:57:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:44 --> URI Class Initialized
+INFO - 2016-08-26 17:57:44 --> Router Class Initialized
+INFO - 2016-08-26 17:57:44 --> Output Class Initialized
+INFO - 2016-08-26 17:57:44 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:44 --> Input Class Initialized
+INFO - 2016-08-26 17:57:44 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:44 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:46 --> Config Class Initialized
+INFO - 2016-08-26 17:57:46 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:46 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:46 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:46 --> URI Class Initialized
+INFO - 2016-08-26 17:57:46 --> Router Class Initialized
+INFO - 2016-08-26 17:57:46 --> Output Class Initialized
+INFO - 2016-08-26 17:57:46 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:46 --> Input Class Initialized
+INFO - 2016-08-26 17:57:46 --> Language Class Initialized
+INFO - 2016-08-26 17:57:46 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:46 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:46 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:46 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:46 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:46 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:46 --> Email Class Initialized
+INFO - 2016-08-26 17:57:46 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:46 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:46 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:46 --> Model Class Initialized
+INFO - 2016-08-26 17:57:46 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:46 --> Model Class Initialized
+INFO - 2016-08-26 17:57:46 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:46 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:46 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:46 --> Model Class Initialized
+INFO - 2016-08-26 17:57:46 --> Model Class Initialized
+INFO - 2016-08-26 17:57:46 --> Model Class Initialized
+INFO - 2016-08-26 17:57:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:57:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:46 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:46 --> Total execution time: 0.1154
+INFO - 2016-08-26 17:57:46 --> Config Class Initialized
+INFO - 2016-08-26 17:57:46 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:46 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:46 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:46 --> URI Class Initialized
+INFO - 2016-08-26 17:57:46 --> Router Class Initialized
+INFO - 2016-08-26 17:57:46 --> Output Class Initialized
+INFO - 2016-08-26 17:57:46 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:46 --> Input Class Initialized
+INFO - 2016-08-26 17:57:46 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:46 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:48 --> Config Class Initialized
+INFO - 2016-08-26 17:57:48 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:48 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:48 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:48 --> URI Class Initialized
+INFO - 2016-08-26 17:57:48 --> Router Class Initialized
+INFO - 2016-08-26 17:57:48 --> Output Class Initialized
+INFO - 2016-08-26 17:57:48 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:48 --> Input Class Initialized
+INFO - 2016-08-26 17:57:48 --> Language Class Initialized
+INFO - 2016-08-26 17:57:48 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:48 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:48 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:48 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:48 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:48 --> Email Class Initialized
+INFO - 2016-08-26 17:57:48 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:48 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:48 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:48 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:48 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:57:48 --> Config Class Initialized
+INFO - 2016-08-26 17:57:48 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:48 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:48 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:48 --> URI Class Initialized
+INFO - 2016-08-26 17:57:48 --> Router Class Initialized
+INFO - 2016-08-26 17:57:48 --> Output Class Initialized
+INFO - 2016-08-26 17:57:48 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:48 --> Input Class Initialized
+INFO - 2016-08-26 17:57:48 --> Language Class Initialized
+INFO - 2016-08-26 17:57:48 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:48 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:48 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:48 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:48 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:48 --> Email Class Initialized
+INFO - 2016-08-26 17:57:48 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:48 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:48 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:48 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:48 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:48 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Model Class Initialized
+INFO - 2016-08-26 17:57:48 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:48 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:48 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:48 --> Total execution time: 0.1278
+INFO - 2016-08-26 17:57:49 --> Config Class Initialized
+INFO - 2016-08-26 17:57:49 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:49 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:49 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:49 --> URI Class Initialized
+INFO - 2016-08-26 17:57:49 --> Router Class Initialized
+INFO - 2016-08-26 17:57:49 --> Output Class Initialized
+INFO - 2016-08-26 17:57:49 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:49 --> Input Class Initialized
+INFO - 2016-08-26 17:57:49 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:49 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:51 --> Config Class Initialized
+INFO - 2016-08-26 17:57:51 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:51 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:51 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:51 --> URI Class Initialized
+INFO - 2016-08-26 17:57:51 --> Router Class Initialized
+INFO - 2016-08-26 17:57:51 --> Output Class Initialized
+INFO - 2016-08-26 17:57:51 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:51 --> Input Class Initialized
+INFO - 2016-08-26 17:57:51 --> Language Class Initialized
+INFO - 2016-08-26 17:57:51 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:51 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:51 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:51 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:51 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:51 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:51 --> Email Class Initialized
+INFO - 2016-08-26 17:57:51 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:51 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:51 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:51 --> Model Class Initialized
+INFO - 2016-08-26 17:57:51 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:51 --> Model Class Initialized
+INFO - 2016-08-26 17:57:51 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:51 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:51 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:51 --> Model Class Initialized
+INFO - 2016-08-26 17:57:51 --> Model Class Initialized
+INFO - 2016-08-26 17:57:51 --> Model Class Initialized
+INFO - 2016-08-26 17:57:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:57:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:51 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:51 --> Total execution time: 0.1125
+INFO - 2016-08-26 17:57:52 --> Config Class Initialized
+INFO - 2016-08-26 17:57:52 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:52 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:52 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:52 --> URI Class Initialized
+INFO - 2016-08-26 17:57:52 --> Router Class Initialized
+INFO - 2016-08-26 17:57:52 --> Output Class Initialized
+INFO - 2016-08-26 17:57:52 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:52 --> Input Class Initialized
+INFO - 2016-08-26 17:57:52 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:52 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:56 --> Config Class Initialized
+INFO - 2016-08-26 17:57:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:56 --> URI Class Initialized
+INFO - 2016-08-26 17:57:56 --> Router Class Initialized
+INFO - 2016-08-26 17:57:56 --> Output Class Initialized
+INFO - 2016-08-26 17:57:56 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:56 --> Input Class Initialized
+INFO - 2016-08-26 17:57:56 --> Language Class Initialized
+INFO - 2016-08-26 17:57:56 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:56 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:56 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:56 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:56 --> Email Class Initialized
+INFO - 2016-08-26 17:57:56 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:56 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:56 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:56 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:56 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:57:56 --> Config Class Initialized
+INFO - 2016-08-26 17:57:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:56 --> URI Class Initialized
+INFO - 2016-08-26 17:57:56 --> Router Class Initialized
+INFO - 2016-08-26 17:57:56 --> Output Class Initialized
+INFO - 2016-08-26 17:57:56 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:56 --> Input Class Initialized
+INFO - 2016-08-26 17:57:56 --> Language Class Initialized
+INFO - 2016-08-26 17:57:56 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:56 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:56 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:56 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:56 --> Email Class Initialized
+INFO - 2016-08-26 17:57:56 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:56 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:56 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:56 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:56 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Model Class Initialized
+INFO - 2016-08-26 17:57:56 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:56 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:56 --> Total execution time: 0.1176
+INFO - 2016-08-26 17:57:56 --> Config Class Initialized
+INFO - 2016-08-26 17:57:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:56 --> URI Class Initialized
+INFO - 2016-08-26 17:57:56 --> Router Class Initialized
+INFO - 2016-08-26 17:57:56 --> Output Class Initialized
+INFO - 2016-08-26 17:57:56 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:56 --> Input Class Initialized
+INFO - 2016-08-26 17:57:56 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:56 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:57:58 --> Config Class Initialized
+INFO - 2016-08-26 17:57:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:58 --> URI Class Initialized
+INFO - 2016-08-26 17:57:58 --> Router Class Initialized
+INFO - 2016-08-26 17:57:58 --> Output Class Initialized
+INFO - 2016-08-26 17:57:58 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:58 --> Input Class Initialized
+INFO - 2016-08-26 17:57:58 --> Language Class Initialized
+INFO - 2016-08-26 17:57:58 --> Loader Class Initialized
+INFO - 2016-08-26 17:57:58 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:57:58 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:57:58 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:57:58 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:57:58 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:57:58 --> Email Class Initialized
+INFO - 2016-08-26 17:57:58 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:57:58 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:57:58 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:57:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:57:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:57:58 --> Model Class Initialized
+INFO - 2016-08-26 17:57:58 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:57:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:57:58 --> Model Class Initialized
+INFO - 2016-08-26 17:57:58 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:57:58 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:57:58 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:57:58 --> Model Class Initialized
+INFO - 2016-08-26 17:57:58 --> Model Class Initialized
+INFO - 2016-08-26 17:57:58 --> Model Class Initialized
+INFO - 2016-08-26 17:57:58 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:57:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:57:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:57:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:57:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:57:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:57:58 --> Final output sent to browser
+DEBUG - 2016-08-26 17:57:58 --> Total execution time: 0.1147
+INFO - 2016-08-26 17:57:58 --> Config Class Initialized
+INFO - 2016-08-26 17:57:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:57:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:57:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:57:58 --> URI Class Initialized
+INFO - 2016-08-26 17:57:58 --> Router Class Initialized
+INFO - 2016-08-26 17:57:58 --> Output Class Initialized
+INFO - 2016-08-26 17:57:58 --> Security Class Initialized
+DEBUG - 2016-08-26 17:57:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:57:58 --> Input Class Initialized
+INFO - 2016-08-26 17:57:58 --> Language Class Initialized
+ERROR - 2016-08-26 17:57:58 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:00 --> Config Class Initialized
+INFO - 2016-08-26 17:58:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:00 --> URI Class Initialized
+INFO - 2016-08-26 17:58:00 --> Router Class Initialized
+INFO - 2016-08-26 17:58:00 --> Output Class Initialized
+INFO - 2016-08-26 17:58:00 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:00 --> Input Class Initialized
+INFO - 2016-08-26 17:58:00 --> Language Class Initialized
+INFO - 2016-08-26 17:58:00 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:00 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:00 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:00 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:00 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:00 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:00 --> Email Class Initialized
+INFO - 2016-08-26 17:58:00 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:00 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:00 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:00 --> Model Class Initialized
+INFO - 2016-08-26 17:58:00 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:00 --> Model Class Initialized
+INFO - 2016-08-26 17:58:00 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:00 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:00 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:00 --> Model Class Initialized
+INFO - 2016-08-26 17:58:00 --> Model Class Initialized
+INFO - 2016-08-26 17:58:00 --> Model Class Initialized
+INFO - 2016-08-26 17:58:00 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:58:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:58:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:00 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:00 --> Total execution time: 0.1250
+INFO - 2016-08-26 17:58:00 --> Config Class Initialized
+INFO - 2016-08-26 17:58:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:00 --> URI Class Initialized
+INFO - 2016-08-26 17:58:00 --> Router Class Initialized
+INFO - 2016-08-26 17:58:00 --> Output Class Initialized
+INFO - 2016-08-26 17:58:00 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:00 --> Input Class Initialized
+INFO - 2016-08-26 17:58:00 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:00 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:02 --> Config Class Initialized
+INFO - 2016-08-26 17:58:02 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:02 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:02 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:02 --> URI Class Initialized
+INFO - 2016-08-26 17:58:02 --> Router Class Initialized
+INFO - 2016-08-26 17:58:02 --> Output Class Initialized
+INFO - 2016-08-26 17:58:02 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:02 --> Input Class Initialized
+INFO - 2016-08-26 17:58:02 --> Language Class Initialized
+INFO - 2016-08-26 17:58:02 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:02 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:02 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:02 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:02 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:02 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:02 --> Email Class Initialized
+INFO - 2016-08-26 17:58:02 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:02 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:02 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:02 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:02 --> Model Class Initialized
+INFO - 2016-08-26 17:58:02 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:02 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:02 --> Model Class Initialized
+INFO - 2016-08-26 17:58:02 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:02 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:02 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:02 --> Model Class Initialized
+INFO - 2016-08-26 17:58:02 --> Model Class Initialized
+INFO - 2016-08-26 17:58:02 --> Model Class Initialized
+INFO - 2016-08-26 17:58:02 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:58:02 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:02 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:02 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:02 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:02 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:02 --> Total execution time: 0.1071
+INFO - 2016-08-26 17:58:03 --> Config Class Initialized
+INFO - 2016-08-26 17:58:03 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:03 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:03 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:03 --> URI Class Initialized
+INFO - 2016-08-26 17:58:03 --> Router Class Initialized
+INFO - 2016-08-26 17:58:03 --> Output Class Initialized
+INFO - 2016-08-26 17:58:03 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:03 --> Input Class Initialized
+INFO - 2016-08-26 17:58:03 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:03 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:14 --> Config Class Initialized
+INFO - 2016-08-26 17:58:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:14 --> URI Class Initialized
+INFO - 2016-08-26 17:58:14 --> Router Class Initialized
+INFO - 2016-08-26 17:58:14 --> Output Class Initialized
+INFO - 2016-08-26 17:58:15 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:15 --> Input Class Initialized
+INFO - 2016-08-26 17:58:15 --> Language Class Initialized
+INFO - 2016-08-26 17:58:15 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:15 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:15 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:15 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:15 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:15 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:15 --> Email Class Initialized
+INFO - 2016-08-26 17:58:15 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:15 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:15 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:15 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:15 --> Model Class Initialized
+INFO - 2016-08-26 17:58:15 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:15 --> Model Class Initialized
+INFO - 2016-08-26 17:58:15 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:15 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:15 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:15 --> Model Class Initialized
+INFO - 2016-08-26 17:58:15 --> Model Class Initialized
+INFO - 2016-08-26 17:58:15 --> Model Class Initialized
+INFO - 2016-08-26 17:58:15 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:58:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:58:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:15 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:15 --> Total execution time: 0.1443
+INFO - 2016-08-26 17:58:15 --> Config Class Initialized
+INFO - 2016-08-26 17:58:15 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:15 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:15 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:15 --> URI Class Initialized
+INFO - 2016-08-26 17:58:15 --> Router Class Initialized
+INFO - 2016-08-26 17:58:15 --> Output Class Initialized
+INFO - 2016-08-26 17:58:15 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:15 --> Input Class Initialized
+INFO - 2016-08-26 17:58:15 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:15 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:19 --> Config Class Initialized
+INFO - 2016-08-26 17:58:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:19 --> URI Class Initialized
+INFO - 2016-08-26 17:58:19 --> Router Class Initialized
+INFO - 2016-08-26 17:58:19 --> Output Class Initialized
+INFO - 2016-08-26 17:58:19 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:19 --> Input Class Initialized
+INFO - 2016-08-26 17:58:19 --> Language Class Initialized
+INFO - 2016-08-26 17:58:19 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:19 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:19 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:19 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:19 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:19 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:19 --> Email Class Initialized
+INFO - 2016-08-26 17:58:19 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:19 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:19 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:19 --> Model Class Initialized
+INFO - 2016-08-26 17:58:19 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:19 --> Model Class Initialized
+INFO - 2016-08-26 17:58:19 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:19 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:19 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:19 --> Model Class Initialized
+INFO - 2016-08-26 17:58:19 --> Model Class Initialized
+INFO - 2016-08-26 17:58:19 --> Model Class Initialized
+INFO - 2016-08-26 17:58:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:58:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:19 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:19 --> Total execution time: 0.1070
+INFO - 2016-08-26 17:58:19 --> Config Class Initialized
+INFO - 2016-08-26 17:58:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:19 --> URI Class Initialized
+INFO - 2016-08-26 17:58:19 --> Router Class Initialized
+INFO - 2016-08-26 17:58:19 --> Output Class Initialized
+INFO - 2016-08-26 17:58:19 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:19 --> Input Class Initialized
+INFO - 2016-08-26 17:58:19 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:19 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:23 --> Config Class Initialized
+INFO - 2016-08-26 17:58:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:23 --> URI Class Initialized
+INFO - 2016-08-26 17:58:23 --> Router Class Initialized
+INFO - 2016-08-26 17:58:23 --> Output Class Initialized
+INFO - 2016-08-26 17:58:23 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:23 --> Input Class Initialized
+INFO - 2016-08-26 17:58:23 --> Language Class Initialized
+INFO - 2016-08-26 17:58:23 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:23 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:23 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:23 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:23 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:23 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:23 --> Email Class Initialized
+INFO - 2016-08-26 17:58:23 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:23 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:23 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:23 --> Model Class Initialized
+INFO - 2016-08-26 17:58:23 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:23 --> Model Class Initialized
+INFO - 2016-08-26 17:58:23 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:23 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:23 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:23 --> Model Class Initialized
+INFO - 2016-08-26 17:58:23 --> Model Class Initialized
+INFO - 2016-08-26 17:58:23 --> Model Class Initialized
+INFO - 2016-08-26 17:58:23 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:58:24 --> Config Class Initialized
+INFO - 2016-08-26 17:58:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:24 --> URI Class Initialized
+INFO - 2016-08-26 17:58:24 --> Router Class Initialized
+INFO - 2016-08-26 17:58:24 --> Output Class Initialized
+INFO - 2016-08-26 17:58:24 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:24 --> Input Class Initialized
+INFO - 2016-08-26 17:58:24 --> Language Class Initialized
+INFO - 2016-08-26 17:58:24 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:24 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:24 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:24 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:24 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:24 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:24 --> Email Class Initialized
+INFO - 2016-08-26 17:58:24 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:24 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:24 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:24 --> Model Class Initialized
+INFO - 2016-08-26 17:58:24 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:24 --> Model Class Initialized
+INFO - 2016-08-26 17:58:24 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:24 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:24 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:24 --> Model Class Initialized
+INFO - 2016-08-26 17:58:24 --> Model Class Initialized
+INFO - 2016-08-26 17:58:24 --> Model Class Initialized
+INFO - 2016-08-26 17:58:24 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:58:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:58:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:24 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:24 --> Total execution time: 0.1152
+INFO - 2016-08-26 17:58:24 --> Config Class Initialized
+INFO - 2016-08-26 17:58:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:24 --> URI Class Initialized
+INFO - 2016-08-26 17:58:24 --> Router Class Initialized
+INFO - 2016-08-26 17:58:24 --> Output Class Initialized
+INFO - 2016-08-26 17:58:24 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:24 --> Input Class Initialized
+INFO - 2016-08-26 17:58:24 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:24 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:31 --> Config Class Initialized
+INFO - 2016-08-26 17:58:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:31 --> URI Class Initialized
+INFO - 2016-08-26 17:58:31 --> Router Class Initialized
+INFO - 2016-08-26 17:58:31 --> Output Class Initialized
+INFO - 2016-08-26 17:58:31 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:31 --> Input Class Initialized
+INFO - 2016-08-26 17:58:31 --> Language Class Initialized
+INFO - 2016-08-26 17:58:31 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:31 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:31 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:31 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:31 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:31 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:31 --> Email Class Initialized
+INFO - 2016-08-26 17:58:31 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:31 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:31 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:31 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:31 --> Model Class Initialized
+INFO - 2016-08-26 17:58:31 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:31 --> Model Class Initialized
+INFO - 2016-08-26 17:58:31 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:31 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:31 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:31 --> Model Class Initialized
+INFO - 2016-08-26 17:58:31 --> Model Class Initialized
+INFO - 2016-08-26 17:58:31 --> Model Class Initialized
+INFO - 2016-08-26 17:58:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:58:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:31 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:31 --> Total execution time: 0.1397
+INFO - 2016-08-26 17:58:31 --> Config Class Initialized
+INFO - 2016-08-26 17:58:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:31 --> URI Class Initialized
+INFO - 2016-08-26 17:58:31 --> Router Class Initialized
+INFO - 2016-08-26 17:58:31 --> Output Class Initialized
+INFO - 2016-08-26 17:58:31 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:31 --> Input Class Initialized
+INFO - 2016-08-26 17:58:31 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:31 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:58:34 --> Config Class Initialized
+INFO - 2016-08-26 17:58:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:34 --> URI Class Initialized
+INFO - 2016-08-26 17:58:34 --> Router Class Initialized
+INFO - 2016-08-26 17:58:34 --> Output Class Initialized
+INFO - 2016-08-26 17:58:34 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:34 --> Input Class Initialized
+INFO - 2016-08-26 17:58:34 --> Language Class Initialized
+INFO - 2016-08-26 17:58:34 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:34 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:34 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:34 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:34 --> Email Class Initialized
+INFO - 2016-08-26 17:58:34 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:34 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:34 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:34 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:34 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:58:34 --> Config Class Initialized
+INFO - 2016-08-26 17:58:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:34 --> URI Class Initialized
+INFO - 2016-08-26 17:58:34 --> Router Class Initialized
+INFO - 2016-08-26 17:58:34 --> Output Class Initialized
+INFO - 2016-08-26 17:58:34 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:34 --> Input Class Initialized
+INFO - 2016-08-26 17:58:34 --> Language Class Initialized
+INFO - 2016-08-26 17:58:34 --> Loader Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:58:34 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:58:34 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:58:34 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:58:34 --> Email Class Initialized
+INFO - 2016-08-26 17:58:34 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:58:34 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:58:34 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:58:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:58:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:58:34 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:58:34 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Model Class Initialized
+INFO - 2016-08-26 17:58:34 --> Helper loaded: file_helper
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:58:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:58:34 --> Final output sent to browser
+DEBUG - 2016-08-26 17:58:34 --> Total execution time: 0.1284
+INFO - 2016-08-26 17:58:34 --> Config Class Initialized
+INFO - 2016-08-26 17:58:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:58:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:58:34 --> URI Class Initialized
+INFO - 2016-08-26 17:58:34 --> Router Class Initialized
+INFO - 2016-08-26 17:58:34 --> Output Class Initialized
+INFO - 2016-08-26 17:58:34 --> Security Class Initialized
+DEBUG - 2016-08-26 17:58:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:58:34 --> Input Class Initialized
+INFO - 2016-08-26 17:58:34 --> Language Class Initialized
+ERROR - 2016-08-26 17:58:34 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:59:09 --> Config Class Initialized
+INFO - 2016-08-26 17:59:09 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:09 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:09 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:09 --> URI Class Initialized
+INFO - 2016-08-26 17:59:09 --> Router Class Initialized
+INFO - 2016-08-26 17:59:09 --> Output Class Initialized
+INFO - 2016-08-26 17:59:09 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:09 --> Input Class Initialized
+INFO - 2016-08-26 17:59:09 --> Language Class Initialized
+INFO - 2016-08-26 17:59:09 --> Loader Class Initialized
+INFO - 2016-08-26 17:59:09 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:59:09 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:59:09 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:59:09 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:59:09 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:59:09 --> Email Class Initialized
+INFO - 2016-08-26 17:59:09 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:59:09 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:59:09 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:59:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:59:09 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:59:09 --> Model Class Initialized
+INFO - 2016-08-26 17:59:09 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:59:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:59:09 --> Model Class Initialized
+INFO - 2016-08-26 17:59:09 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:59:09 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:59:09 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:59:09 --> Model Class Initialized
+INFO - 2016-08-26 17:59:09 --> Model Class Initialized
+INFO - 2016-08-26 17:59:09 --> Model Class Initialized
+INFO - 2016-08-26 17:59:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:59:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:59:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:59:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:59:09 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:59:09 --> Final output sent to browser
+DEBUG - 2016-08-26 17:59:09 --> Total execution time: 0.1237
+INFO - 2016-08-26 17:59:10 --> Config Class Initialized
+INFO - 2016-08-26 17:59:10 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:10 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:10 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:10 --> URI Class Initialized
+INFO - 2016-08-26 17:59:10 --> Router Class Initialized
+INFO - 2016-08-26 17:59:10 --> Output Class Initialized
+INFO - 2016-08-26 17:59:10 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:10 --> Input Class Initialized
+INFO - 2016-08-26 17:59:10 --> Language Class Initialized
+ERROR - 2016-08-26 17:59:10 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:59:11 --> Config Class Initialized
+INFO - 2016-08-26 17:59:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:11 --> URI Class Initialized
+INFO - 2016-08-26 17:59:11 --> Router Class Initialized
+INFO - 2016-08-26 17:59:11 --> Output Class Initialized
+INFO - 2016-08-26 17:59:11 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:11 --> Input Class Initialized
+INFO - 2016-08-26 17:59:11 --> Language Class Initialized
+INFO - 2016-08-26 17:59:11 --> Loader Class Initialized
+INFO - 2016-08-26 17:59:11 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:59:11 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:59:11 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:59:11 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:59:11 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:59:11 --> Email Class Initialized
+INFO - 2016-08-26 17:59:11 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:59:11 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:59:11 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:59:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:59:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:59:11 --> Model Class Initialized
+INFO - 2016-08-26 17:59:11 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:59:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:59:11 --> Model Class Initialized
+INFO - 2016-08-26 17:59:11 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:59:11 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:59:11 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:59:11 --> Model Class Initialized
+INFO - 2016-08-26 17:59:11 --> Model Class Initialized
+INFO - 2016-08-26 17:59:11 --> Model Class Initialized
+INFO - 2016-08-26 17:59:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:59:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:59:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:59:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:59:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:59:11 --> Final output sent to browser
+DEBUG - 2016-08-26 17:59:11 --> Total execution time: 0.1149
+INFO - 2016-08-26 17:59:11 --> Config Class Initialized
+INFO - 2016-08-26 17:59:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:11 --> URI Class Initialized
+INFO - 2016-08-26 17:59:11 --> Router Class Initialized
+INFO - 2016-08-26 17:59:11 --> Output Class Initialized
+INFO - 2016-08-26 17:59:11 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:11 --> Input Class Initialized
+INFO - 2016-08-26 17:59:11 --> Language Class Initialized
+ERROR - 2016-08-26 17:59:11 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:59:14 --> Config Class Initialized
+INFO - 2016-08-26 17:59:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:14 --> URI Class Initialized
+INFO - 2016-08-26 17:59:14 --> Router Class Initialized
+INFO - 2016-08-26 17:59:14 --> Output Class Initialized
+INFO - 2016-08-26 17:59:14 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:14 --> Input Class Initialized
+INFO - 2016-08-26 17:59:14 --> Language Class Initialized
+INFO - 2016-08-26 17:59:14 --> Loader Class Initialized
+INFO - 2016-08-26 17:59:14 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:59:14 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:59:14 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:59:14 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:59:14 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:59:14 --> Email Class Initialized
+INFO - 2016-08-26 17:59:14 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:59:14 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:59:14 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:59:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:59:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:59:14 --> Model Class Initialized
+INFO - 2016-08-26 17:59:14 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:59:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:59:14 --> Model Class Initialized
+INFO - 2016-08-26 17:59:14 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:59:15 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:59:15 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:59:15 --> Model Class Initialized
+INFO - 2016-08-26 17:59:15 --> Model Class Initialized
+INFO - 2016-08-26 17:59:15 --> Model Class Initialized
+INFO - 2016-08-26 17:59:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 17:59:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:59:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:59:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:59:15 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:59:15 --> Final output sent to browser
+DEBUG - 2016-08-26 17:59:15 --> Total execution time: 0.1119
+INFO - 2016-08-26 17:59:15 --> Config Class Initialized
+INFO - 2016-08-26 17:59:15 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:15 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:15 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:15 --> URI Class Initialized
+INFO - 2016-08-26 17:59:15 --> Router Class Initialized
+INFO - 2016-08-26 17:59:15 --> Output Class Initialized
+INFO - 2016-08-26 17:59:15 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:15 --> Input Class Initialized
+INFO - 2016-08-26 17:59:15 --> Language Class Initialized
+ERROR - 2016-08-26 17:59:15 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 17:59:16 --> Config Class Initialized
+INFO - 2016-08-26 17:59:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:16 --> URI Class Initialized
+INFO - 2016-08-26 17:59:16 --> Router Class Initialized
+INFO - 2016-08-26 17:59:16 --> Output Class Initialized
+INFO - 2016-08-26 17:59:16 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:16 --> Input Class Initialized
+INFO - 2016-08-26 17:59:16 --> Language Class Initialized
+INFO - 2016-08-26 17:59:16 --> Loader Class Initialized
+INFO - 2016-08-26 17:59:16 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:59:16 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:59:16 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:59:16 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:59:16 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:59:16 --> Email Class Initialized
+INFO - 2016-08-26 17:59:16 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:59:16 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:59:16 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:59:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:59:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:59:16 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:59:16 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 17:59:16 --> Config Class Initialized
+INFO - 2016-08-26 17:59:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:16 --> URI Class Initialized
+INFO - 2016-08-26 17:59:16 --> Router Class Initialized
+INFO - 2016-08-26 17:59:16 --> Output Class Initialized
+INFO - 2016-08-26 17:59:16 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:16 --> Input Class Initialized
+INFO - 2016-08-26 17:59:16 --> Language Class Initialized
+INFO - 2016-08-26 17:59:16 --> Loader Class Initialized
+INFO - 2016-08-26 17:59:16 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 17:59:16 --> Helper loaded: url_helper
+INFO - 2016-08-26 17:59:16 --> Database Driver Class Initialized
+INFO - 2016-08-26 17:59:16 --> Controller Class Initialized
+DEBUG - 2016-08-26 17:59:16 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 17:59:16 --> Email Class Initialized
+INFO - 2016-08-26 17:59:16 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 17:59:16 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 17:59:16 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 17:59:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 17:59:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Helper loaded: date_helper
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 17:59:16 --> Helper loaded: form_helper
+INFO - 2016-08-26 17:59:16 --> Form Validation Class Initialized
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> Model Class Initialized
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 17:59:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 17:59:16 --> Final output sent to browser
+DEBUG - 2016-08-26 17:59:16 --> Total execution time: 0.1202
+INFO - 2016-08-26 17:59:17 --> Config Class Initialized
+INFO - 2016-08-26 17:59:17 --> Hooks Class Initialized
+DEBUG - 2016-08-26 17:59:17 --> UTF-8 Support Enabled
+INFO - 2016-08-26 17:59:17 --> Utf8 Class Initialized
+INFO - 2016-08-26 17:59:17 --> URI Class Initialized
+INFO - 2016-08-26 17:59:17 --> Router Class Initialized
+INFO - 2016-08-26 17:59:17 --> Output Class Initialized
+INFO - 2016-08-26 17:59:17 --> Security Class Initialized
+DEBUG - 2016-08-26 17:59:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 17:59:17 --> Input Class Initialized
+INFO - 2016-08-26 17:59:17 --> Language Class Initialized
+ERROR - 2016-08-26 17:59:17 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:01:11 --> Config Class Initialized
+INFO - 2016-08-26 18:01:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:11 --> URI Class Initialized
+INFO - 2016-08-26 18:01:11 --> Router Class Initialized
+INFO - 2016-08-26 18:01:11 --> Output Class Initialized
+INFO - 2016-08-26 18:01:11 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:11 --> Input Class Initialized
+INFO - 2016-08-26 18:01:11 --> Language Class Initialized
+INFO - 2016-08-26 18:01:11 --> Loader Class Initialized
+INFO - 2016-08-26 18:01:11 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:01:11 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:01:11 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:01:11 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:01:11 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:01:11 --> Email Class Initialized
+INFO - 2016-08-26 18:01:11 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:01:11 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:01:11 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:01:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:01:11 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:01:11 --> Model Class Initialized
+INFO - 2016-08-26 18:01:11 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:01:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:01:11 --> Model Class Initialized
+INFO - 2016-08-26 18:01:11 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:01:11 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:01:11 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:01:11 --> Model Class Initialized
+INFO - 2016-08-26 18:01:11 --> Model Class Initialized
+INFO - 2016-08-26 18:01:11 --> Model Class Initialized
+INFO - 2016-08-26 18:01:11 --> Model Class Initialized
+INFO - 2016-08-26 18:01:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:01:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:01:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:01:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:01:11 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:01:11 --> Final output sent to browser
+DEBUG - 2016-08-26 18:01:11 --> Total execution time: 0.1438
+INFO - 2016-08-26 18:01:11 --> Config Class Initialized
+INFO - 2016-08-26 18:01:11 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:11 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:11 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:11 --> URI Class Initialized
+INFO - 2016-08-26 18:01:11 --> Router Class Initialized
+INFO - 2016-08-26 18:01:11 --> Output Class Initialized
+INFO - 2016-08-26 18:01:11 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:11 --> Input Class Initialized
+INFO - 2016-08-26 18:01:11 --> Language Class Initialized
+ERROR - 2016-08-26 18:01:11 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:01:24 --> Config Class Initialized
+INFO - 2016-08-26 18:01:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:24 --> URI Class Initialized
+INFO - 2016-08-26 18:01:24 --> Router Class Initialized
+INFO - 2016-08-26 18:01:24 --> Output Class Initialized
+INFO - 2016-08-26 18:01:24 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:24 --> Input Class Initialized
+INFO - 2016-08-26 18:01:24 --> Language Class Initialized
+INFO - 2016-08-26 18:01:24 --> Loader Class Initialized
+INFO - 2016-08-26 18:01:24 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:01:24 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:01:24 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:01:24 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:01:24 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:01:24 --> Email Class Initialized
+INFO - 2016-08-26 18:01:24 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:01:24 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:01:24 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:01:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:01:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:01:24 --> Model Class Initialized
+INFO - 2016-08-26 18:01:24 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:01:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:01:24 --> Model Class Initialized
+INFO - 2016-08-26 18:01:24 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:01:24 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:01:24 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:01:24 --> Model Class Initialized
+INFO - 2016-08-26 18:01:24 --> Model Class Initialized
+INFO - 2016-08-26 18:01:24 --> Model Class Initialized
+INFO - 2016-08-26 18:01:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 18:01:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:01:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:01:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:01:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:01:24 --> Final output sent to browser
+DEBUG - 2016-08-26 18:01:24 --> Total execution time: 0.1236
+INFO - 2016-08-26 18:01:24 --> Config Class Initialized
+INFO - 2016-08-26 18:01:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:24 --> URI Class Initialized
+INFO - 2016-08-26 18:01:24 --> Router Class Initialized
+INFO - 2016-08-26 18:01:24 --> Output Class Initialized
+INFO - 2016-08-26 18:01:24 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:24 --> Input Class Initialized
+INFO - 2016-08-26 18:01:24 --> Language Class Initialized
+ERROR - 2016-08-26 18:01:24 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:01:27 --> Config Class Initialized
+INFO - 2016-08-26 18:01:27 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:27 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:27 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:27 --> URI Class Initialized
+INFO - 2016-08-26 18:01:27 --> Router Class Initialized
+INFO - 2016-08-26 18:01:27 --> Output Class Initialized
+INFO - 2016-08-26 18:01:27 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:27 --> Input Class Initialized
+INFO - 2016-08-26 18:01:27 --> Language Class Initialized
+INFO - 2016-08-26 18:01:27 --> Loader Class Initialized
+INFO - 2016-08-26 18:01:27 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:01:27 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:01:27 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:01:27 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:01:27 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:01:27 --> Email Class Initialized
+INFO - 2016-08-26 18:01:27 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:01:27 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:01:27 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:01:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:01:27 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:01:27 --> Model Class Initialized
+INFO - 2016-08-26 18:01:27 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:01:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:01:27 --> Model Class Initialized
+INFO - 2016-08-26 18:01:27 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:01:27 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:01:27 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:01:27 --> Model Class Initialized
+INFO - 2016-08-26 18:01:27 --> Model Class Initialized
+INFO - 2016-08-26 18:01:27 --> Model Class Initialized
+INFO - 2016-08-26 18:01:27 --> Model Class Initialized
+INFO - 2016-08-26 18:01:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:01:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:01:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:01:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:01:27 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:01:27 --> Final output sent to browser
+DEBUG - 2016-08-26 18:01:27 --> Total execution time: 0.1155
+INFO - 2016-08-26 18:01:27 --> Config Class Initialized
+INFO - 2016-08-26 18:01:27 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:27 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:27 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:27 --> URI Class Initialized
+INFO - 2016-08-26 18:01:27 --> Router Class Initialized
+INFO - 2016-08-26 18:01:27 --> Output Class Initialized
+INFO - 2016-08-26 18:01:27 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:27 --> Input Class Initialized
+INFO - 2016-08-26 18:01:27 --> Language Class Initialized
+ERROR - 2016-08-26 18:01:27 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:01:28 --> Config Class Initialized
+INFO - 2016-08-26 18:01:28 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:28 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:28 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:28 --> URI Class Initialized
+INFO - 2016-08-26 18:01:28 --> Router Class Initialized
+INFO - 2016-08-26 18:01:28 --> Output Class Initialized
+INFO - 2016-08-26 18:01:28 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:28 --> Input Class Initialized
+INFO - 2016-08-26 18:01:28 --> Language Class Initialized
+INFO - 2016-08-26 18:01:28 --> Loader Class Initialized
+INFO - 2016-08-26 18:01:28 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:01:28 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:01:28 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:01:28 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:01:28 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:01:28 --> Email Class Initialized
+INFO - 2016-08-26 18:01:28 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:01:28 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:01:28 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:01:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:01:28 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:01:28 --> Model Class Initialized
+INFO - 2016-08-26 18:01:28 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:01:28 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:01:28 --> Model Class Initialized
+INFO - 2016-08-26 18:01:28 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:01:28 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:01:28 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:01:28 --> Model Class Initialized
+INFO - 2016-08-26 18:01:28 --> Model Class Initialized
+INFO - 2016-08-26 18:01:28 --> Model Class Initialized
+INFO - 2016-08-26 18:01:28 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 18:01:28 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:01:28 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:01:28 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:01:28 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:01:28 --> Final output sent to browser
+DEBUG - 2016-08-26 18:01:28 --> Total execution time: 0.1254
+INFO - 2016-08-26 18:01:29 --> Config Class Initialized
+INFO - 2016-08-26 18:01:29 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:29 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:29 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:29 --> URI Class Initialized
+INFO - 2016-08-26 18:01:29 --> Router Class Initialized
+INFO - 2016-08-26 18:01:29 --> Output Class Initialized
+INFO - 2016-08-26 18:01:29 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:29 --> Input Class Initialized
+INFO - 2016-08-26 18:01:29 --> Language Class Initialized
+ERROR - 2016-08-26 18:01:29 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:01:31 --> Config Class Initialized
+INFO - 2016-08-26 18:01:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:31 --> URI Class Initialized
+INFO - 2016-08-26 18:01:31 --> Router Class Initialized
+INFO - 2016-08-26 18:01:31 --> Output Class Initialized
+INFO - 2016-08-26 18:01:31 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:31 --> Input Class Initialized
+INFO - 2016-08-26 18:01:31 --> Language Class Initialized
+INFO - 2016-08-26 18:01:31 --> Loader Class Initialized
+INFO - 2016-08-26 18:01:31 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:01:31 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:01:31 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:01:31 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:01:31 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:01:31 --> Email Class Initialized
+INFO - 2016-08-26 18:01:31 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:01:31 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:01:31 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:01:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:01:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:01:32 --> Model Class Initialized
+INFO - 2016-08-26 18:01:32 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:01:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:01:32 --> Model Class Initialized
+INFO - 2016-08-26 18:01:32 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:01:32 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:01:32 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:01:32 --> Model Class Initialized
+INFO - 2016-08-26 18:01:32 --> Model Class Initialized
+INFO - 2016-08-26 18:01:32 --> Model Class Initialized
+INFO - 2016-08-26 18:01:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/edit_mahasiswa_view.php
+INFO - 2016-08-26 18:01:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:01:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:01:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:01:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:01:32 --> Final output sent to browser
+DEBUG - 2016-08-26 18:01:32 --> Total execution time: 0.1226
+INFO - 2016-08-26 18:01:32 --> Config Class Initialized
+INFO - 2016-08-26 18:01:32 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:32 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:32 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:32 --> URI Class Initialized
+INFO - 2016-08-26 18:01:32 --> Router Class Initialized
+INFO - 2016-08-26 18:01:32 --> Output Class Initialized
+INFO - 2016-08-26 18:01:32 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:32 --> Input Class Initialized
+INFO - 2016-08-26 18:01:32 --> Language Class Initialized
+ERROR - 2016-08-26 18:01:32 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:01:34 --> Config Class Initialized
+INFO - 2016-08-26 18:01:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:34 --> URI Class Initialized
+INFO - 2016-08-26 18:01:34 --> Router Class Initialized
+INFO - 2016-08-26 18:01:34 --> Output Class Initialized
+INFO - 2016-08-26 18:01:34 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:34 --> Input Class Initialized
+INFO - 2016-08-26 18:01:34 --> Language Class Initialized
+INFO - 2016-08-26 18:01:34 --> Loader Class Initialized
+INFO - 2016-08-26 18:01:34 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:01:34 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:01:34 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:01:34 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:01:34 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:01:34 --> Email Class Initialized
+INFO - 2016-08-26 18:01:34 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:01:34 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:01:34 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:01:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:01:34 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:01:34 --> Model Class Initialized
+INFO - 2016-08-26 18:01:34 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:01:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:01:34 --> Model Class Initialized
+INFO - 2016-08-26 18:01:34 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:01:34 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:01:34 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:01:34 --> Model Class Initialized
+INFO - 2016-08-26 18:01:34 --> Model Class Initialized
+INFO - 2016-08-26 18:01:34 --> Model Class Initialized
+INFO - 2016-08-26 18:01:34 --> Model Class Initialized
+INFO - 2016-08-26 18:01:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:01:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:01:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:01:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:01:34 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:01:34 --> Final output sent to browser
+DEBUG - 2016-08-26 18:01:34 --> Total execution time: 0.1264
+INFO - 2016-08-26 18:01:34 --> Config Class Initialized
+INFO - 2016-08-26 18:01:34 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:01:34 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:01:34 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:01:34 --> URI Class Initialized
+INFO - 2016-08-26 18:01:34 --> Router Class Initialized
+INFO - 2016-08-26 18:01:34 --> Output Class Initialized
+INFO - 2016-08-26 18:01:34 --> Security Class Initialized
+DEBUG - 2016-08-26 18:01:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:01:34 --> Input Class Initialized
+INFO - 2016-08-26 18:01:34 --> Language Class Initialized
+ERROR - 2016-08-26 18:01:34 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:02:25 --> Config Class Initialized
+INFO - 2016-08-26 18:02:25 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:25 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:25 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:25 --> URI Class Initialized
+INFO - 2016-08-26 18:02:25 --> Router Class Initialized
+INFO - 2016-08-26 18:02:25 --> Output Class Initialized
+INFO - 2016-08-26 18:02:25 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:25 --> Input Class Initialized
+INFO - 2016-08-26 18:02:25 --> Language Class Initialized
+INFO - 2016-08-26 18:02:25 --> Loader Class Initialized
+INFO - 2016-08-26 18:02:25 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:02:25 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:02:25 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:02:25 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:02:25 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:02:25 --> Email Class Initialized
+INFO - 2016-08-26 18:02:25 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:02:25 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:02:25 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:02:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:02:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:02:25 --> Model Class Initialized
+INFO - 2016-08-26 18:02:25 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:02:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:02:25 --> Model Class Initialized
+INFO - 2016-08-26 18:02:25 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:02:25 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:02:25 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:02:25 --> Model Class Initialized
+INFO - 2016-08-26 18:02:25 --> Model Class Initialized
+INFO - 2016-08-26 18:02:25 --> Model Class Initialized
+INFO - 2016-08-26 18:02:25 --> Config Class Initialized
+INFO - 2016-08-26 18:02:25 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:25 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:25 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:25 --> URI Class Initialized
+INFO - 2016-08-26 18:02:25 --> Router Class Initialized
+INFO - 2016-08-26 18:02:25 --> Output Class Initialized
+INFO - 2016-08-26 18:02:25 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:25 --> Input Class Initialized
+INFO - 2016-08-26 18:02:25 --> Language Class Initialized
+INFO - 2016-08-26 18:02:25 --> Loader Class Initialized
+INFO - 2016-08-26 18:02:25 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:02:25 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:02:25 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:02:25 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:02:25 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:02:25 --> Email Class Initialized
+INFO - 2016-08-26 18:02:25 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:02:25 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:02:25 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:02:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:02:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:02:25 --> Model Class Initialized
+INFO - 2016-08-26 18:02:25 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:02:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:02:26 --> Model Class Initialized
+INFO - 2016-08-26 18:02:26 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:02:26 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:02:26 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:02:26 --> Model Class Initialized
+INFO - 2016-08-26 18:02:26 --> Model Class Initialized
+INFO - 2016-08-26 18:02:26 --> Model Class Initialized
+INFO - 2016-08-26 18:02:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 18:02:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:02:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:02:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:02:26 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:02:26 --> Final output sent to browser
+DEBUG - 2016-08-26 18:02:26 --> Total execution time: 0.1122
+INFO - 2016-08-26 18:02:26 --> Config Class Initialized
+INFO - 2016-08-26 18:02:26 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:26 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:26 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:26 --> URI Class Initialized
+INFO - 2016-08-26 18:02:26 --> Router Class Initialized
+INFO - 2016-08-26 18:02:26 --> Output Class Initialized
+INFO - 2016-08-26 18:02:26 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:26 --> Input Class Initialized
+INFO - 2016-08-26 18:02:26 --> Language Class Initialized
+ERROR - 2016-08-26 18:02:26 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:02:31 --> Config Class Initialized
+INFO - 2016-08-26 18:02:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:31 --> URI Class Initialized
+INFO - 2016-08-26 18:02:31 --> Router Class Initialized
+INFO - 2016-08-26 18:02:31 --> Output Class Initialized
+INFO - 2016-08-26 18:02:31 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:31 --> Input Class Initialized
+INFO - 2016-08-26 18:02:31 --> Language Class Initialized
+INFO - 2016-08-26 18:02:31 --> Loader Class Initialized
+INFO - 2016-08-26 18:02:31 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:02:31 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:02:31 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:02:31 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:02:31 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:02:31 --> Email Class Initialized
+INFO - 2016-08-26 18:02:31 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:02:31 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:02:31 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:02:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:02:31 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:02:31 --> Model Class Initialized
+INFO - 2016-08-26 18:02:31 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:02:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:02:31 --> Model Class Initialized
+INFO - 2016-08-26 18:02:31 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:02:31 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:02:31 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:02:31 --> Model Class Initialized
+INFO - 2016-08-26 18:02:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:02:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:02:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:02:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:02:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:02:31 --> Final output sent to browser
+DEBUG - 2016-08-26 18:02:31 --> Total execution time: 0.1074
+INFO - 2016-08-26 18:02:31 --> Config Class Initialized
+INFO - 2016-08-26 18:02:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:31 --> URI Class Initialized
+INFO - 2016-08-26 18:02:31 --> Router Class Initialized
+INFO - 2016-08-26 18:02:31 --> Output Class Initialized
+INFO - 2016-08-26 18:02:31 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:31 --> Input Class Initialized
+INFO - 2016-08-26 18:02:31 --> Language Class Initialized
+ERROR - 2016-08-26 18:02:31 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:02:33 --> Config Class Initialized
+INFO - 2016-08-26 18:02:33 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:33 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:33 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:33 --> URI Class Initialized
+INFO - 2016-08-26 18:02:33 --> Router Class Initialized
+INFO - 2016-08-26 18:02:33 --> Output Class Initialized
+INFO - 2016-08-26 18:02:33 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:33 --> Input Class Initialized
+INFO - 2016-08-26 18:02:33 --> Language Class Initialized
+INFO - 2016-08-26 18:02:33 --> Loader Class Initialized
+INFO - 2016-08-26 18:02:33 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:02:33 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:02:33 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:02:33 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:02:33 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:02:33 --> Email Class Initialized
+INFO - 2016-08-26 18:02:33 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:02:33 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:02:33 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:02:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:02:33 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:02:33 --> Model Class Initialized
+INFO - 2016-08-26 18:02:33 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:02:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:02:33 --> Model Class Initialized
+INFO - 2016-08-26 18:02:33 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:02:33 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:02:33 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:02:33 --> Final output sent to browser
+DEBUG - 2016-08-26 18:02:33 --> Total execution time: 0.1049
+INFO - 2016-08-26 18:02:35 --> Config Class Initialized
+INFO - 2016-08-26 18:02:35 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:35 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:35 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:35 --> URI Class Initialized
+INFO - 2016-08-26 18:02:35 --> Router Class Initialized
+INFO - 2016-08-26 18:02:35 --> Output Class Initialized
+INFO - 2016-08-26 18:02:35 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:35 --> Input Class Initialized
+INFO - 2016-08-26 18:02:35 --> Language Class Initialized
+INFO - 2016-08-26 18:02:35 --> Loader Class Initialized
+INFO - 2016-08-26 18:02:35 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:02:35 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:02:35 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:02:35 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:02:35 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:02:35 --> Email Class Initialized
+INFO - 2016-08-26 18:02:35 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:02:35 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:02:35 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:02:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:02:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:02:35 --> Model Class Initialized
+INFO - 2016-08-26 18:02:35 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:02:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:02:35 --> Model Class Initialized
+INFO - 2016-08-26 18:02:35 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:02:35 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:02:35 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:02:35 --> Model Class Initialized
+INFO - 2016-08-26 18:02:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:02:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:02:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:02:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:02:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:02:35 --> Final output sent to browser
+DEBUG - 2016-08-26 18:02:35 --> Total execution time: 0.1271
+INFO - 2016-08-26 18:02:36 --> Config Class Initialized
+INFO - 2016-08-26 18:02:36 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:02:36 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:02:36 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:02:36 --> URI Class Initialized
+INFO - 2016-08-26 18:02:36 --> Router Class Initialized
+INFO - 2016-08-26 18:02:36 --> Output Class Initialized
+INFO - 2016-08-26 18:02:36 --> Security Class Initialized
+DEBUG - 2016-08-26 18:02:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:02:36 --> Input Class Initialized
+INFO - 2016-08-26 18:02:36 --> Language Class Initialized
+ERROR - 2016-08-26 18:02:36 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:10:29 --> Config Class Initialized
+INFO - 2016-08-26 18:10:29 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:10:29 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:10:29 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:10:29 --> URI Class Initialized
+INFO - 2016-08-26 18:10:29 --> Router Class Initialized
+INFO - 2016-08-26 18:10:29 --> Output Class Initialized
+INFO - 2016-08-26 18:10:29 --> Security Class Initialized
+DEBUG - 2016-08-26 18:10:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:10:29 --> Input Class Initialized
+INFO - 2016-08-26 18:10:29 --> Language Class Initialized
+INFO - 2016-08-26 18:10:29 --> Loader Class Initialized
+INFO - 2016-08-26 18:10:30 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:10:30 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:10:30 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:10:30 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:10:30 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:10:30 --> Email Class Initialized
+INFO - 2016-08-26 18:10:30 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:10:30 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:10:30 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:10:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:10:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:10:30 --> Model Class Initialized
+INFO - 2016-08-26 18:10:30 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:10:30 --> Model Class Initialized
+INFO - 2016-08-26 18:10:30 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:10:30 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:10:30 --> Form Validation Class Initialized
+ERROR - 2016-08-26 18:10:30 --> Severity: Notice --> Undefined index: update /media/phi314/Data/Web Development/taurus/application/controllers/admin/Rfid.php 61
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:10:30 --> Final output sent to browser
+DEBUG - 2016-08-26 18:10:30 --> Total execution time: 0.1570
+INFO - 2016-08-26 18:10:30 --> Config Class Initialized
+INFO - 2016-08-26 18:10:30 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:10:30 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:10:30 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:10:30 --> URI Class Initialized
+INFO - 2016-08-26 18:10:30 --> Router Class Initialized
+INFO - 2016-08-26 18:10:30 --> Output Class Initialized
+INFO - 2016-08-26 18:10:30 --> Security Class Initialized
+DEBUG - 2016-08-26 18:10:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:10:30 --> Input Class Initialized
+INFO - 2016-08-26 18:10:30 --> Language Class Initialized
+INFO - 2016-08-26 18:10:30 --> Loader Class Initialized
+INFO - 2016-08-26 18:10:30 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:10:30 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:10:30 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:10:30 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:10:30 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:10:30 --> Email Class Initialized
+INFO - 2016-08-26 18:10:30 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:10:30 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:10:30 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:10:30 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:10:30 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:10:30 --> Model Class Initialized
+INFO - 2016-08-26 18:10:30 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:10:30 --> Model Class Initialized
+INFO - 2016-08-26 18:10:30 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:10:30 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:10:30 --> Form Validation Class Initialized
+ERROR - 2016-08-26 18:10:30 --> Severity: Notice --> Undefined index: update /media/phi314/Data/Web Development/taurus/application/controllers/admin/Rfid.php 61
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:10:30 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:10:30 --> Final output sent to browser
+DEBUG - 2016-08-26 18:10:30 --> Total execution time: 0.1130
+INFO - 2016-08-26 18:10:30 --> Config Class Initialized
+INFO - 2016-08-26 18:10:30 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:10:30 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:10:30 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:10:30 --> URI Class Initialized
+INFO - 2016-08-26 18:10:30 --> Router Class Initialized
+INFO - 2016-08-26 18:10:30 --> Output Class Initialized
+INFO - 2016-08-26 18:10:30 --> Security Class Initialized
+DEBUG - 2016-08-26 18:10:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:10:30 --> Input Class Initialized
+INFO - 2016-08-26 18:10:30 --> Language Class Initialized
+ERROR - 2016-08-26 18:10:30 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:08 --> Config Class Initialized
+INFO - 2016-08-26 18:11:08 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:08 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:08 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:08 --> URI Class Initialized
+INFO - 2016-08-26 18:11:08 --> Router Class Initialized
+INFO - 2016-08-26 18:11:08 --> Output Class Initialized
+INFO - 2016-08-26 18:11:08 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:08 --> Input Class Initialized
+INFO - 2016-08-26 18:11:08 --> Language Class Initialized
+INFO - 2016-08-26 18:11:08 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:08 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:08 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:08 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:08 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:08 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:08 --> Email Class Initialized
+INFO - 2016-08-26 18:11:08 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:08 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:08 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:08 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:08 --> Model Class Initialized
+INFO - 2016-08-26 18:11:08 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:08 --> Model Class Initialized
+INFO - 2016-08-26 18:11:08 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:08 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:11:08 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:11:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:11:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:08 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:08 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:08 --> Total execution time: 0.1378
+INFO - 2016-08-26 18:11:09 --> Config Class Initialized
+INFO - 2016-08-26 18:11:09 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:09 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:09 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:09 --> URI Class Initialized
+INFO - 2016-08-26 18:11:09 --> Router Class Initialized
+INFO - 2016-08-26 18:11:09 --> Output Class Initialized
+INFO - 2016-08-26 18:11:09 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:09 --> Input Class Initialized
+INFO - 2016-08-26 18:11:09 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:09 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:16 --> Config Class Initialized
+INFO - 2016-08-26 18:11:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:16 --> URI Class Initialized
+INFO - 2016-08-26 18:11:16 --> Router Class Initialized
+INFO - 2016-08-26 18:11:16 --> Output Class Initialized
+INFO - 2016-08-26 18:11:16 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:16 --> Input Class Initialized
+INFO - 2016-08-26 18:11:16 --> Language Class Initialized
+INFO - 2016-08-26 18:11:16 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:16 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:16 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:16 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:16 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:16 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:16 --> Email Class Initialized
+INFO - 2016-08-26 18:11:16 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:16 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:16 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:16 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:16 --> Model Class Initialized
+INFO - 2016-08-26 18:11:16 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:16 --> Model Class Initialized
+INFO - 2016-08-26 18:11:16 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/laboratorium/list_laboratorium_view.php
+INFO - 2016-08-26 18:11:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:16 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:16 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:16 --> Total execution time: 0.1219
+INFO - 2016-08-26 18:11:16 --> Config Class Initialized
+INFO - 2016-08-26 18:11:16 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:16 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:16 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:16 --> URI Class Initialized
+INFO - 2016-08-26 18:11:16 --> Router Class Initialized
+INFO - 2016-08-26 18:11:16 --> Output Class Initialized
+INFO - 2016-08-26 18:11:16 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:16 --> Input Class Initialized
+INFO - 2016-08-26 18:11:16 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:16 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:18 --> Config Class Initialized
+INFO - 2016-08-26 18:11:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:18 --> URI Class Initialized
+INFO - 2016-08-26 18:11:18 --> Router Class Initialized
+INFO - 2016-08-26 18:11:18 --> Output Class Initialized
+INFO - 2016-08-26 18:11:18 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:18 --> Input Class Initialized
+INFO - 2016-08-26 18:11:18 --> Language Class Initialized
+INFO - 2016-08-26 18:11:18 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:18 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:18 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:18 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:18 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:18 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:18 --> Email Class Initialized
+INFO - 2016-08-26 18:11:18 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:18 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:18 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:18 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:18 --> Model Class Initialized
+INFO - 2016-08-26 18:11:18 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:18 --> Model Class Initialized
+INFO - 2016-08-26 18:11:18 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:18 --> Model Class Initialized
+INFO - 2016-08-26 18:11:18 --> Model Class Initialized
+INFO - 2016-08-26 18:11:18 --> Model Class Initialized
+INFO - 2016-08-26 18:11:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mengajar/list_mengajar_view.php
+INFO - 2016-08-26 18:11:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:18 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:18 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:18 --> Total execution time: 0.1102
+INFO - 2016-08-26 18:11:18 --> Config Class Initialized
+INFO - 2016-08-26 18:11:18 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:18 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:18 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:18 --> URI Class Initialized
+INFO - 2016-08-26 18:11:18 --> Router Class Initialized
+INFO - 2016-08-26 18:11:18 --> Output Class Initialized
+INFO - 2016-08-26 18:11:18 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:18 --> Input Class Initialized
+INFO - 2016-08-26 18:11:18 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:18 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:21 --> Config Class Initialized
+INFO - 2016-08-26 18:11:21 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:21 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:21 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:21 --> URI Class Initialized
+INFO - 2016-08-26 18:11:21 --> Router Class Initialized
+INFO - 2016-08-26 18:11:21 --> Output Class Initialized
+INFO - 2016-08-26 18:11:21 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:21 --> Input Class Initialized
+INFO - 2016-08-26 18:11:21 --> Language Class Initialized
+INFO - 2016-08-26 18:11:21 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:21 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:21 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:21 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:21 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:21 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:21 --> Email Class Initialized
+INFO - 2016-08-26 18:11:21 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:21 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:21 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:21 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:21 --> Model Class Initialized
+INFO - 2016-08-26 18:11:21 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:21 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:21 --> Model Class Initialized
+INFO - 2016-08-26 18:11:21 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:21 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:11:21 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:11:21 --> Model Class Initialized
+INFO - 2016-08-26 18:11:21 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:11:21 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:21 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:21 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:21 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:21 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:21 --> Total execution time: 0.1346
+INFO - 2016-08-26 18:11:22 --> Config Class Initialized
+INFO - 2016-08-26 18:11:22 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:22 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:22 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:22 --> URI Class Initialized
+INFO - 2016-08-26 18:11:22 --> Router Class Initialized
+INFO - 2016-08-26 18:11:22 --> Output Class Initialized
+INFO - 2016-08-26 18:11:22 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:22 --> Input Class Initialized
+INFO - 2016-08-26 18:11:22 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:22 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:24 --> Config Class Initialized
+INFO - 2016-08-26 18:11:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:24 --> URI Class Initialized
+INFO - 2016-08-26 18:11:24 --> Router Class Initialized
+INFO - 2016-08-26 18:11:24 --> Output Class Initialized
+INFO - 2016-08-26 18:11:24 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:24 --> Input Class Initialized
+INFO - 2016-08-26 18:11:24 --> Language Class Initialized
+INFO - 2016-08-26 18:11:24 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:24 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:24 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:24 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:24 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:24 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:24 --> Email Class Initialized
+INFO - 2016-08-26 18:11:24 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:24 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:24 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:24 --> Model Class Initialized
+INFO - 2016-08-26 18:11:24 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:24 --> Model Class Initialized
+INFO - 2016-08-26 18:11:24 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:24 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:11:24 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:11:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:11:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:24 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:24 --> Total execution time: 0.1170
+INFO - 2016-08-26 18:11:24 --> Config Class Initialized
+INFO - 2016-08-26 18:11:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:24 --> URI Class Initialized
+INFO - 2016-08-26 18:11:24 --> Router Class Initialized
+INFO - 2016-08-26 18:11:24 --> Output Class Initialized
+INFO - 2016-08-26 18:11:24 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:24 --> Input Class Initialized
+INFO - 2016-08-26 18:11:24 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:24 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:31 --> Config Class Initialized
+INFO - 2016-08-26 18:11:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:31 --> URI Class Initialized
+INFO - 2016-08-26 18:11:31 --> Router Class Initialized
+INFO - 2016-08-26 18:11:31 --> Output Class Initialized
+INFO - 2016-08-26 18:11:31 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:31 --> Input Class Initialized
+INFO - 2016-08-26 18:11:31 --> Language Class Initialized
+INFO - 2016-08-26 18:11:31 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:31 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:31 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:31 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:31 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:31 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:31 --> Email Class Initialized
+INFO - 2016-08-26 18:11:31 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:31 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:31 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:31 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:31 --> Model Class Initialized
+INFO - 2016-08-26 18:11:31 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:31 --> Model Class Initialized
+INFO - 2016-08-26 18:11:31 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:31 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:11:31 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:11:31 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:11:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:11:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:31 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:31 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:31 --> Total execution time: 0.0966
+INFO - 2016-08-26 18:11:31 --> Config Class Initialized
+INFO - 2016-08-26 18:11:31 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:31 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:31 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:31 --> URI Class Initialized
+INFO - 2016-08-26 18:11:31 --> Router Class Initialized
+INFO - 2016-08-26 18:11:31 --> Output Class Initialized
+INFO - 2016-08-26 18:11:31 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:31 --> Input Class Initialized
+INFO - 2016-08-26 18:11:31 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:31 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:11:39 --> Config Class Initialized
+INFO - 2016-08-26 18:11:39 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:39 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:39 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:39 --> URI Class Initialized
+INFO - 2016-08-26 18:11:39 --> Router Class Initialized
+INFO - 2016-08-26 18:11:39 --> Output Class Initialized
+INFO - 2016-08-26 18:11:39 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:39 --> Input Class Initialized
+INFO - 2016-08-26 18:11:39 --> Language Class Initialized
+INFO - 2016-08-26 18:11:39 --> Loader Class Initialized
+INFO - 2016-08-26 18:11:39 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:11:39 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:11:39 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:11:39 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:11:39 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:11:39 --> Email Class Initialized
+INFO - 2016-08-26 18:11:39 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:11:39 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:11:39 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:11:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:11:39 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:11:39 --> Model Class Initialized
+INFO - 2016-08-26 18:11:39 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:11:39 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:11:39 --> Model Class Initialized
+INFO - 2016-08-26 18:11:39 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:11:39 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:11:39 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:11:39 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:11:39 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:11:39 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:11:39 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:11:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:11:40 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:11:40 --> Final output sent to browser
+DEBUG - 2016-08-26 18:11:40 --> Total execution time: 0.1216
+INFO - 2016-08-26 18:11:40 --> Config Class Initialized
+INFO - 2016-08-26 18:11:40 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:11:40 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:11:40 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:11:40 --> URI Class Initialized
+INFO - 2016-08-26 18:11:40 --> Router Class Initialized
+INFO - 2016-08-26 18:11:40 --> Output Class Initialized
+INFO - 2016-08-26 18:11:40 --> Security Class Initialized
+DEBUG - 2016-08-26 18:11:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:11:40 --> Input Class Initialized
+INFO - 2016-08-26 18:11:40 --> Language Class Initialized
+ERROR - 2016-08-26 18:11:40 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:12:35 --> Config Class Initialized
+INFO - 2016-08-26 18:12:35 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:12:35 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:12:35 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:12:35 --> URI Class Initialized
+INFO - 2016-08-26 18:12:35 --> Router Class Initialized
+INFO - 2016-08-26 18:12:35 --> Output Class Initialized
+INFO - 2016-08-26 18:12:35 --> Security Class Initialized
+DEBUG - 2016-08-26 18:12:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:12:35 --> Input Class Initialized
+INFO - 2016-08-26 18:12:35 --> Language Class Initialized
+INFO - 2016-08-26 18:12:35 --> Loader Class Initialized
+INFO - 2016-08-26 18:12:35 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:12:35 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:12:35 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:12:35 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:12:35 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:12:35 --> Email Class Initialized
+INFO - 2016-08-26 18:12:35 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:12:35 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:12:35 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:12:35 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:12:35 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:12:35 --> Model Class Initialized
+INFO - 2016-08-26 18:12:35 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:12:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:12:35 --> Model Class Initialized
+INFO - 2016-08-26 18:12:35 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:12:35 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:12:35 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:12:35 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:12:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:12:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:12:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:12:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:12:35 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:12:35 --> Final output sent to browser
+DEBUG - 2016-08-26 18:12:35 --> Total execution time: 0.1206
+INFO - 2016-08-26 18:12:35 --> Config Class Initialized
+INFO - 2016-08-26 18:12:35 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:12:35 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:12:35 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:12:35 --> URI Class Initialized
+INFO - 2016-08-26 18:12:35 --> Router Class Initialized
+INFO - 2016-08-26 18:12:35 --> Output Class Initialized
+INFO - 2016-08-26 18:12:35 --> Security Class Initialized
+DEBUG - 2016-08-26 18:12:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:12:35 --> Input Class Initialized
+INFO - 2016-08-26 18:12:35 --> Language Class Initialized
+ERROR - 2016-08-26 18:12:35 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:12:59 --> Config Class Initialized
+INFO - 2016-08-26 18:12:59 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:12:59 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:12:59 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:12:59 --> URI Class Initialized
+INFO - 2016-08-26 18:12:59 --> Router Class Initialized
+INFO - 2016-08-26 18:12:59 --> Output Class Initialized
+INFO - 2016-08-26 18:12:59 --> Security Class Initialized
+DEBUG - 2016-08-26 18:12:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:12:59 --> Input Class Initialized
+INFO - 2016-08-26 18:12:59 --> Language Class Initialized
+INFO - 2016-08-26 18:13:00 --> Loader Class Initialized
+INFO - 2016-08-26 18:13:00 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:13:00 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:13:00 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:13:00 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:13:00 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:13:00 --> Email Class Initialized
+INFO - 2016-08-26 18:13:00 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:13:00 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:13:00 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:13:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:13:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:13:00 --> Model Class Initialized
+INFO - 2016-08-26 18:13:00 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:13:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:13:00 --> Model Class Initialized
+INFO - 2016-08-26 18:13:00 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:13:00 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:13:00 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:13:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:13:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:13:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:13:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:13:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:13:00 --> Final output sent to browser
+DEBUG - 2016-08-26 18:13:00 --> Total execution time: 0.1273
+INFO - 2016-08-26 18:13:00 --> Config Class Initialized
+INFO - 2016-08-26 18:13:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:13:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:13:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:13:00 --> URI Class Initialized
+INFO - 2016-08-26 18:13:00 --> Router Class Initialized
+INFO - 2016-08-26 18:13:00 --> Output Class Initialized
+INFO - 2016-08-26 18:13:00 --> Security Class Initialized
+DEBUG - 2016-08-26 18:13:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:13:00 --> Input Class Initialized
+INFO - 2016-08-26 18:13:00 --> Language Class Initialized
+ERROR - 2016-08-26 18:13:00 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:13:04 --> Config Class Initialized
+INFO - 2016-08-26 18:13:04 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:13:04 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:13:04 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:13:04 --> URI Class Initialized
+INFO - 2016-08-26 18:13:04 --> Router Class Initialized
+INFO - 2016-08-26 18:13:04 --> Output Class Initialized
+INFO - 2016-08-26 18:13:04 --> Security Class Initialized
+DEBUG - 2016-08-26 18:13:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:13:04 --> Input Class Initialized
+INFO - 2016-08-26 18:13:04 --> Language Class Initialized
+INFO - 2016-08-26 18:13:04 --> Loader Class Initialized
+INFO - 2016-08-26 18:13:04 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:13:04 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:13:04 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:13:04 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:13:04 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:13:04 --> Email Class Initialized
+INFO - 2016-08-26 18:13:04 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:13:04 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:13:04 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:13:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:13:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:13:04 --> Model Class Initialized
+INFO - 2016-08-26 18:13:04 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:13:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:13:04 --> Model Class Initialized
+INFO - 2016-08-26 18:13:04 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:13:04 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:13:04 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:13:04 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:13:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:13:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:13:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:13:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:13:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:13:04 --> Final output sent to browser
+DEBUG - 2016-08-26 18:13:04 --> Total execution time: 0.0941
+INFO - 2016-08-26 18:13:04 --> Config Class Initialized
+INFO - 2016-08-26 18:13:04 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:13:04 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:13:04 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:13:04 --> URI Class Initialized
+INFO - 2016-08-26 18:13:04 --> Router Class Initialized
+INFO - 2016-08-26 18:13:04 --> Output Class Initialized
+INFO - 2016-08-26 18:13:04 --> Security Class Initialized
+DEBUG - 2016-08-26 18:13:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:13:04 --> Input Class Initialized
+INFO - 2016-08-26 18:13:04 --> Language Class Initialized
+ERROR - 2016-08-26 18:13:04 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:14:47 --> Config Class Initialized
+INFO - 2016-08-26 18:14:47 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:14:47 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:14:47 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:14:47 --> URI Class Initialized
+INFO - 2016-08-26 18:14:47 --> Router Class Initialized
+INFO - 2016-08-26 18:14:47 --> Output Class Initialized
+INFO - 2016-08-26 18:14:47 --> Security Class Initialized
+DEBUG - 2016-08-26 18:14:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:14:47 --> Input Class Initialized
+INFO - 2016-08-26 18:14:47 --> Language Class Initialized
+INFO - 2016-08-26 18:14:47 --> Loader Class Initialized
+INFO - 2016-08-26 18:14:47 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:14:47 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:14:47 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:14:47 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:14:47 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:14:47 --> Email Class Initialized
+INFO - 2016-08-26 18:14:47 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:14:47 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:14:47 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:14:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:14:47 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:14:47 --> Model Class Initialized
+INFO - 2016-08-26 18:14:47 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:14:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:14:47 --> Model Class Initialized
+INFO - 2016-08-26 18:14:47 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:14:47 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:14:47 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:14:47 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:14:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:14:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:14:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:14:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:14:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:14:47 --> Final output sent to browser
+DEBUG - 2016-08-26 18:14:47 --> Total execution time: 0.1256
+INFO - 2016-08-26 18:14:47 --> Config Class Initialized
+INFO - 2016-08-26 18:14:47 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:14:47 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:14:47 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:14:47 --> URI Class Initialized
+INFO - 2016-08-26 18:14:47 --> Router Class Initialized
+INFO - 2016-08-26 18:14:47 --> Output Class Initialized
+INFO - 2016-08-26 18:14:47 --> Security Class Initialized
+DEBUG - 2016-08-26 18:14:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:14:47 --> Input Class Initialized
+INFO - 2016-08-26 18:14:47 --> Language Class Initialized
+ERROR - 2016-08-26 18:14:47 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:14:54 --> Config Class Initialized
+INFO - 2016-08-26 18:14:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:14:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:14:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:14:54 --> URI Class Initialized
+INFO - 2016-08-26 18:14:54 --> Router Class Initialized
+INFO - 2016-08-26 18:14:54 --> Output Class Initialized
+INFO - 2016-08-26 18:14:54 --> Security Class Initialized
+DEBUG - 2016-08-26 18:14:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:14:54 --> Input Class Initialized
+INFO - 2016-08-26 18:14:54 --> Language Class Initialized
+INFO - 2016-08-26 18:14:54 --> Loader Class Initialized
+INFO - 2016-08-26 18:14:54 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:14:54 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:14:54 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:14:54 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:14:54 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:14:54 --> Email Class Initialized
+INFO - 2016-08-26 18:14:54 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:14:54 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:14:54 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:14:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:14:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:14:54 --> Model Class Initialized
+INFO - 2016-08-26 18:14:54 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:14:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:14:54 --> Model Class Initialized
+INFO - 2016-08-26 18:14:54 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:14:54 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:14:54 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:14:54 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:14:54 --> Final output sent to browser
+DEBUG - 2016-08-26 18:14:54 --> Total execution time: 0.1102
+INFO - 2016-08-26 18:14:58 --> Config Class Initialized
+INFO - 2016-08-26 18:14:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:14:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:14:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:14:58 --> URI Class Initialized
+INFO - 2016-08-26 18:14:58 --> Router Class Initialized
+INFO - 2016-08-26 18:14:58 --> Output Class Initialized
+INFO - 2016-08-26 18:14:58 --> Security Class Initialized
+DEBUG - 2016-08-26 18:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:14:58 --> Input Class Initialized
+INFO - 2016-08-26 18:14:58 --> Language Class Initialized
+INFO - 2016-08-26 18:14:58 --> Loader Class Initialized
+INFO - 2016-08-26 18:14:58 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:14:58 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:14:58 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:14:58 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:14:58 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:14:58 --> Email Class Initialized
+INFO - 2016-08-26 18:14:58 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:14:58 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:14:58 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:14:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:14:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:14:58 --> Model Class Initialized
+INFO - 2016-08-26 18:14:58 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:14:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:14:58 --> Model Class Initialized
+INFO - 2016-08-26 18:14:58 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:14:58 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:14:58 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:14:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:14:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:14:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:14:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:14:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:14:58 --> Final output sent to browser
+DEBUG - 2016-08-26 18:14:58 --> Total execution time: 0.1429
+INFO - 2016-08-26 18:14:58 --> Config Class Initialized
+INFO - 2016-08-26 18:14:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:14:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:14:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:14:58 --> URI Class Initialized
+INFO - 2016-08-26 18:14:58 --> Router Class Initialized
+INFO - 2016-08-26 18:14:58 --> Output Class Initialized
+INFO - 2016-08-26 18:14:58 --> Security Class Initialized
+DEBUG - 2016-08-26 18:14:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:14:58 --> Input Class Initialized
+INFO - 2016-08-26 18:14:58 --> Language Class Initialized
+ERROR - 2016-08-26 18:14:58 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:00 --> Config Class Initialized
+INFO - 2016-08-26 18:15:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:00 --> URI Class Initialized
+INFO - 2016-08-26 18:15:00 --> Router Class Initialized
+INFO - 2016-08-26 18:15:00 --> Output Class Initialized
+INFO - 2016-08-26 18:15:00 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:00 --> Input Class Initialized
+INFO - 2016-08-26 18:15:00 --> Language Class Initialized
+INFO - 2016-08-26 18:15:00 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:00 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:00 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:00 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:00 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:00 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:00 --> Email Class Initialized
+INFO - 2016-08-26 18:15:00 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:00 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:00 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:00 --> Model Class Initialized
+INFO - 2016-08-26 18:15:00 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:00 --> Model Class Initialized
+INFO - 2016-08-26 18:15:00 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/laboratorium/list_laboratorium_view.php
+INFO - 2016-08-26 18:15:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:00 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:00 --> Total execution time: 0.1418
+INFO - 2016-08-26 18:15:01 --> Config Class Initialized
+INFO - 2016-08-26 18:15:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:01 --> URI Class Initialized
+INFO - 2016-08-26 18:15:01 --> Router Class Initialized
+INFO - 2016-08-26 18:15:01 --> Output Class Initialized
+INFO - 2016-08-26 18:15:01 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:01 --> Input Class Initialized
+INFO - 2016-08-26 18:15:01 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:01 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:05 --> Config Class Initialized
+INFO - 2016-08-26 18:15:05 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:05 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:05 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:05 --> URI Class Initialized
+INFO - 2016-08-26 18:15:05 --> Router Class Initialized
+INFO - 2016-08-26 18:15:05 --> Output Class Initialized
+INFO - 2016-08-26 18:15:05 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:05 --> Input Class Initialized
+INFO - 2016-08-26 18:15:05 --> Language Class Initialized
+INFO - 2016-08-26 18:15:05 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:05 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:05 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:05 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:05 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:05 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:05 --> Email Class Initialized
+INFO - 2016-08-26 18:15:05 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:05 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:05 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:05 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:05 --> Model Class Initialized
+INFO - 2016-08-26 18:15:05 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:05 --> Model Class Initialized
+INFO - 2016-08-26 18:15:05 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:05 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:05 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:15:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:05 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:05 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:05 --> Total execution time: 0.1331
+INFO - 2016-08-26 18:15:05 --> Config Class Initialized
+INFO - 2016-08-26 18:15:05 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:05 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:05 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:05 --> URI Class Initialized
+INFO - 2016-08-26 18:15:05 --> Router Class Initialized
+INFO - 2016-08-26 18:15:05 --> Output Class Initialized
+INFO - 2016-08-26 18:15:05 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:05 --> Input Class Initialized
+INFO - 2016-08-26 18:15:05 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:05 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:24 --> Config Class Initialized
+INFO - 2016-08-26 18:15:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:24 --> URI Class Initialized
+INFO - 2016-08-26 18:15:24 --> Router Class Initialized
+INFO - 2016-08-26 18:15:24 --> Output Class Initialized
+INFO - 2016-08-26 18:15:24 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:24 --> Input Class Initialized
+INFO - 2016-08-26 18:15:24 --> Language Class Initialized
+INFO - 2016-08-26 18:15:24 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:24 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:24 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:24 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:24 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:24 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:24 --> Email Class Initialized
+INFO - 2016-08-26 18:15:24 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:24 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:24 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:24 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:24 --> Model Class Initialized
+INFO - 2016-08-26 18:15:24 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:24 --> Model Class Initialized
+INFO - 2016-08-26 18:15:24 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:24 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:24 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:15:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:24 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:24 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:24 --> Total execution time: 0.1192
+INFO - 2016-08-26 18:15:24 --> Config Class Initialized
+INFO - 2016-08-26 18:15:24 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:24 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:24 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:24 --> URI Class Initialized
+INFO - 2016-08-26 18:15:24 --> Router Class Initialized
+INFO - 2016-08-26 18:15:24 --> Output Class Initialized
+INFO - 2016-08-26 18:15:24 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:24 --> Input Class Initialized
+INFO - 2016-08-26 18:15:24 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:24 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:25 --> Config Class Initialized
+INFO - 2016-08-26 18:15:25 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:25 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:25 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:25 --> URI Class Initialized
+INFO - 2016-08-26 18:15:25 --> Router Class Initialized
+INFO - 2016-08-26 18:15:25 --> Output Class Initialized
+INFO - 2016-08-26 18:15:25 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:25 --> Input Class Initialized
+INFO - 2016-08-26 18:15:25 --> Language Class Initialized
+INFO - 2016-08-26 18:15:25 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:25 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:25 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:25 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:25 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:25 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:25 --> Email Class Initialized
+INFO - 2016-08-26 18:15:25 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:25 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:25 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:25 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:25 --> Model Class Initialized
+INFO - 2016-08-26 18:15:25 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:25 --> Model Class Initialized
+INFO - 2016-08-26 18:15:25 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:25 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:25 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:25 --> Model Class Initialized
+INFO - 2016-08-26 18:15:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:15:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:25 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:25 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:25 --> Total execution time: 0.1198
+INFO - 2016-08-26 18:15:25 --> Config Class Initialized
+INFO - 2016-08-26 18:15:25 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:25 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:25 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:25 --> URI Class Initialized
+INFO - 2016-08-26 18:15:25 --> Router Class Initialized
+INFO - 2016-08-26 18:15:25 --> Output Class Initialized
+INFO - 2016-08-26 18:15:25 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:25 --> Input Class Initialized
+INFO - 2016-08-26 18:15:25 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:25 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:32 --> Config Class Initialized
+INFO - 2016-08-26 18:15:32 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:32 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:32 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:32 --> URI Class Initialized
+INFO - 2016-08-26 18:15:32 --> Router Class Initialized
+INFO - 2016-08-26 18:15:32 --> Output Class Initialized
+INFO - 2016-08-26 18:15:32 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:32 --> Input Class Initialized
+INFO - 2016-08-26 18:15:32 --> Language Class Initialized
+INFO - 2016-08-26 18:15:32 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:32 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:32 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:32 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:32 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:32 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:32 --> Email Class Initialized
+INFO - 2016-08-26 18:15:32 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:32 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:32 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:32 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:32 --> Model Class Initialized
+INFO - 2016-08-26 18:15:32 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:32 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:32 --> Model Class Initialized
+INFO - 2016-08-26 18:15:32 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:33 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:33 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:15:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:33 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:33 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:33 --> Total execution time: 0.1809
+INFO - 2016-08-26 18:15:33 --> Config Class Initialized
+INFO - 2016-08-26 18:15:33 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:33 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:33 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:33 --> URI Class Initialized
+INFO - 2016-08-26 18:15:33 --> Router Class Initialized
+INFO - 2016-08-26 18:15:33 --> Output Class Initialized
+INFO - 2016-08-26 18:15:33 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:33 --> Input Class Initialized
+INFO - 2016-08-26 18:15:33 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:33 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:33 --> Config Class Initialized
+INFO - 2016-08-26 18:15:33 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:33 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:33 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:33 --> URI Class Initialized
+INFO - 2016-08-26 18:15:33 --> Router Class Initialized
+INFO - 2016-08-26 18:15:33 --> Output Class Initialized
+INFO - 2016-08-26 18:15:33 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:33 --> Input Class Initialized
+INFO - 2016-08-26 18:15:33 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:33 --> 404 Page Not Found: admin/Rfid/favicon.ico
+INFO - 2016-08-26 18:15:36 --> Config Class Initialized
+INFO - 2016-08-26 18:15:36 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:36 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:36 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:36 --> URI Class Initialized
+INFO - 2016-08-26 18:15:36 --> Router Class Initialized
+INFO - 2016-08-26 18:15:36 --> Output Class Initialized
+INFO - 2016-08-26 18:15:36 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:36 --> Input Class Initialized
+INFO - 2016-08-26 18:15:36 --> Language Class Initialized
+INFO - 2016-08-26 18:15:36 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:36 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:36 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:36 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:36 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:36 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:36 --> Email Class Initialized
+INFO - 2016-08-26 18:15:36 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:36 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:36 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:36 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:36 --> Model Class Initialized
+INFO - 2016-08-26 18:15:36 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:36 --> Model Class Initialized
+INFO - 2016-08-26 18:15:36 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:36 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:36 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:36 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:15:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:15:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:36 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:36 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:36 --> Total execution time: 0.1682
+INFO - 2016-08-26 18:15:36 --> Config Class Initialized
+INFO - 2016-08-26 18:15:36 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:36 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:36 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:36 --> URI Class Initialized
+INFO - 2016-08-26 18:15:36 --> Router Class Initialized
+INFO - 2016-08-26 18:15:36 --> Output Class Initialized
+INFO - 2016-08-26 18:15:36 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:36 --> Input Class Initialized
+INFO - 2016-08-26 18:15:36 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:36 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:41 --> Config Class Initialized
+INFO - 2016-08-26 18:15:41 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:41 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:41 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:41 --> URI Class Initialized
+INFO - 2016-08-26 18:15:41 --> Router Class Initialized
+INFO - 2016-08-26 18:15:41 --> Output Class Initialized
+INFO - 2016-08-26 18:15:41 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:41 --> Input Class Initialized
+INFO - 2016-08-26 18:15:41 --> Language Class Initialized
+INFO - 2016-08-26 18:15:41 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:41 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:41 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:41 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:41 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:41 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:41 --> Email Class Initialized
+INFO - 2016-08-26 18:15:41 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:41 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:41 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:41 --> Model Class Initialized
+INFO - 2016-08-26 18:15:41 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:41 --> Model Class Initialized
+INFO - 2016-08-26 18:15:41 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:41 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:41 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:41 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:15:41 --> Config Class Initialized
+INFO - 2016-08-26 18:15:41 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:41 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:41 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:41 --> URI Class Initialized
+INFO - 2016-08-26 18:15:41 --> Router Class Initialized
+INFO - 2016-08-26 18:15:41 --> Output Class Initialized
+INFO - 2016-08-26 18:15:41 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:41 --> Input Class Initialized
+INFO - 2016-08-26 18:15:41 --> Language Class Initialized
+INFO - 2016-08-26 18:15:41 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:41 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:41 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:41 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:41 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:41 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:41 --> Email Class Initialized
+INFO - 2016-08-26 18:15:41 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:41 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:41 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:41 --> Model Class Initialized
+INFO - 2016-08-26 18:15:41 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:41 --> Model Class Initialized
+INFO - 2016-08-26 18:15:41 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:41 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:41 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:41 --> Model Class Initialized
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:41 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:41 --> Total execution time: 0.1075
+INFO - 2016-08-26 18:15:42 --> Config Class Initialized
+INFO - 2016-08-26 18:15:42 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:42 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:42 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:42 --> URI Class Initialized
+INFO - 2016-08-26 18:15:42 --> Router Class Initialized
+INFO - 2016-08-26 18:15:42 --> Output Class Initialized
+INFO - 2016-08-26 18:15:42 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:42 --> Input Class Initialized
+INFO - 2016-08-26 18:15:42 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:42 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:43 --> Config Class Initialized
+INFO - 2016-08-26 18:15:43 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:43 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:43 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:43 --> URI Class Initialized
+INFO - 2016-08-26 18:15:43 --> Router Class Initialized
+INFO - 2016-08-26 18:15:43 --> Output Class Initialized
+INFO - 2016-08-26 18:15:43 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:43 --> Input Class Initialized
+INFO - 2016-08-26 18:15:43 --> Language Class Initialized
+INFO - 2016-08-26 18:15:43 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:43 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:43 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:43 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:43 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:43 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:43 --> Email Class Initialized
+INFO - 2016-08-26 18:15:43 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:43 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:43 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:43 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:43 --> Model Class Initialized
+INFO - 2016-08-26 18:15:43 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:43 --> Model Class Initialized
+INFO - 2016-08-26 18:15:43 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:43 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:43 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:15:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:43 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:43 --> Total execution time: 0.1039
+INFO - 2016-08-26 18:15:44 --> Config Class Initialized
+INFO - 2016-08-26 18:15:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:44 --> URI Class Initialized
+INFO - 2016-08-26 18:15:44 --> Router Class Initialized
+INFO - 2016-08-26 18:15:44 --> Output Class Initialized
+INFO - 2016-08-26 18:15:44 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:44 --> Input Class Initialized
+INFO - 2016-08-26 18:15:44 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:44 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:46 --> Config Class Initialized
+INFO - 2016-08-26 18:15:46 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:46 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:46 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:46 --> URI Class Initialized
+INFO - 2016-08-26 18:15:46 --> Router Class Initialized
+INFO - 2016-08-26 18:15:46 --> Output Class Initialized
+INFO - 2016-08-26 18:15:46 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:46 --> Input Class Initialized
+INFO - 2016-08-26 18:15:46 --> Language Class Initialized
+INFO - 2016-08-26 18:15:46 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:46 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:46 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:46 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:46 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:46 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:46 --> Email Class Initialized
+INFO - 2016-08-26 18:15:46 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:46 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:46 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:46 --> Model Class Initialized
+INFO - 2016-08-26 18:15:46 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:46 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:46 --> Model Class Initialized
+INFO - 2016-08-26 18:15:46 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:46 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:46 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:46 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:15:46 --> Config Class Initialized
+INFO - 2016-08-26 18:15:46 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:46 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:46 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:46 --> URI Class Initialized
+INFO - 2016-08-26 18:15:46 --> Router Class Initialized
+INFO - 2016-08-26 18:15:46 --> Output Class Initialized
+INFO - 2016-08-26 18:15:46 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:46 --> Input Class Initialized
+INFO - 2016-08-26 18:15:46 --> Language Class Initialized
+INFO - 2016-08-26 18:15:46 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:46 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:46 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:46 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:46 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:46 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:46 --> Email Class Initialized
+INFO - 2016-08-26 18:15:46 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:46 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:46 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:46 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:46 --> Model Class Initialized
+INFO - 2016-08-26 18:15:47 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:47 --> Model Class Initialized
+INFO - 2016-08-26 18:15:47 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:47 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:47 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:47 --> Model Class Initialized
+INFO - 2016-08-26 18:15:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:15:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:47 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:47 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:47 --> Total execution time: 0.1033
+INFO - 2016-08-26 18:15:47 --> Config Class Initialized
+INFO - 2016-08-26 18:15:47 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:47 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:47 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:47 --> URI Class Initialized
+INFO - 2016-08-26 18:15:47 --> Router Class Initialized
+INFO - 2016-08-26 18:15:47 --> Output Class Initialized
+INFO - 2016-08-26 18:15:47 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:47 --> Input Class Initialized
+INFO - 2016-08-26 18:15:47 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:47 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:51 --> Config Class Initialized
+INFO - 2016-08-26 18:15:51 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:51 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:51 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:51 --> URI Class Initialized
+INFO - 2016-08-26 18:15:51 --> Router Class Initialized
+INFO - 2016-08-26 18:15:51 --> Output Class Initialized
+INFO - 2016-08-26 18:15:51 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:51 --> Input Class Initialized
+INFO - 2016-08-26 18:15:51 --> Language Class Initialized
+INFO - 2016-08-26 18:15:51 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:51 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:51 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:51 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:51 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:51 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:51 --> Email Class Initialized
+INFO - 2016-08-26 18:15:51 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:51 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:51 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:51 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:51 --> Model Class Initialized
+INFO - 2016-08-26 18:15:51 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:51 --> Model Class Initialized
+INFO - 2016-08-26 18:15:51 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:51 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:51 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:15:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:51 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:51 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:51 --> Total execution time: 0.1119
+INFO - 2016-08-26 18:15:52 --> Config Class Initialized
+INFO - 2016-08-26 18:15:52 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:52 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:52 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:52 --> URI Class Initialized
+INFO - 2016-08-26 18:15:52 --> Router Class Initialized
+INFO - 2016-08-26 18:15:52 --> Output Class Initialized
+INFO - 2016-08-26 18:15:52 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:52 --> Input Class Initialized
+INFO - 2016-08-26 18:15:52 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:52 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:15:55 --> Config Class Initialized
+INFO - 2016-08-26 18:15:55 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:55 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:55 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:55 --> URI Class Initialized
+INFO - 2016-08-26 18:15:55 --> Router Class Initialized
+INFO - 2016-08-26 18:15:55 --> Output Class Initialized
+INFO - 2016-08-26 18:15:55 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:55 --> Input Class Initialized
+INFO - 2016-08-26 18:15:55 --> Language Class Initialized
+INFO - 2016-08-26 18:15:55 --> Loader Class Initialized
+INFO - 2016-08-26 18:15:55 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:15:55 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:15:55 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:15:55 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:15:55 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:15:55 --> Email Class Initialized
+INFO - 2016-08-26 18:15:55 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:15:55 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:15:55 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:15:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:15:55 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:15:55 --> Model Class Initialized
+INFO - 2016-08-26 18:15:55 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:15:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:15:55 --> Model Class Initialized
+INFO - 2016-08-26 18:15:55 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:15:55 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:15:55 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:15:55 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:15:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:15:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:15:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:15:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:15:55 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:15:55 --> Final output sent to browser
+DEBUG - 2016-08-26 18:15:55 --> Total execution time: 0.1049
+INFO - 2016-08-26 18:15:55 --> Config Class Initialized
+INFO - 2016-08-26 18:15:55 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:15:55 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:15:55 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:15:55 --> URI Class Initialized
+INFO - 2016-08-26 18:15:55 --> Router Class Initialized
+INFO - 2016-08-26 18:15:55 --> Output Class Initialized
+INFO - 2016-08-26 18:15:55 --> Security Class Initialized
+DEBUG - 2016-08-26 18:15:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:15:55 --> Input Class Initialized
+INFO - 2016-08-26 18:15:55 --> Language Class Initialized
+ERROR - 2016-08-26 18:15:55 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:16:00 --> Config Class Initialized
+INFO - 2016-08-26 18:16:00 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:00 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:00 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:00 --> URI Class Initialized
+INFO - 2016-08-26 18:16:00 --> Router Class Initialized
+INFO - 2016-08-26 18:16:00 --> Output Class Initialized
+INFO - 2016-08-26 18:16:00 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:00 --> Input Class Initialized
+INFO - 2016-08-26 18:16:00 --> Language Class Initialized
+INFO - 2016-08-26 18:16:00 --> Loader Class Initialized
+INFO - 2016-08-26 18:16:00 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:16:00 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:16:00 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:16:00 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:16:00 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:16:00 --> Email Class Initialized
+INFO - 2016-08-26 18:16:00 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:16:00 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:16:00 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:16:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:16:00 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:16:00 --> Model Class Initialized
+INFO - 2016-08-26 18:16:00 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:16:00 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:16:00 --> Model Class Initialized
+INFO - 2016-08-26 18:16:00 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:16:00 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:16:00 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:16:00 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:16:01 --> Config Class Initialized
+INFO - 2016-08-26 18:16:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:01 --> URI Class Initialized
+INFO - 2016-08-26 18:16:01 --> Router Class Initialized
+INFO - 2016-08-26 18:16:01 --> Output Class Initialized
+INFO - 2016-08-26 18:16:01 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:01 --> Input Class Initialized
+INFO - 2016-08-26 18:16:01 --> Language Class Initialized
+INFO - 2016-08-26 18:16:01 --> Loader Class Initialized
+INFO - 2016-08-26 18:16:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:16:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:16:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:16:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:16:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:16:01 --> Email Class Initialized
+INFO - 2016-08-26 18:16:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:16:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:16:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:16:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:16:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:16:01 --> Model Class Initialized
+INFO - 2016-08-26 18:16:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:16:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:16:01 --> Model Class Initialized
+INFO - 2016-08-26 18:16:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:16:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:16:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:16:01 --> Model Class Initialized
+INFO - 2016-08-26 18:16:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:16:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:16:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:16:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:16:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:16:01 --> Final output sent to browser
+DEBUG - 2016-08-26 18:16:01 --> Total execution time: 0.1139
+INFO - 2016-08-26 18:16:01 --> Config Class Initialized
+INFO - 2016-08-26 18:16:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:01 --> URI Class Initialized
+INFO - 2016-08-26 18:16:01 --> Router Class Initialized
+INFO - 2016-08-26 18:16:01 --> Output Class Initialized
+INFO - 2016-08-26 18:16:01 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:01 --> Input Class Initialized
+INFO - 2016-08-26 18:16:01 --> Language Class Initialized
+ERROR - 2016-08-26 18:16:01 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:16:19 --> Config Class Initialized
+INFO - 2016-08-26 18:16:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:19 --> URI Class Initialized
+INFO - 2016-08-26 18:16:19 --> Router Class Initialized
+INFO - 2016-08-26 18:16:19 --> Output Class Initialized
+INFO - 2016-08-26 18:16:19 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:19 --> Input Class Initialized
+INFO - 2016-08-26 18:16:19 --> Language Class Initialized
+ERROR - 2016-08-26 18:16:19 --> 404 Page Not Found: admin/Rfid/add_mahasiswa
+INFO - 2016-08-26 18:16:20 --> Config Class Initialized
+INFO - 2016-08-26 18:16:20 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:20 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:20 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:20 --> URI Class Initialized
+INFO - 2016-08-26 18:16:20 --> Router Class Initialized
+INFO - 2016-08-26 18:16:20 --> Output Class Initialized
+INFO - 2016-08-26 18:16:20 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:20 --> Input Class Initialized
+INFO - 2016-08-26 18:16:20 --> Language Class Initialized
+INFO - 2016-08-26 18:16:20 --> Loader Class Initialized
+INFO - 2016-08-26 18:16:20 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:16:20 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:16:20 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:16:20 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:16:20 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:16:20 --> Email Class Initialized
+INFO - 2016-08-26 18:16:20 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:16:20 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:16:20 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:16:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:16:20 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:16:20 --> Model Class Initialized
+INFO - 2016-08-26 18:16:20 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:16:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:16:20 --> Model Class Initialized
+INFO - 2016-08-26 18:16:20 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:16:20 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:16:20 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:16:20 --> Model Class Initialized
+INFO - 2016-08-26 18:16:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:16:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:16:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:16:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:16:20 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:16:20 --> Final output sent to browser
+DEBUG - 2016-08-26 18:16:20 --> Total execution time: 0.1614
+INFO - 2016-08-26 18:16:21 --> Config Class Initialized
+INFO - 2016-08-26 18:16:21 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:21 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:21 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:21 --> URI Class Initialized
+INFO - 2016-08-26 18:16:21 --> Router Class Initialized
+INFO - 2016-08-26 18:16:21 --> Output Class Initialized
+INFO - 2016-08-26 18:16:21 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:21 --> Input Class Initialized
+INFO - 2016-08-26 18:16:21 --> Language Class Initialized
+ERROR - 2016-08-26 18:16:21 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:16:42 --> Config Class Initialized
+INFO - 2016-08-26 18:16:42 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:42 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:42 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:42 --> URI Class Initialized
+INFO - 2016-08-26 18:16:42 --> Router Class Initialized
+INFO - 2016-08-26 18:16:42 --> Output Class Initialized
+INFO - 2016-08-26 18:16:42 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:42 --> Input Class Initialized
+INFO - 2016-08-26 18:16:42 --> Language Class Initialized
+INFO - 2016-08-26 18:16:42 --> Loader Class Initialized
+INFO - 2016-08-26 18:16:42 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:16:42 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:16:42 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:16:42 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:16:42 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:16:42 --> Email Class Initialized
+INFO - 2016-08-26 18:16:42 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:16:42 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:16:42 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:16:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:16:42 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:16:42 --> Model Class Initialized
+INFO - 2016-08-26 18:16:42 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:16:42 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:16:42 --> Model Class Initialized
+INFO - 2016-08-26 18:16:42 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:16:43 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:16:43 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:16:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/edit_rfid_view.php
+INFO - 2016-08-26 18:16:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:16:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:16:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:16:43 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:16:43 --> Final output sent to browser
+DEBUG - 2016-08-26 18:16:43 --> Total execution time: 0.1267
+INFO - 2016-08-26 18:16:43 --> Config Class Initialized
+INFO - 2016-08-26 18:16:43 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:43 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:43 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:43 --> URI Class Initialized
+INFO - 2016-08-26 18:16:43 --> Router Class Initialized
+INFO - 2016-08-26 18:16:43 --> Output Class Initialized
+INFO - 2016-08-26 18:16:43 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:43 --> Input Class Initialized
+INFO - 2016-08-26 18:16:43 --> Language Class Initialized
+ERROR - 2016-08-26 18:16:43 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:16:44 --> Config Class Initialized
+INFO - 2016-08-26 18:16:44 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:44 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:44 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:44 --> URI Class Initialized
+INFO - 2016-08-26 18:16:44 --> Router Class Initialized
+INFO - 2016-08-26 18:16:44 --> Output Class Initialized
+INFO - 2016-08-26 18:16:44 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:44 --> Input Class Initialized
+INFO - 2016-08-26 18:16:44 --> Language Class Initialized
+INFO - 2016-08-26 18:16:44 --> Loader Class Initialized
+INFO - 2016-08-26 18:16:44 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:16:44 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:16:44 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:16:44 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:16:44 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:16:44 --> Email Class Initialized
+INFO - 2016-08-26 18:16:44 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:16:44 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:16:44 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:16:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:16:44 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:16:44 --> Model Class Initialized
+INFO - 2016-08-26 18:16:44 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:16:44 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:16:44 --> Model Class Initialized
+INFO - 2016-08-26 18:16:44 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:16:44 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:16:44 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:16:44 --> Model Class Initialized
+INFO - 2016-08-26 18:16:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:16:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:16:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:16:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:16:45 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:16:45 --> Final output sent to browser
+DEBUG - 2016-08-26 18:16:45 --> Total execution time: 0.1019
+INFO - 2016-08-26 18:16:45 --> Config Class Initialized
+INFO - 2016-08-26 18:16:45 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:16:45 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:16:45 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:16:45 --> URI Class Initialized
+INFO - 2016-08-26 18:16:45 --> Router Class Initialized
+INFO - 2016-08-26 18:16:45 --> Output Class Initialized
+INFO - 2016-08-26 18:16:45 --> Security Class Initialized
+DEBUG - 2016-08-26 18:16:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:16:45 --> Input Class Initialized
+INFO - 2016-08-26 18:16:45 --> Language Class Initialized
+ERROR - 2016-08-26 18:16:45 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:17:41 --> Config Class Initialized
+INFO - 2016-08-26 18:17:41 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:17:41 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:17:41 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:17:41 --> URI Class Initialized
+INFO - 2016-08-26 18:17:41 --> Router Class Initialized
+INFO - 2016-08-26 18:17:41 --> Output Class Initialized
+INFO - 2016-08-26 18:17:41 --> Security Class Initialized
+DEBUG - 2016-08-26 18:17:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:17:41 --> Input Class Initialized
+INFO - 2016-08-26 18:17:41 --> Language Class Initialized
+INFO - 2016-08-26 18:17:41 --> Loader Class Initialized
+INFO - 2016-08-26 18:17:41 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:17:41 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:17:41 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:17:41 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:17:41 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:17:41 --> Email Class Initialized
+INFO - 2016-08-26 18:17:41 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:17:41 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:17:41 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:17:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:17:41 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:17:41 --> Model Class Initialized
+INFO - 2016-08-26 18:17:41 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:17:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:17:41 --> Model Class Initialized
+INFO - 2016-08-26 18:17:41 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:17:41 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:17:41 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:17:41 --> Model Class Initialized
+INFO - 2016-08-26 18:17:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:17:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:17:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:17:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:17:41 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:17:41 --> Final output sent to browser
+DEBUG - 2016-08-26 18:17:41 --> Total execution time: 0.1265
+INFO - 2016-08-26 18:17:41 --> Config Class Initialized
+INFO - 2016-08-26 18:17:41 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:17:41 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:17:41 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:17:41 --> URI Class Initialized
+INFO - 2016-08-26 18:17:41 --> Router Class Initialized
+INFO - 2016-08-26 18:17:41 --> Output Class Initialized
+INFO - 2016-08-26 18:17:41 --> Security Class Initialized
+DEBUG - 2016-08-26 18:17:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:17:41 --> Input Class Initialized
+INFO - 2016-08-26 18:17:41 --> Language Class Initialized
+ERROR - 2016-08-26 18:17:41 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:17:56 --> Config Class Initialized
+INFO - 2016-08-26 18:17:56 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:17:56 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:17:56 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:17:56 --> URI Class Initialized
+INFO - 2016-08-26 18:17:56 --> Router Class Initialized
+INFO - 2016-08-26 18:17:56 --> Output Class Initialized
+INFO - 2016-08-26 18:17:56 --> Security Class Initialized
+DEBUG - 2016-08-26 18:17:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:17:56 --> Input Class Initialized
+INFO - 2016-08-26 18:17:56 --> Language Class Initialized
+INFO - 2016-08-26 18:17:56 --> Loader Class Initialized
+INFO - 2016-08-26 18:17:56 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:17:56 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:17:56 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:17:56 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:17:56 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:17:56 --> Email Class Initialized
+INFO - 2016-08-26 18:17:56 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:17:56 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:17:56 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:17:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:17:56 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:17:56 --> Model Class Initialized
+INFO - 2016-08-26 18:17:56 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:17:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:17:56 --> Model Class Initialized
+INFO - 2016-08-26 18:17:56 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:17:56 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:17:56 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:17:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:17:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:17:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:17:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:17:56 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:17:56 --> Final output sent to browser
+DEBUG - 2016-08-26 18:17:56 --> Total execution time: 0.1111
+INFO - 2016-08-26 18:17:57 --> Config Class Initialized
+INFO - 2016-08-26 18:17:57 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:17:57 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:17:57 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:17:57 --> URI Class Initialized
+INFO - 2016-08-26 18:17:57 --> Router Class Initialized
+INFO - 2016-08-26 18:17:57 --> Output Class Initialized
+INFO - 2016-08-26 18:17:57 --> Security Class Initialized
+DEBUG - 2016-08-26 18:17:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:17:57 --> Input Class Initialized
+INFO - 2016-08-26 18:17:57 --> Language Class Initialized
+ERROR - 2016-08-26 18:17:57 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:18:14 --> Config Class Initialized
+INFO - 2016-08-26 18:18:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:14 --> URI Class Initialized
+INFO - 2016-08-26 18:18:14 --> Router Class Initialized
+INFO - 2016-08-26 18:18:14 --> Output Class Initialized
+INFO - 2016-08-26 18:18:14 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:14 --> Input Class Initialized
+INFO - 2016-08-26 18:18:14 --> Language Class Initialized
+INFO - 2016-08-26 18:18:14 --> Loader Class Initialized
+INFO - 2016-08-26 18:18:14 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:18:14 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:18:14 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:18:14 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:18:14 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:18:14 --> Email Class Initialized
+INFO - 2016-08-26 18:18:14 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:18:14 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:18:14 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:18:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:18:14 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:18:14 --> Model Class Initialized
+INFO - 2016-08-26 18:18:14 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:18:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:18:14 --> Model Class Initialized
+INFO - 2016-08-26 18:18:14 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:18:14 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:18:14 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:18:14 --> Model Class Initialized
+INFO - 2016-08-26 18:18:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:18:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:18:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:18:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:18:14 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:18:14 --> Final output sent to browser
+DEBUG - 2016-08-26 18:18:14 --> Total execution time: 0.1377
+INFO - 2016-08-26 18:18:14 --> Config Class Initialized
+INFO - 2016-08-26 18:18:14 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:14 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:14 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:14 --> URI Class Initialized
+INFO - 2016-08-26 18:18:14 --> Router Class Initialized
+INFO - 2016-08-26 18:18:14 --> Output Class Initialized
+INFO - 2016-08-26 18:18:14 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:14 --> Input Class Initialized
+INFO - 2016-08-26 18:18:14 --> Language Class Initialized
+ERROR - 2016-08-26 18:18:14 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:18:23 --> Config Class Initialized
+INFO - 2016-08-26 18:18:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:23 --> URI Class Initialized
+INFO - 2016-08-26 18:18:23 --> Router Class Initialized
+INFO - 2016-08-26 18:18:23 --> Output Class Initialized
+INFO - 2016-08-26 18:18:23 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:23 --> Input Class Initialized
+INFO - 2016-08-26 18:18:23 --> Language Class Initialized
+INFO - 2016-08-26 18:18:23 --> Loader Class Initialized
+INFO - 2016-08-26 18:18:23 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:18:23 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:18:23 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:18:23 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:18:23 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:18:23 --> Email Class Initialized
+INFO - 2016-08-26 18:18:23 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:18:23 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:18:23 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:18:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:18:23 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:18:23 --> Model Class Initialized
+INFO - 2016-08-26 18:18:23 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:18:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:18:23 --> Model Class Initialized
+INFO - 2016-08-26 18:18:23 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:18:23 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:18:23 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:18:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/create_rfid_view.php
+INFO - 2016-08-26 18:18:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:18:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:18:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:18:23 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:18:23 --> Final output sent to browser
+DEBUG - 2016-08-26 18:18:23 --> Total execution time: 0.1266
+INFO - 2016-08-26 18:18:23 --> Config Class Initialized
+INFO - 2016-08-26 18:18:23 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:23 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:23 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:23 --> URI Class Initialized
+INFO - 2016-08-26 18:18:23 --> Router Class Initialized
+INFO - 2016-08-26 18:18:23 --> Output Class Initialized
+INFO - 2016-08-26 18:18:23 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:23 --> Input Class Initialized
+INFO - 2016-08-26 18:18:23 --> Language Class Initialized
+ERROR - 2016-08-26 18:18:23 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:18:54 --> Config Class Initialized
+INFO - 2016-08-26 18:18:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:54 --> URI Class Initialized
+INFO - 2016-08-26 18:18:54 --> Router Class Initialized
+INFO - 2016-08-26 18:18:54 --> Output Class Initialized
+INFO - 2016-08-26 18:18:54 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:54 --> Input Class Initialized
+INFO - 2016-08-26 18:18:54 --> Language Class Initialized
+INFO - 2016-08-26 18:18:54 --> Loader Class Initialized
+INFO - 2016-08-26 18:18:54 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:18:54 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:18:54 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:18:54 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:18:54 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:18:54 --> Email Class Initialized
+INFO - 2016-08-26 18:18:54 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:18:54 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:18:54 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:18:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:18:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:18:54 --> Model Class Initialized
+INFO - 2016-08-26 18:18:54 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:18:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:18:54 --> Model Class Initialized
+INFO - 2016-08-26 18:18:54 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:18:54 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:18:54 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:18:54 --> Model Class Initialized
+INFO - 2016-08-26 18:18:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/rfid/list_rfid_view.php
+INFO - 2016-08-26 18:18:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:18:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:18:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:18:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:18:54 --> Final output sent to browser
+DEBUG - 2016-08-26 18:18:54 --> Total execution time: 0.1534
+INFO - 2016-08-26 18:18:54 --> Config Class Initialized
+INFO - 2016-08-26 18:18:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:54 --> URI Class Initialized
+INFO - 2016-08-26 18:18:54 --> Router Class Initialized
+INFO - 2016-08-26 18:18:54 --> Output Class Initialized
+INFO - 2016-08-26 18:18:54 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:54 --> Input Class Initialized
+INFO - 2016-08-26 18:18:54 --> Language Class Initialized
+ERROR - 2016-08-26 18:18:54 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:18:57 --> Config Class Initialized
+INFO - 2016-08-26 18:18:57 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:57 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:57 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:57 --> URI Class Initialized
+INFO - 2016-08-26 18:18:57 --> Router Class Initialized
+INFO - 2016-08-26 18:18:57 --> Output Class Initialized
+INFO - 2016-08-26 18:18:57 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:57 --> Input Class Initialized
+INFO - 2016-08-26 18:18:57 --> Language Class Initialized
+INFO - 2016-08-26 18:18:58 --> Loader Class Initialized
+INFO - 2016-08-26 18:18:58 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:18:58 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:18:58 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:18:58 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:18:58 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:18:58 --> Email Class Initialized
+INFO - 2016-08-26 18:18:58 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:18:58 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:18:58 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:18:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:18:58 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:18:58 --> Model Class Initialized
+INFO - 2016-08-26 18:18:58 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:18:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:18:58 --> Model Class Initialized
+INFO - 2016-08-26 18:18:58 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:18:58 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:18:58 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:18:58 --> Model Class Initialized
+INFO - 2016-08-26 18:18:58 --> Model Class Initialized
+INFO - 2016-08-26 18:18:58 --> Model Class Initialized
+INFO - 2016-08-26 18:18:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 18:18:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:18:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:18:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:18:58 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:18:58 --> Final output sent to browser
+DEBUG - 2016-08-26 18:18:58 --> Total execution time: 0.1518
+INFO - 2016-08-26 18:18:58 --> Config Class Initialized
+INFO - 2016-08-26 18:18:58 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:18:58 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:18:58 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:18:58 --> URI Class Initialized
+INFO - 2016-08-26 18:18:58 --> Router Class Initialized
+INFO - 2016-08-26 18:18:58 --> Output Class Initialized
+INFO - 2016-08-26 18:18:58 --> Security Class Initialized
+DEBUG - 2016-08-26 18:18:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:18:58 --> Input Class Initialized
+INFO - 2016-08-26 18:18:58 --> Language Class Initialized
+ERROR - 2016-08-26 18:18:58 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:01 --> Config Class Initialized
+INFO - 2016-08-26 18:19:01 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:01 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:01 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:01 --> URI Class Initialized
+INFO - 2016-08-26 18:19:01 --> Router Class Initialized
+INFO - 2016-08-26 18:19:01 --> Output Class Initialized
+INFO - 2016-08-26 18:19:01 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:01 --> Input Class Initialized
+INFO - 2016-08-26 18:19:01 --> Language Class Initialized
+INFO - 2016-08-26 18:19:01 --> Loader Class Initialized
+INFO - 2016-08-26 18:19:01 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:19:01 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:19:01 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:19:01 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:19:01 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:19:01 --> Email Class Initialized
+INFO - 2016-08-26 18:19:01 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:19:01 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:19:01 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:19:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:19:01 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:19:01 --> Model Class Initialized
+INFO - 2016-08-26 18:19:01 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:19:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:19:01 --> Model Class Initialized
+INFO - 2016-08-26 18:19:01 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:19:01 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:19:01 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:19:01 --> Model Class Initialized
+INFO - 2016-08-26 18:19:01 --> Model Class Initialized
+INFO - 2016-08-26 18:19:01 --> Model Class Initialized
+INFO - 2016-08-26 18:19:01 --> Model Class Initialized
+INFO - 2016-08-26 18:19:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:19:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:19:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:19:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:19:01 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:19:01 --> Final output sent to browser
+DEBUG - 2016-08-26 18:19:01 --> Total execution time: 0.1487
+INFO - 2016-08-26 18:19:02 --> Config Class Initialized
+INFO - 2016-08-26 18:19:02 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:02 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:02 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:02 --> URI Class Initialized
+INFO - 2016-08-26 18:19:02 --> Router Class Initialized
+INFO - 2016-08-26 18:19:02 --> Output Class Initialized
+INFO - 2016-08-26 18:19:02 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:02 --> Input Class Initialized
+INFO - 2016-08-26 18:19:02 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:02 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:04 --> Config Class Initialized
+INFO - 2016-08-26 18:19:04 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:04 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:04 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:04 --> URI Class Initialized
+INFO - 2016-08-26 18:19:04 --> Router Class Initialized
+INFO - 2016-08-26 18:19:04 --> Output Class Initialized
+INFO - 2016-08-26 18:19:04 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:04 --> Input Class Initialized
+INFO - 2016-08-26 18:19:04 --> Language Class Initialized
+INFO - 2016-08-26 18:19:04 --> Loader Class Initialized
+INFO - 2016-08-26 18:19:04 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:19:04 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:19:04 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:19:04 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:19:04 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:19:04 --> Email Class Initialized
+INFO - 2016-08-26 18:19:04 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:19:04 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:19:04 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:19:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:19:04 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:19:04 --> Model Class Initialized
+INFO - 2016-08-26 18:19:04 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:19:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:19:04 --> Model Class Initialized
+INFO - 2016-08-26 18:19:04 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:19:04 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:19:04 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:19:04 --> Model Class Initialized
+INFO - 2016-08-26 18:19:04 --> Model Class Initialized
+INFO - 2016-08-26 18:19:04 --> Model Class Initialized
+INFO - 2016-08-26 18:19:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/list_mahasiswa_view.php
+INFO - 2016-08-26 18:19:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:19:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:19:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:19:04 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:19:04 --> Final output sent to browser
+DEBUG - 2016-08-26 18:19:04 --> Total execution time: 0.1584
+INFO - 2016-08-26 18:19:05 --> Config Class Initialized
+INFO - 2016-08-26 18:19:05 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:05 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:05 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:05 --> URI Class Initialized
+INFO - 2016-08-26 18:19:05 --> Router Class Initialized
+INFO - 2016-08-26 18:19:05 --> Output Class Initialized
+INFO - 2016-08-26 18:19:05 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:05 --> Input Class Initialized
+INFO - 2016-08-26 18:19:05 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:05 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:07 --> Config Class Initialized
+INFO - 2016-08-26 18:19:07 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:07 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:07 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:07 --> URI Class Initialized
+INFO - 2016-08-26 18:19:07 --> Router Class Initialized
+INFO - 2016-08-26 18:19:07 --> Output Class Initialized
+INFO - 2016-08-26 18:19:07 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:07 --> Input Class Initialized
+INFO - 2016-08-26 18:19:07 --> Language Class Initialized
+INFO - 2016-08-26 18:19:07 --> Loader Class Initialized
+INFO - 2016-08-26 18:19:07 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:19:07 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:19:07 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:19:07 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:19:07 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:19:07 --> Email Class Initialized
+INFO - 2016-08-26 18:19:07 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:19:07 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:19:07 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:19:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:19:07 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:19:07 --> Model Class Initialized
+INFO - 2016-08-26 18:19:07 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:19:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:19:07 --> Model Class Initialized
+INFO - 2016-08-26 18:19:07 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:19:07 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:19:07 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:19:07 --> Model Class Initialized
+INFO - 2016-08-26 18:19:07 --> Model Class Initialized
+INFO - 2016-08-26 18:19:07 --> Model Class Initialized
+INFO - 2016-08-26 18:19:07 --> Model Class Initialized
+INFO - 2016-08-26 18:19:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:19:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:19:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:19:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:19:07 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:19:07 --> Final output sent to browser
+DEBUG - 2016-08-26 18:19:07 --> Total execution time: 0.1450
+INFO - 2016-08-26 18:19:07 --> Config Class Initialized
+INFO - 2016-08-26 18:19:07 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:07 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:07 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:07 --> URI Class Initialized
+INFO - 2016-08-26 18:19:07 --> Router Class Initialized
+INFO - 2016-08-26 18:19:07 --> Output Class Initialized
+INFO - 2016-08-26 18:19:07 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:07 --> Input Class Initialized
+INFO - 2016-08-26 18:19:07 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:07 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:12 --> Config Class Initialized
+INFO - 2016-08-26 18:19:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:12 --> URI Class Initialized
+INFO - 2016-08-26 18:19:12 --> Router Class Initialized
+INFO - 2016-08-26 18:19:12 --> Output Class Initialized
+INFO - 2016-08-26 18:19:12 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:12 --> Input Class Initialized
+INFO - 2016-08-26 18:19:12 --> Language Class Initialized
+INFO - 2016-08-26 18:19:12 --> Loader Class Initialized
+INFO - 2016-08-26 18:19:12 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:19:12 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:19:12 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:19:12 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:19:12 --> Email Class Initialized
+INFO - 2016-08-26 18:19:12 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:19:12 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:19:12 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:19:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:19:12 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:19:12 --> Model Class Initialized
+INFO - 2016-08-26 18:19:12 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:19:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:19:12 --> Model Class Initialized
+INFO - 2016-08-26 18:19:12 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:19:12 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:19:12 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:19:12 --> Model Class Initialized
+INFO - 2016-08-26 18:19:12 --> Model Class Initialized
+INFO - 2016-08-26 18:19:12 --> Model Class Initialized
+INFO - 2016-08-26 18:19:12 --> Model Class Initialized
+INFO - 2016-08-26 18:19:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:19:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:19:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:19:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:19:12 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:19:12 --> Final output sent to browser
+DEBUG - 2016-08-26 18:19:12 --> Total execution time: 0.1596
+INFO - 2016-08-26 18:19:12 --> Config Class Initialized
+INFO - 2016-08-26 18:19:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:12 --> URI Class Initialized
+INFO - 2016-08-26 18:19:12 --> Router Class Initialized
+INFO - 2016-08-26 18:19:12 --> Output Class Initialized
+INFO - 2016-08-26 18:19:12 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:12 --> Input Class Initialized
+INFO - 2016-08-26 18:19:12 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:12 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 18:19:12 --> Config Class Initialized
+INFO - 2016-08-26 18:19:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:12 --> URI Class Initialized
+INFO - 2016-08-26 18:19:12 --> Router Class Initialized
+INFO - 2016-08-26 18:19:12 --> Output Class Initialized
+INFO - 2016-08-26 18:19:12 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:12 --> Input Class Initialized
+INFO - 2016-08-26 18:19:12 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:12 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:12 --> Config Class Initialized
+INFO - 2016-08-26 18:19:12 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:12 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:12 --> URI Class Initialized
+INFO - 2016-08-26 18:19:12 --> Router Class Initialized
+INFO - 2016-08-26 18:19:12 --> Output Class Initialized
+INFO - 2016-08-26 18:19:12 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:12 --> Input Class Initialized
+INFO - 2016-08-26 18:19:12 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:12 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 18:19:19 --> Config Class Initialized
+INFO - 2016-08-26 18:19:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:19 --> URI Class Initialized
+INFO - 2016-08-26 18:19:19 --> Router Class Initialized
+INFO - 2016-08-26 18:19:19 --> Output Class Initialized
+INFO - 2016-08-26 18:19:19 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:19 --> Input Class Initialized
+INFO - 2016-08-26 18:19:19 --> Language Class Initialized
+INFO - 2016-08-26 18:19:19 --> Loader Class Initialized
+INFO - 2016-08-26 18:19:19 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:19:19 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:19:19 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:19:19 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:19:19 --> Email Class Initialized
+INFO - 2016-08-26 18:19:19 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:19:19 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:19:19 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:19:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:19:19 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:19:19 --> Model Class Initialized
+INFO - 2016-08-26 18:19:19 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:19:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:19:19 --> Model Class Initialized
+INFO - 2016-08-26 18:19:19 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:19:19 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:19:19 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:19:19 --> Model Class Initialized
+INFO - 2016-08-26 18:19:19 --> Model Class Initialized
+INFO - 2016-08-26 18:19:19 --> Model Class Initialized
+INFO - 2016-08-26 18:19:19 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:19:19 --> Model Class Initialized
+INFO - 2016-08-26 18:19:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:19:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:19:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:19:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:19:19 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:19:19 --> Final output sent to browser
+DEBUG - 2016-08-26 18:19:19 --> Total execution time: 0.1547
+INFO - 2016-08-26 18:19:19 --> Config Class Initialized
+INFO - 2016-08-26 18:19:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:19 --> URI Class Initialized
+INFO - 2016-08-26 18:19:19 --> Router Class Initialized
+INFO - 2016-08-26 18:19:19 --> Output Class Initialized
+INFO - 2016-08-26 18:19:19 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:19 --> Input Class Initialized
+INFO - 2016-08-26 18:19:19 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:19 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 18:19:19 --> Config Class Initialized
+INFO - 2016-08-26 18:19:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:19 --> URI Class Initialized
+INFO - 2016-08-26 18:19:19 --> Router Class Initialized
+INFO - 2016-08-26 18:19:19 --> Output Class Initialized
+INFO - 2016-08-26 18:19:19 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:19 --> Input Class Initialized
+INFO - 2016-08-26 18:19:19 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:19 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:19 --> Config Class Initialized
+INFO - 2016-08-26 18:19:19 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:19 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:19 --> URI Class Initialized
+INFO - 2016-08-26 18:19:19 --> Router Class Initialized
+INFO - 2016-08-26 18:19:19 --> Output Class Initialized
+INFO - 2016-08-26 18:19:19 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:19 --> Input Class Initialized
+INFO - 2016-08-26 18:19:19 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:19 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 18:19:54 --> Config Class Initialized
+INFO - 2016-08-26 18:19:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:54 --> URI Class Initialized
+INFO - 2016-08-26 18:19:54 --> Router Class Initialized
+INFO - 2016-08-26 18:19:54 --> Output Class Initialized
+INFO - 2016-08-26 18:19:54 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:54 --> Input Class Initialized
+INFO - 2016-08-26 18:19:54 --> Language Class Initialized
+INFO - 2016-08-26 18:19:54 --> Loader Class Initialized
+INFO - 2016-08-26 18:19:54 --> Helper loaded: unleashed_helper
+INFO - 2016-08-26 18:19:54 --> Helper loaded: url_helper
+INFO - 2016-08-26 18:19:54 --> Database Driver Class Initialized
+INFO - 2016-08-26 18:19:54 --> Controller Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> Config file loaded: /media/phi314/Data/Web Development/taurus/application/config/ion_auth.php
+INFO - 2016-08-26 18:19:54 --> Email Class Initialized
+INFO - 2016-08-26 18:19:54 --> Language file loaded: language/indonesian/ion_auth_lang.php
+INFO - 2016-08-26 18:19:54 --> Helper loaded: cookie_helper
+INFO - 2016-08-26 18:19:54 --> Helper loaded: language_helper
+DEBUG - 2016-08-26 18:19:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2016-08-26 18:19:54 --> Session: Class initialized using 'files' driver.
+INFO - 2016-08-26 18:19:54 --> Model Class Initialized
+INFO - 2016-08-26 18:19:54 --> Helper loaded: date_helper
+INFO - 2016-08-26 18:19:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/user_menu_admin_view.php
+INFO - 2016-08-26 18:19:54 --> Model Class Initialized
+INFO - 2016-08-26 18:19:54 --> Helper loaded: inflector_helper
+INFO - 2016-08-26 18:19:54 --> Helper loaded: form_helper
+INFO - 2016-08-26 18:19:54 --> Form Validation Class Initialized
+INFO - 2016-08-26 18:19:54 --> Model Class Initialized
+INFO - 2016-08-26 18:19:54 --> Model Class Initialized
+INFO - 2016-08-26 18:19:54 --> Model Class Initialized
+INFO - 2016-08-26 18:19:54 --> Language file loaded: language/indonesian/form_validation_lang.php
+INFO - 2016-08-26 18:19:54 --> Model Class Initialized
+INFO - 2016-08-26 18:19:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php
+INFO - 2016-08-26 18:19:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_sidebar_view.php
+INFO - 2016-08-26 18:19:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_header_view.php
+INFO - 2016-08-26 18:19:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/_parts/admin_master_footer_view.php
+INFO - 2016-08-26 18:19:54 --> File loaded: /media/phi314/Data/Web Development/taurus/application/views/templates/admin_master_view.php
+INFO - 2016-08-26 18:19:54 --> Final output sent to browser
+DEBUG - 2016-08-26 18:19:54 --> Total execution time: 0.1097
+INFO - 2016-08-26 18:19:54 --> Config Class Initialized
+INFO - 2016-08-26 18:19:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:54 --> URI Class Initialized
+INFO - 2016-08-26 18:19:54 --> Router Class Initialized
+INFO - 2016-08-26 18:19:54 --> Output Class Initialized
+INFO - 2016-08-26 18:19:54 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:54 --> Input Class Initialized
+INFO - 2016-08-26 18:19:54 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:54 --> 404 Page Not Found: Assets/js
+INFO - 2016-08-26 18:19:54 --> Config Class Initialized
+INFO - 2016-08-26 18:19:54 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:54 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:54 --> URI Class Initialized
+INFO - 2016-08-26 18:19:54 --> Router Class Initialized
+INFO - 2016-08-26 18:19:54 --> Output Class Initialized
+INFO - 2016-08-26 18:19:54 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:54 --> Input Class Initialized
+INFO - 2016-08-26 18:19:54 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:54 --> 404 Page Not Found: Assets/img
+INFO - 2016-08-26 18:19:55 --> Config Class Initialized
+INFO - 2016-08-26 18:19:55 --> Hooks Class Initialized
+DEBUG - 2016-08-26 18:19:55 --> UTF-8 Support Enabled
+INFO - 2016-08-26 18:19:55 --> Utf8 Class Initialized
+INFO - 2016-08-26 18:19:55 --> URI Class Initialized
+INFO - 2016-08-26 18:19:55 --> Router Class Initialized
+INFO - 2016-08-26 18:19:55 --> Output Class Initialized
+INFO - 2016-08-26 18:19:55 --> Security Class Initialized
+DEBUG - 2016-08-26 18:19:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2016-08-26 18:19:55 --> Input Class Initialized
+INFO - 2016-08-26 18:19:55 --> Language Class Initialized
+ERROR - 2016-08-26 18:19:55 --> 404 Page Not Found: Assets/js

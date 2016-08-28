@@ -11,7 +11,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 <ul class="breadcrumb">
     <li><a href="<?php echo site_url('admin'); ?>">Dashboard</a></li>
     <li><a href="<?php echo site_url('admin/mahasiswa'); ?>">Mahasiswa</a></li>
-    <li class="active">Edit <?php echo $mahasiswa->nim; ?></li>
+    <li class="active"><?php echo $mahasiswa->user->name; ?></li>
 </ul>
 
 <div class="row">
@@ -74,8 +74,8 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                 </div>
             </div>
             <div class="panel-footer">
-                <?php echo form_hidden('id', $mahasiswa->id); ?>
-                <?php echo anchor('admin/mahasiswa/rfid', 'Daftar RFID', ['class'=>'btn btn-info']) ?>
+                <?php echo form_hidden('mahasiswa_id', $mahasiswa->id); ?>
+                <?php echo anchor('admin/mahasiswa/rfid/'.$mahasiswa->id, 'Daftar RFID', ['class'=>'btn btn-info']) ?>
                 <?php echo form_submit('submit', 'Edit mahasiswa', ['class'=>'btn btn-primary pull-right']); ?>
             </div>
         </div>

@@ -16,9 +16,6 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
         <li>
             <a href="<?php echo site_url('admin/users'); ?>" title="Users"><span class="fa fa-user"></span> Users</a>
         </li>
-        <li>
-            <a href="<?php echo site_url('admin/rfid'); ?>" title="RFID"><span class="fa fa-barcode"></span> RFID</a>
-        </li>
     </ul>
 </li>
 <li>
@@ -34,5 +31,5 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
     <a href="<?php echo site_url('admin/laboratorium'); ?>" title="Laboratorium"><span class="fa fa-building"></span> <span class="xn-text">Laboratorium</span></a>
 </li>
 <li>
-    <a href="<?php echo site_url('admin/mengajar'); ?>" title="Mengajar"><span class="fa fa-list"></span> <span class="xn-text">mengajar</span></a>
+    <a href="<?php echo site_url('admin/mengajar'); ?>" title="Mengajar"><span class="fa fa-list"></span> <span class="xn-text">Mengajar</span></a>
 </li>

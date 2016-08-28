@@ -18,7 +18,7 @@ class Mengajar extends Admin_Controller {
     public function index()
     {
         $this->data['page_title'] = 'List Mengajar';
-        $this->data['mengajar'] = $this->mengajar_model->with_dosen(['fields:nip'],['with'=>['relation'=>'user', 'fields'=>'name']])->with_mata_kuliah('fields:nama_mata_kuliah')->get_all();
+        $this->data['mengajar'] = $this->mengajar_model->with_dosen('fields:nip', ['with'=>['relation'=>'user', 'fields'=>'name']])->with_mata_kuliah('fields:nama_mata_kuliah')->get_all();
         $this->render('admin/mengajar/list_mengajar_view');
     }
     

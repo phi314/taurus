@@ -35,6 +35,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                             <th>NIM</th>
                             <th>Nama</th>
                             <th>Jenis Kelamin</th>
+                            <th>Kode RFID</th>
                             <th>Operations</th>
                         </tr>
                         </thead>
@@ -43,16 +44,17 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                         if(!empty($mahasiswa)):
                             foreach($mahasiswa as $data_mahasiswa):
                                 ?>
-                                <tr>
-                                    <td><?php echo $data_mahasiswa->id; ?></td>
-                                    <td><?php echo $data_mahasiswa->nim; ?></td>
-                                    <td><?php echo $data_mahasiswa->user->name; ?></td>
-                                    <td><?php echo $data_mahasiswa->user->gender; ?></td>
+                                <tr id="<?= $data_mahasiswa->id; ?>">
+                                    <td><?= $data_mahasiswa->id; ?></td>
+                                    <td><?= $data_mahasiswa->nim; ?></td>
+                                    <td><?= $data_mahasiswa->user->name; ?></td>
+                                    <td><?= $data_mahasiswa->user->gender; ?></td>
+                                    <td><?= $data_mahasiswa->kode_rfid; ?></td>
                                     <td>
                                         <?php
                                             echo anchor('admin/mahasiswa/edit/'.$data_mahasiswa->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']);
-                                            echo anchor('admin/mahasiswa/add_rfid/'.$data_mahasiswa->id, '<i class="fa fa-barcode"></i>',  ['class'=>'btn btn-link btn-xs']);
-                                            echo anchor('admin/mahasiswa/delete/'.$data_mahasiswa->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('admin/mahasiswa/rfid/'.$data_mahasiswa->id, '<i class="fa fa-barcode"></i>',  ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('admin/mahasiswa/delete/'.$data_mahasiswa->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs btn-delete-mahasiswa']);
                                         ?>
                                     </td>
                                 </tr>

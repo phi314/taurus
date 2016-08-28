@@ -13,7 +13,7 @@ class Dosen_model extends US_Model {
     {
         $this->table = 'dosen';
         $this->primary_key = 'id';
-        $this->has_one['user'] = 'user_model';
+        $this->has_one['user'] = ['user_model', 'id', 'id'];
         parent::__construct();
     }
 
