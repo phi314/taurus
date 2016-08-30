@@ -52,7 +52,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                                         <?php
                                         if($current_user->id != $user->id)
                                         {
-                                            echo anchor('admin/users/delete/'.$user->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('admin/users/delete/'.$user->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs btn-delete-user']);
                                         }
                                         ?>
                                     </td>

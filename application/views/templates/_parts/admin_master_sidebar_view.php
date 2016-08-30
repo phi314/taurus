@@ -24,8 +24,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                     <img src="<?php echo site_url('assets/demo/avatar.jpg'); ?>" alt="John Doe"/>
                 </div>
                 <div class="profile-data">
-                    <div class="profile-data-name">Ragnar Lothbrok</div>
-                    <div class="profile-data-title">Unleashed Developer</div>
+                    <div class="profile-data-name"><?= $current_user->name; ?></div>
                 </div>
             </div>
         </li>

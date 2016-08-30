@@ -97,14 +97,15 @@ function to_hours($jam)
  * @param bool $bln_only
  * @return string
  */
-function tanggal_format_indonesia($tgl, $waktu = FALSE, $bln_only = FALSE){
+function format_tanggal_indonesia($tgl, $waktu = FALSE, $bln_only = FALSE){
     $tanggal  =  substr($tgl,8,2);
     $bulan  =  nama_bulan(substr($tgl,5,2));
     $tahun  =  substr($tgl,0,4);
     $jam = substr($tgl, 11,2);
     $menit = substr($tgl, 14,2);
+    $detik = substr($tgl, 17,2);
     $separator = empty($jam) ? '' : ':';
-    $r_wkt = $waktu == FALSE ? '' : $jam.$separator.$menit;
+    $r_wkt = $waktu == FALSE ? '' : $jam.$separator.$menit.$separator.$detik;
 
     $tanggal_formatted = $tanggal.' '.$bulan.' '.$tahun.' '.$r_wkt;
 

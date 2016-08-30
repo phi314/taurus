@@ -43,3 +43,5 @@ $lang['form_validation_in_list'] = 'Bagian {field} harus menjadi salah satu dari
 // Custom Callback
 $lang['form_validation_rfid_is_used'] = 'Kartu RFID sudah terdaftar';
 $lang['form_validation_mengajar_duplicate'] = 'Dosen sudah terdaftar Mata Kuliah';
+$lang['form_validation_is_future'] = 'Waktu tidak boleh kurang dari jam sekarang';
+$lang['form_validation_check_available_laboratorium'] = 'Laboratorium sedang digunakan pada tanggal dan waktu tersebut';

@@ -20,7 +20,7 @@ class Mahasiswa extends Admin_Controller {
     {
         $this->data['page_title'] = 'Mahasiswa';
         $this->data['before_body'] = "
-            <script src='".site_url(JS.'_controller/admin/mahasiswa/mahasiswa.js')."'></script>
+            <script src='".site_url(JS.'_controller/admin/mahasiswa/list_mahasiswa.js')."'></script>
         ";
         $this->data['mahasiswa'] = $this->mahasiswa_model->with_user('fields:name, gender')->get_all();
         $this->render('admin/mahasiswa/list_mahasiswa_view');
@@ -107,9 +107,18 @@ class Mahasiswa extends Admin_Controller {
         }
     }
 
-    public function delete()
+    public function delete($user_id)
     {
-
+        if(is_null($user_id))
+        {
+            $this->session->set_flashdata('message', 'Silahkan pilih mahasiswa yang akan dihapus');
+        }
+        else
+        {
+            $this->ion_auth->delete_user($user_id);
+            $this->session->set_flashdata('message', $this->ion_auth->messages());
+        }
+        redirect('admin/mahasiswa', 'refresh');
     }
 
     public function rfid($mahasiswa_id)
@@ -137,7 +146,7 @@ class Mahasiswa extends Admin_Controller {
         }
         $this->data['page_title'] = "Daftar RFID ({$mahasiswa->nim}) {$mahasiswa->user->name}";
         $this->data['before_body'] = "
-            <script src='".site_url(JS.'_controller/admin/mahasiswa/set_rfid.js')."'></script>
+            <script src='".site_url(JS.'_controller/admin/mahasiswa/set_rfid_mahasiswa.js')."'></script>
         ";
         $this->form_validation->set_rules($this->mahasiswa_model->rules['update_rfid']);
         if($this->form_validation->run() === FALSE)

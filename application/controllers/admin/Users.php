@@ -22,6 +22,9 @@ class Users extends Admin_Controller {
     public function index($group_id = NULL)
     {
         $this->data['page_title']   = 'Users';
+        $this->data['before_body'] = "
+            <script src='".site_url(JS.'_controller/admin/users/list_users.js')."'></script>
+        ";
         $this->data['users']       = $this->ion_auth->users($group_id)->result();
         $this->render('admin/users/list_users_view');
     }

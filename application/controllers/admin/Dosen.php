@@ -19,6 +19,9 @@ class Dosen extends Admin_Controller {
     {
         $this->data['page_title'] = "List Dosen";
         $this->data['dosen'] = $this->dosen_model->with_user('fields:name, gender')->get_all();
+        $this->data['before_body'] = "
+            <script src='".site_url(JS.'_controller/admin/dosen/list_dosen.js')."'></script>
+        ";
         $this->render('admin/dosen/list_dosen_view');
     }
 
@@ -104,6 +107,20 @@ class Dosen extends Admin_Controller {
             $this->session->set_flashdata('message', 'Berhasil edit dosen');
             redirect('admin/dosen', 'refresh');
         }
+    }
+
+    public function delete($user_id)
+    {
+        if(is_null($user_id))
+        {
+            $this->session->set_flashdata('message', 'Silahkan pilih dosen yang akan di hapus');
+        }
+        else
+        {
+            $this->ion_auth->delete_user($user_id);
+            $this->session->set_flashdata('message', $this->ion_auth->messages());
+        }
+        redirect('admin/dosen', 'refresh');
     }
     
 }

@@ -19,15 +19,15 @@ class Home extends Public_Controller {
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
 
+    public function __construct()
+    {
+        parent::__construct();
+
+    }
+
 	public function index()
 	{
-        $data = [
-            'title'             => 'Unleashed Studios',
-            'description'       => 'PHP Framework with Codeigniter3 + Twitter Bootstrap',
-            'author'            => 'Arief Wibowo'
-        ];
-
-		$this->render('pages/home_view', 'page_master');
+        redirect('absensi_machine');
 	}
 
     public function debug()

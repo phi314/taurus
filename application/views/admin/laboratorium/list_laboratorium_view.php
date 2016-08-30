@@ -32,6 +32,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                         <tr>
                             <th>ID</th>
                             <th>Nama laboratorium</th>
+                            <th>IP Address</th>
                             <th>Operations</th>
                         </tr>
                         </thead>
@@ -43,6 +44,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                                 <tr>
                                     <td><?php echo $data_laboratorium->id; ?></td>
                                     <td><?php echo $data_laboratorium->nama_laboratorium; ?></td>
+                                    <td><?php echo $data_laboratorium->ip_address; ?></td>
                                     <td>
                                         <?php
                                             echo anchor('admin/laboratorium/edit/'.$data_laboratorium->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']);

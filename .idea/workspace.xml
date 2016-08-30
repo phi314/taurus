@@ -23,30 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Mahasiswa.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mahasiswa.php">
+      <file leaf-file-name="list_detail_absensi_view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/absensi_machine/list_detail_absensi_view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="0" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.3615917" vertical-offset="1789" max-vertical-offset="3294">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_mahasiswa_view.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="186" selection-start="2639" selection-end="2639" vertical-scroll-proportion="-6.740741" vertical-offset="826" max-vertical-offset="1404">
+            <state line="45" column="22" selection-start="1437" selection-end="1858" vertical-scroll-proportion="-14.0" vertical-offset="432" max-vertical-offset="1836">
               <folding>
-                <marker date="1472408182984" expanded="true" signature="2066:2224" placeholder="..." />
+                <element signature="e#6#98#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mahasiswa.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/mahasiswa.js">
+      <file leaf-file-name="detail_absensi.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/_controller/absensi_machine/absensi/detail_absensi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="47" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
+            <state line="24" column="20" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6545454" vertical-offset="0" max-vertical-offset="684">
               <folding>
                 <element signature="e#0#40#0" expanded="false" />
               </folding>
@@ -54,19 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="set_rfid.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/set_rfid.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="23" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="actions.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/actions.js">
+        <entry file="file://$PROJECT_DIR$/assets/js/actions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10278">
+            <state line="245" column="7" selection-start="7506" selection-end="7693" vertical-scroll-proportion="-9.366667" vertical-offset="4129" max-vertical-offset="10278">
               <folding />
             </state>
           </provider>
@@ -82,57 +64,57 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/views/admin/mata_kuliah/list_mata_kuliah_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mata_kuliah/create_mata_kuliah_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mata_kuliah/edit_mata_kuliah_view.php" />
-        <option value="$PROJECT_DIR$/application/models/Mata_kuliah_model.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Dosen.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Mata_kuliah.php" />
-        <option value="$PROJECT_DIR$/application/models/Laboratorium_model.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/laboratorium/create_laboratorium_view.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Users.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Laboratorium.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/laboratorium/edit_laboratorium_view.php" />
-        <option value="$PROJECT_DIR$/application/models/Mengajar.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mengajar/create_mengajar_view.php" />
-        <option value="$PROJECT_DIR$/application/models/User_model.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/laboratorium/list_laboratorium_view.php" />
-        <option value="$PROJECT_DIR$/assets/js/admin/rfid/create_rfid_view.js" />
-        <option value="$PROJECT_DIR$/assets/js/admin/mahasiswa/add_rfid.js" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/add_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/models/Rfid_mahasiswa_model.php" />
-        <option value="$PROJECT_DIR$/application/third_party/PHPStorm_CI_CC.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mengajar/list_mengajar_view.php" />
-        <option value="$PROJECT_DIR$/assets/css/admin/app.css" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Dashboard.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/dashboard/dashboard_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/rfid/edit_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/rfid/create_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/migrations/001_initialize_table.php" />
-        <option value="$PROJECT_DIR$/application/migrations/003_remove_rfid_mahasiswa_and_field_mata_kuliah_id" />
-        <option value="$PROJECT_DIR$/application/migrations/003_remove_mahasiswa_rfid.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/add_mahasiswa_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid/list_mahasiswa_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/rfid/list_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/models/Dosen_model.php" />
-        <option value="$PROJECT_DIR$/application/models/Mengajar_model.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Mengajar.php" />
-        <option value="$PROJECT_DIR$/application/models/Rfid_model.php" />
-        <option value="$PROJECT_DIR$/application/models/Mahasiswa_rfid_model.php" />
-        <option value="$PROJECT_DIR$/application/controllers/admin/Rfid.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid/list_mahasiswa_by_rfid_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid/list_rfid_by_mahasiswa_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/edit_mahasiswa_view.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid_mahasiswa_view.php" />
-        <option value="$PROJECT_DIR$/assets/js/admin/mahasiswa/set_rfid.js" />
-        <option value="$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php" />
-        <option value="$PROJECT_DIR$/application/models/Mahasiswa_model.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/admin_master_view.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/_parts/user_menu_admin_view.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/set_rfid_mahasiswa_view.php" />
         <option value="$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php" />
         <option value="$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/mahasiswa.js" />
+        <option value="$PROJECT_DIR$/application/views/admin/users/list_users_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/_controller/admin/users/users.js" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/Users.php" />
         <option value="$PROJECT_DIR$/application/controllers/admin/Mahasiswa.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/Dosen.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/dosen/list_dosen_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/_controller/admin/dosen/list_dosen.js" />
+        <option value="$PROJECT_DIR$/application/controllers/dosen/Dashboard.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dosen/User.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/_parts/user_menu_dosen_view.php" />
+        <option value="$PROJECT_DIR$/application/third_party/PHPStorm_CI_CC.php" />
+        <option value="$PROJECT_DIR$/application/models/Mata_kuliah_model.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/_parts/admin_master_sidebar_view.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/admin_master_view.php" />
+        <option value="$PROJECT_DIR$/application/helpers/absensi_helper.php" />
+        <option value="$PROJECT_DIR$/assets/js/_controller/admin/plugins.js" />
+        <option value="$PROJECT_DIR$/application/helpers/unleashed_helper.php" />
+        <option value="$PROJECT_DIR$/application/views/dosen/absensi/list_absensi_view.php" />
+        <option value="$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php" />
+        <option value="$PROJECT_DIR$/application/models/Absensi_model.php" />
+        <option value="$PROJECT_DIR$/application/views/dosen/absensi/create_absensi_view.php" />
+        <option value="$PROJECT_DIR$/application/views/dosen/absensi/edit_absensi_view.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/dosen_master_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/dosen/Absensi.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/laboratorium/create_laboratorium_view.php" />
+        <option value="$PROJECT_DIR$/application/models/Laboratorium_model.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/laboratorium/edit_laboratorium_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/Laboratorium.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/laboratorium/list_laboratorium_view.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/_parts/public_master_header_view.php" />
+        <option value="$PROJECT_DIR$/application/views/errors/html/error_no_registered_ip.php" />
+        <option value="$PROJECT_DIR$/assets/css/app.css" />
+        <option value="$PROJECT_DIR$/application/views/templates/_parts/public_master_sidebar_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/plugins.js" />
+        <option value="$PROJECT_DIR$/application/views/templates/public_master_view.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/absensi/absensi_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/_controller/public/add_absensi_detail.js" />
+        <option value="$PROJECT_DIR$/application/views/home_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/absensi/Absensi.php" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Home.php" />
+        <option value="$PROJECT_DIR$/application/views/absensi/list_absensi_view.php" />
+        <option value="$PROJECT_DIR$/application/core/US_Controller.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/absensi_machine_master_view.php" />
+        <option value="$PROJECT_DIR$/application/controllers/absensi_machine/Absensi.php" />
+        <option value="$PROJECT_DIR$/application/views/absensi_machine/list_detail_absensi_view.php" />
+        <option value="$PROJECT_DIR$/assets/js/_controller/absensi_machine/absensi/detail_absensi.js" />
       </list>
     </option>
   </component>
@@ -169,7 +151,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -227,10 +208,6 @@
               <option name="myItemId" value="_controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -254,11 +231,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="absensi_machine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mahasiswa" />
+              <option name="myItemId" value="absensi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -326,7 +303,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="dosen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -348,33 +325,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="dosen" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_parts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taurus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
+              <option name="myItemId" value="absensi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -396,11 +351,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mahasiswa" />
+              <option name="myItemId" value="absensi_machine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,7 +369,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
+              <option name="myItemId" value="core" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -459,11 +410,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="absensi_machine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="taurus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -473,18 +465,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid" />
-      <recent name="$PROJECT_DIR$/application/views/admin/rfid" />
-      <recent name="$PROJECT_DIR$/application/models" />
-      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa/rfid" />
-      <recent name="$PROJECT_DIR$/assets/js/admin/mahasiswa" />
+      <recent name="$PROJECT_DIR$/application/views/absensi" />
+      <recent name="$PROJECT_DIR$/application/views/templates" />
+      <recent name="$PROJECT_DIR$/application/controllers/absensi" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+      <recent name="$PROJECT_DIR$/assets/js/_controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/js/_controller/absensi_machine/absensi" />
+      <recent name="$PROJECT_DIR$/assets/js/_controller/absensi_machine" />
+      <recent name="$PROJECT_DIR$/application/views/absensi" />
+      <recent name="$PROJECT_DIR$/assets/js" />
       <recent name="$PROJECT_DIR$/assets/js/_controller" />
-      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa" />
-      <recent name="$PROJECT_DIR$/assets/js/admin/mahasiswa" />
-      <recent name="$PROJECT_DIR$/application/views/admin/mahasiswa_rfid" />
-      <recent name="$PROJECT_DIR$/assets/js/admin/mahasiswa/rfid" />
     </key>
   </component>
   <component name="RunManager">
@@ -521,7 +513,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2804399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29457974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -529,19 +521,19 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -550,9 +542,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2804399" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29457974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -573,187 +565,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/public_master_footer_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/Dosen.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="97" selection-start="2293" selection-end="2293" vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="2106" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/laboratorium/create_laboratorium_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="64" selection-start="1007" selection-end="1024" vertical-scroll-proportion="-10.666667" vertical-offset="216" max-vertical-offset="810" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Groups.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="19" selection-start="1286" selection-end="1286" vertical-scroll-proportion="22.185184" vertical-offset="1355" max-vertical-offset="1908" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/laboratorium/edit_laboratorium_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="59" selection-start="434" selection-end="434" vertical-scroll-proportion="-0.4814815" vertical-offset="221" max-vertical-offset="828" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Laboratorium.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="36" selection-start="3003" selection-end="3003" vertical-scroll-proportion="-33.62963" vertical-offset="658" max-vertical-offset="1782" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Laboratorium_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="35" selection-start="204" selection-end="204" vertical-scroll-proportion="0.2802768" vertical-offset="0" max-vertical-offset="630">
+        <state line="23" column="10" selection-start="519" selection-end="654" vertical-scroll-proportion="-9.62963" vertical-offset="154" max-vertical-offset="2412">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/laboratorium/list_laboratorium_view.php">
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/admin_master_footer_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="35" selection-start="326" selection-end="326" vertical-scroll-proportion="-9.074074" vertical-offset="7" max-vertical-offset="1260" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/US_Controller.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="23" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-37.333332" vertical-offset="54" max-vertical-offset="1548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="16" selection-start="4428" selection-end="4428" vertical-scroll-proportion="-16.814816" vertical-offset="1184" max-vertical-offset="1764">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/admin_auth_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="86" selection-start="613" selection-end="613" vertical-scroll-proportion="0.4231465" vertical-offset="0" max-vertical-offset="990" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Mata_kuliah_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="431" selection-end="431" vertical-scroll-proportion="-12.407408" vertical-offset="25" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/User_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="40" selection-start="412" selection-end="412" vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="522">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/third_party/PHPStorm_CI_CC.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="86" column="42" selection-start="6145" selection-end="6145" vertical-scroll-proportion="0.38155514" vertical-offset="1337" max-vertical-offset="2790">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mengajar/list_mengajar_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="40" selection-start="1292" selection-end="1292" vertical-scroll-proportion="1.1401384" vertical-offset="61" max-vertical-offset="1314" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/create_mahasiswa_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="34" selection-start="1059" selection-end="1059" vertical-scroll-proportion="0.28028932" vertical-offset="367" max-vertical-offset="1080" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mengajar/create_mengajar_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="58" selection-start="1841" selection-end="1841" vertical-scroll-proportion="0.7820069" vertical-offset="268" max-vertical-offset="1008">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5184">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/admin/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="899" column="34" selection-start="23220" selection-end="23220" vertical-scroll-proportion="0.0" vertical-offset="15853" max-vertical-offset="132462">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/public_master_header_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Users.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="152" column="5" selection-start="5863" selection-end="6260" vertical-scroll-proportion="-49.074074" vertical-offset="1411" max-vertical-offset="2934">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="60" selection-start="385" selection-end="385" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/dashboard/dashboard_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="276" selection-end="276" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="522">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="322.0" vertical-offset="8694" max-vertical-offset="14850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/User.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="8" selection-start="2278" selection-end="2457" vertical-scroll-proportion="-14.074074" vertical-offset="898" max-vertical-offset="1962">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/core/US_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.710669" vertical-offset="2052" max-vertical-offset="34956">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/migrations/001_initialize_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/migrations/002_install_ion_auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="229" column="59" selection-start="5030" selection-end="5223" vertical-scroll-proportion="-152.66667" vertical-offset="0" max-vertical-offset="4284">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="568">
           <folding />
         </state>
       </provider>
@@ -765,126 +593,336 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Dosen_model.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="51" selection-start="367" selection-end="367" vertical-scroll-proportion="-3.7407408" vertical-offset="169" max-vertical-offset="828">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="126">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Mengajar_model.php">
+    <entry file="file://$PROJECT_DIR$/application/helpers/unleashed_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="53" selection-start="381" selection-end="383" vertical-scroll-proportion="-6.888889" vertical-offset="84" max-vertical-offset="702">
+        <state line="105" column="28" selection-start="2116" selection-end="2116" vertical-scroll-proportion="0.3183391" vertical-offset="1598" max-vertical-offset="4338">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mengajar.php">
+    <entry file="file://$PROJECT_DIR$/application/helpers/absensi_helper.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="672" selection-end="672" vertical-scroll-proportion="-8.481482" vertical-offset="149" max-vertical-offset="1800">
+        <state line="18" column="71" selection-start="306" selection-end="424" vertical-scroll-proportion="-6.2222223" vertical-offset="156" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/edit_mahasiswa_view.php">
+    <entry file="file://$PROJECT_DIR$/application/views/templates/page_master_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="52" selection-start="4343" selection-end="4343" vertical-scroll-proportion="-16.666666" vertical-offset="918" max-vertical-offset="1602">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/rfid_mahasiswa_view.php">
+    <entry file="file://$PROJECT_DIR$/application/models/Absensi_model.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="51" selection-start="812" selection-end="812" vertical-scroll-proportion="-11.481482" vertical-offset="158" max-vertical-offset="792">
+        <state line="32" column="112" selection-start="1621" selection-end="1621" vertical-scroll-proportion="0.8442907" vertical-offset="88" max-vertical-offset="828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/home_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.615917" vertical-offset="1512" max-vertical-offset="3060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/admin_auth_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="990">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dosen/absensi/create_absensi_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="44" selection-start="333" selection-end="333" vertical-scroll-proportion="25.25926" vertical-offset="898" max-vertical-offset="1476">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/language/indonesian/form_validation_lang.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="21" selection-start="3278" selection-end="3278" vertical-scroll-proportion="-13.962963" vertical-offset="415" max-vertical-offset="918">
+        <state line="46" column="28" selection-start="3446" selection-end="3451" vertical-scroll-proportion="-24.148148" vertical-offset="176" max-vertical-offset="954">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/admin_master_view.php">
+    <entry file="file://$PROJECT_DIR$/application/views/admin/laboratorium/create_laboratorium_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="57" selection-start="3241" selection-end="3241" vertical-scroll-proportion="-15.185185" vertical-offset="868" max-vertical-offset="1494">
+        <state line="38" column="22" selection-start="1274" selection-end="1749" vertical-scroll-proportion="-13.814815" vertical-offset="311" max-vertical-offset="936">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/main.js">
+    <entry file="file://$PROJECT_DIR$/application/views/admin/laboratorium/edit_laboratorium_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="109" selection-start="1661" selection-end="1661" vertical-scroll-proportion="-13.333333" vertical-offset="270" max-vertical-offset="954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Laboratorium_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="15" selection-start="746" selection-end="746" vertical-scroll-proportion="-15.333333" vertical-offset="0" max-vertical-offset="666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Laboratorium.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="64" selection-start="2446" selection-end="2446" vertical-scroll-proportion="-15.333333" vertical-offset="810" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/laboratorium/list_laboratorium_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="81" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.5916955" vertical-offset="486" max-vertical-offset="1296">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/admin_master_header_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1036" vertical-scroll-proportion="4.851852" vertical-offset="131" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="6" selection-start="496" selection-end="496" vertical-scroll-proportion="0.36593592" vertical-offset="17" max-vertical-offset="5184">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/public_master_header_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="450" selection-end="450" vertical-scroll-proportion="-9.62963" vertical-offset="118" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/errors/html/error_404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1242">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/errors/html/error_no_registered_ip.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="72" selection-start="894" selection-end="894" vertical-scroll-proportion="-12.666667" vertical-offset="0" max-vertical-offset="630">
+          <folding>
+            <marker date="1472567629983" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/demo/intro-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/demo/unleashed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="154" column="72" selection-start="3015" selection-end="3045" vertical-scroll-proportion="-6.5333333" vertical-offset="2576" max-vertical-offset="6948">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/public_master_sidebar_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="223" selection-end="223" vertical-scroll-proportion="0.08967851" vertical-offset="127" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="25" selection-start="6304" selection-end="6304" vertical-scroll-proportion="-6.9666667" vertical-offset="4039" max-vertical-offset="132480">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/dosen_master_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="11" selection-start="3286" selection-end="3287" vertical-scroll-proportion="2.0432527" vertical-offset="133" max-vertical-offset="1494">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12078">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/_parts/user_menu_admin_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="604" selection-end="604" vertical-scroll-proportion="-10.407408" vertical-offset="43" max-vertical-offset="738">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/set_rfid_mahasiswa_view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="65" selection-start="1300" selection-end="1300" vertical-scroll-proportion="-10.666667" vertical-offset="270" max-vertical-offset="954">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Mahasiswa_model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="-0.6666667" vertical-offset="270" max-vertical-offset="882">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/actions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10278">
+        <state line="255" column="6" selection-start="7831" selection-end="7831" vertical-scroll-proportion="0.0" vertical-offset="4369" max-vertical-offset="10278">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/set_rfid.js">
+    <entry file="file://$PROJECT_DIR$/application/views/templates/admin_master_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="23" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="414">
+        <state line="70" column="0" selection-start="3093" selection-end="3274" vertical-scroll-proportion="-16.0" vertical-offset="828" max-vertical-offset="1494">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/mahasiswa/list_mahasiswa_view.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="186" selection-start="2639" selection-end="2639" vertical-scroll-proportion="-6.740741" vertical-offset="826" max-vertical-offset="1404">
-          <folding>
-            <marker date="1472408182984" expanded="true" signature="2066:2224" placeholder="..." />
-          </folding>
+        <state line="650" column="35" selection-start="20508" selection-end="21882" vertical-scroll-proportion="-16.3" vertical-offset="11211" max-vertical-offset="12078">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/_controller/admin/mahasiswa/mahasiswa.js">
+    <entry file="file://$PROJECT_DIR$/application/views/templates/public_master_view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="47" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252">
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
+        <state line="52" column="37" selection-start="1995" selection-end="1995" vertical-scroll-proportion="-15.740741" vertical-offset="511" max-vertical-offset="1134">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="51" selection-start="1907" selection-end="1907" vertical-scroll-proportion="-14.0" vertical-offset="702" max-vertical-offset="2538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/dosen/list_dosen_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1386">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/dosen/Absensi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="289" selection-start="810" selection-end="810" vertical-scroll-proportion="-6.6666665" vertical-offset="216" max-vertical-offset="2736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Mengajar_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mengajar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.09764919" vertical-offset="54" max-vertical-offset="1800">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dosen/absensi/list_absensi_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="42" selection-start="2704" selection-end="3482" vertical-scroll-proportion="1.0899653" vertical-offset="648" max-vertical-offset="1782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="33" selection-start="733" selection-end="748" vertical-scroll-proportion="-9.296296" vertical-offset="271" max-vertical-offset="864">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/absensi_machine/list_absensi_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="81" selection-start="917" selection-end="917" vertical-scroll-proportion="-10.666667" vertical-offset="216" max-vertical-offset="1116">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="44" selection-start="2086" selection-end="2086" vertical-scroll-proportion="-18.222221" vertical-offset="534" max-vertical-offset="1152">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/dosen/absensi/edit_absensi_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="171" selection-end="405" vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="1494">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/Mahasiswa.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="0" selection-start="3820" selection-end="3820" vertical-scroll-proportion="0.3615917" vertical-offset="1789" max-vertical-offset="3294">
+        <state line="149" column="10" selection-start="5188" selection-end="5430" vertical-scroll-proportion="-13.814815" vertical-offset="2309" max-vertical-offset="3456">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/core/US_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="6" selection-start="3075" selection-end="3075" vertical-scroll-proportion="-0.025951557" vertical-offset="1869" max-vertical-offset="2682">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/absensi_machine_master_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="16" selection-start="2040" selection-end="2040" vertical-scroll-proportion="0.71972317" vertical-offset="556" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/absensi_machine/Absensi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="90" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.716263" vertical-offset="486" max-vertical-offset="1404">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="41" selection-start="401" selection-end="404" vertical-scroll-proportion="0.2504348" vertical-offset="0" max-vertical-offset="1314">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/absensi_machine/list_detail_absensi_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="22" selection-start="1437" selection-end="1858" vertical-scroll-proportion="-14.0" vertical-offset="432" max-vertical-offset="1836">
+          <folding>
+            <element signature="e#6#98#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="245" column="7" selection-start="7506" selection-end="7693" vertical-scroll-proportion="-9.366667" vertical-offset="4129" max-vertical-offset="10278">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/_controller/absensi_machine/absensi/detail_absensi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="20" selection-start="724" selection-end="724" vertical-scroll-proportion="0.6545454" vertical-offset="0" max-vertical-offset="684">
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

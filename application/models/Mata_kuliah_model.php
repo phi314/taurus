@@ -13,6 +13,7 @@ class Mata_kuliah_model extends US_Model {
     {
         $this->table = 'mata_kuliah';
         $this->primary_key = 'id';
+        $this->has_many['absensi'] = ['absensi_model', 'mata_kuliah_id', 'id'];
         parent::__construct();
     }
 

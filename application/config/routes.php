@@ -54,3 +54,5 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['admin'] = 'admin/dashboard';
+$route['dosen'] = 'dosen/dashboard';
+$route['absensi_machine'] = 'absensi_machine/absensi';

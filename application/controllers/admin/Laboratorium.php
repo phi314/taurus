@@ -34,9 +34,9 @@ class Laboratorium extends Admin_Controller {
         }
         else
         {
-            $nama_laboratorium = $this->input->post('nama_laboratorium');
             $insert_data = [
-                'nama_laboratorium' => $nama_laboratorium
+                'nama_laboratorium' => $this->input->post('nama_laboratorium'),
+                'ip_address' => $this->input->post('ip_address')
             ];
             $this->laboratorium_model->insert($insert_data);
             $this->session->set_flashdata('message', 'Berhasil tambah laboratorium');
@@ -65,7 +65,8 @@ class Laboratorium extends Admin_Controller {
         else
         {
             $update_data = [
-                'nama_laboratorium' => $this->input->post('nama_laboratorium')
+                'nama_laboratorium' => $this->input->post('nama_laboratorium'),
+                'ip_address' => $this->input->post('ip_address')
             ];
             $this->laboratorium_model->update($update_data, $id);
             $this->session->set_flashdata('message', 'Berhasil edit laboratorium_model');

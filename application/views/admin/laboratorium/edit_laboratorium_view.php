@@ -30,6 +30,13 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                         <?php echo form_error('nama_laboratorium', '<div class="text-danger help-block">', '</div>'); ?>
                     </div>
                 </div>
+                <div class="form-group">
+                    <?php echo form_label('IP Address', 'ip_address', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
+                    <div class="col-md-6 col-xs-12">
+                        <?php echo form_input('ip_address', set_value('ip_address', $laboratorium->ip_address), 'class="form-control"'); ?>
+                        <?php echo form_error('ip_address', '<div class="text-danger help-block">', '</div>'); ?>
+                    </div>
+                </div>
             </div>
             <div class="panel-footer">
                 <?php echo form_hidden('id', $laboratorium->id); ?>
