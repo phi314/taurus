@@ -55,7 +55,7 @@
                     </div>
                     <div class="mb-footer">
                         <div class="pull-right">
-                            <a href="<?php echo site_url('dosen/user/logout'); ?>" class="btn btn-success btn-lg">Yes</a>
+                            <a href="<?php echo site_url('admin/user/logout'); ?>" class="btn btn-success btn-lg">Yes</a>
                             <button class="btn btn-default btn-lg mb-control-close">No</button>
                         </div>
                     </div>

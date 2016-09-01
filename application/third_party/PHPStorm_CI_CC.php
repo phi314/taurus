@@ -77,6 +77,7 @@
 	 ***************** YOUR LIBRARIES *****************
 	 * @property Bcrypt              $bcrypt               Bcrypt Class
 	 * @property Ion_auth            $ion_auth             Ion Auth Class
+	 * @property Absensi_us          $absensi_us             Absensi Class
 	 ***************** YOUR MODELS *****************
 	 * @property mahasiswa_model          $mahasiswa_model
 	 * @property dosen_model              $dosen_model
@@ -84,6 +85,7 @@
 	 * @property laboratorium_model       $laboratorium_model
 	 * @property mengajar_model           $mengajar_model
 	 * @property absensi_model            $absensi_model
+	 * @property absensi_mahasiswa_model  $absensi_mahasiswa_model
 	 */
 	class CI_Controller {
 		public function __construct() {

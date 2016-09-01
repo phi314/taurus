@@ -20,7 +20,7 @@ class Absensi extends Dosen_Controller {
     {
         $this->load->helper('absensi_helper');
         $this->data['page_title'] = 'List Absensi';
-        $this->data['absensi'] = $this->absensi_model->order_by('tanggal, waktu', 'DESC')->with_laboratorium('fields:nama_laboratorium')->with_mengajar('fields:id', ['with'=>['relation'=>'mata_kuliah', 'fields'=>'nama_mata_kuliah']])->get_all(['created_by'=>$this->ion_auth->get_user_id()]);
+        $this->data['absensi'] = $this->absensi_model->order_by('waktu_mulai', 'DESC')->with_laboratorium('fields:nama_laboratorium')->with_mengajar('fields:id', ['with'=>['relation'=>'mata_kuliah', 'fields'=>'nama_mata_kuliah']])->get_all(['created_by'=>$this->ion_auth->get_user_id()]);
         $this->render('dosen/absensi/list_absensi_view');
     
     }
@@ -43,11 +43,11 @@ class Absensi extends Dosen_Controller {
         }
         else
         {
+            $waktu_selesai = strtotime($this->input->post('waktu_mulai').' +'.$this->input->post('durasi').' minutes');
             $insert_data = [
-                'tanggal' => $this->input->post('tanggal'),
-                'waktu' => $this->input->post('waktu'),
+                'waktu_mulai' => $this->input->post('tanggal').' '.$this->input->post('waktu'),
                 'durasi' => $this->input->post('durasi'),
-                'waktu_selesai' => $this->input->post('tanggal').' '.$this->input->post('waktu').' + INTERVAL '.$this->input->post('durasi').' MINUTES',
+                'waktu_selesai' => date('Y-m-d H:i', $waktu_selesai),
                 'laboratorium_id' => $this->input->post('laboratorium'),
                 'dosen_mata_kuliah_id' => $this->input->post('mata_kuliah'),
                 'created_by' => $this->ion_auth->get_user_id()
@@ -86,11 +86,10 @@ class Absensi extends Dosen_Controller {
         }
         else
         {
+            $waktu_selesai = strtotime($this->input->post('waktu_mulai').' +'.$this->input->post('durasi').' minutes');
             $update_data = [
-                'tanggal' => $this->input->post('tanggal'),
-                'waktu' => $this->input->post('waktu'),
                 'durasi' => $this->input->post('durasi'),
-                'waktu_selesai' => $this->input->post('tanggal').' '.$this->input->post('waktu').' + INTERVAL '.$this->input->post('durasi').' MINUTES',
+                'waktu_selesai' => date('Y-m-d H:i', $waktu_selesai),
                 'laboratorium_id' => $this->input->post('laboratorium'),
                 'dosen_mata_kuliah_id' => $this->input->post('mata_kuliah'),
                 'updated_by' => $this->ion_auth->get_user_id()
@@ -102,9 +101,48 @@ class Absensi extends Dosen_Controller {
         }
     }
     
-    public function delete()
+    public function delete($absensi_id = NULL)
     {
-    
+        if(is_null($absensi_id))
+        {
+            $this->session->set_flashdata('message', 'Tidak ada data absensi yang akan dihapus');
+        }
+        else
+        {
+            $message = "Berhasil hapus data absensi";
+            $delete = $this->absensi_model->delete($absensi_id);
+            if($delete === FALSE)
+            {
+                $message = "Gagal hapus data absensi";
+            }
+        }
+        $this->session->set_flashdata('message', $message);
+        redirect('dosen/absensi', 'refresh');
+    }
+
+    public function detail($absensi_id = NULL)
+    {
+        if(is_null($absensi_id))
+        {
+            redirect('dosen/absensi');
+        }
+
+        $absensi = $this->absensi_model
+            ->with_mengajar('fields:id', [
+                'with'=>[
+                    ['relation'=>'dosen', 'fields'=>'nip', 'with'=>['relation'=>'user', 'fields'=>'name']],
+                    ['relation'=>'mata_kuliah', 'fields'=>'nama_mata_kuliah']
+                ]
+            ])
+            ->with_laboratorium('fields:nama_laboratorium')
+            ->with_absensi_mahasiswa('fields:id, waktu_masuk, waktu_keluar', [
+                'with'=>[
+                    ['relation'=>'mahasiswa', 'fields'=>'nim', 'with'=>['realation'=>'user', 'fields'=>'name'], 'order_inside'=>'nim desc']
+                ]
+            ])->get($absensi_id);
+        $this->data['absensi'] = $absensi;
+        $this->data['page_title'] = $absensi->mengajar->mata_kuliah->nama_mata_kuliah.' - '.$absensi->mengajar->dosen->user->name;
+        $this->render('dosen/absensi/detail_absensi_view');
     }
 
     public function is_future()
@@ -128,7 +166,7 @@ class Absensi extends Dosen_Controller {
         $waktu = $this->input->post('waktu');
         $durasi = $this->input->post('durasi');
         // check absensi by tanggal
-        $absensi = $this->absensi_model->where(['tanggal' => $tanggal, 'HOUR(waktu)'=>substr($waktu, 0, 2)])->get();
+        $absensi = $this->absensi_model->where(['DATE(waktu_mulai)' => $tanggal, 'HOUR(waktu_mulai)'=>substr($waktu, 0, 2)])->get();
 
         if($absensi === FALSE)
         {

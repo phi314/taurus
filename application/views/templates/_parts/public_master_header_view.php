@@ -29,5 +29,4 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
         </button>
         <?php echo $this->session->flashdata('message'); ?>
     </div>
-
 <?php endif; ?>

@@ -31,8 +31,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                         <thead>
                         <tr>
                             <th>ID</th>
-                            <th>Tanggal</th>
-                            <th>Waktu</th>
+                            <th>Waktu Mulai</th>
                             <th>Durasi (menit)</th>
                             <th>Mata Kuliah</th>
                             <th>Laboratorium</th>
@@ -45,31 +44,17 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                         <?php
                         if(!empty($absensi)):
                             foreach($absensi as $data_absensi):
-                                $status = absensi_status($data_absensi->tanggal, $data_absensi->waktu, $data_absensi->durasi);
-                                $end_time = absensi_end_time($data_absensi->tanggal, $data_absensi->waktu, $data_absensi->durasi);
+                                $end_time = absensi_end_time($data_absensi->waktu_mulai, $data_absensi->durasi);
                                 ?>
                                 <tr id="<?= $data_absensi->id; ?>">
                                     <td><?= $data_absensi->id; ?></td>
-                                    <td><?php echo format_tanggal_indonesia($data_absensi->tanggal); ?></td>
-                                    <td><?= $data_absensi->waktu; ?></td>
+                                    <td><?php echo format_tanggal_indonesia($data_absensi->waktu_mulai, TRUE); ?></td>
                                     <td><?= $data_absensi->durasi; ?></td>
                                     <td><?= $data_absensi->mengajar->mata_kuliah->nama_mata_kuliah; ?></td>
                                     <td><?= $data_absensi->laboratorium->nama_laboratorium; ?></td>
-                                    <td><?php echo format_tanggal_indonesia(date('Y-m-d H:i:s', $end_time), TRUE); ?></td>
+                                    <td><?php echo format_tanggal_indonesia($data_absensi->waktu_selesai, TRUE); ?></td>
                                     <td>
-                                        <?php
-                                            switch($status)
-                                            {
-                                                case "active":
-                                                    echo "<span class='label label-info'>Active</span>";
-                                                    break;
-                                                case "inactive":
-                                                    echo "<span class='label label-danger'>Inactive</span>";
-                                                    break;
-                                                default:
-                                                    echo "";
-                                            }
-                                        ?>
+                                        <?php echo absensi_status($data_absensi->waktu_mulai, $data_absensi->durasi, TRUE); ?>
                                     </td>
                                     <td>
                                         <?php

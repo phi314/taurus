@@ -29,6 +29,10 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                 </div>
             </div>
         </li>
+        <li>
+            <span class="hidden" id="server-time" data-time="<?php echo time(); ?>"></span>
+            <a href="#" title="Clock" class="text-center"><span class="xn-text" id="clock"></span></a>
+        </li>
     </ul>
     <!-- END X-NAVIGATION -->
 </div>

@@ -26,15 +26,14 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                 <div class="form-group">
                     <?php echo form_label('Tanggal', 'tanggal', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
                     <div class="col-md-6 col-xs-12">
-                        <?php echo form_input('tanggal', set_value('tanggal', $absensi->tanggal), 'class="form-control datepicker"'); ?>
-                        <?php echo form_error('tanggal', '<div class="text-danger help-block">', '</div>'); ?>
+                        <div class="form-control-static"><?php echo date('Y-m-d', strtotime($absensi->waktu_mulai)); ?></div>
+                        <?php echo form_hidden('waktu_mulai', $absensi->waktu_mulai); ?>
                     </div>
                 </div>
                 <div class="form-group">
                     <?php echo form_label('Waktu', 'waktu', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
                     <div class="col-md-6 col-xs-12">
-                        <?php echo form_input('waktu', set_value('waktu', $absensi->waktu), 'class="form-control timepicker24"'); ?>
-                        <?php echo form_error('waktu', '<div class="text-danger help-block">', '</div>'); ?>
+                        <div class="form-control-static"><?php echo date('H:i', strtotime($absensi->waktu_mulai)); ?></div>
                     </div>
                 </div>
                 <div class="form-group">

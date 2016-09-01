@@ -19,7 +19,7 @@
         </ul>
         <div class="page-title">
             <h2><span class="fa fa-check-square"></span> <?= $absensi->mengajar->mata_kuliah->nama_mata_kuliah; ?> (<?= $absensi->mengajar->dosen->user->name; ?>)</h2>
-            <p><?php echo format_tanggal_indonesia($absensi->tanggal.' '.$absensi->waktu, TRUE); ?></p>
+            <p><?php echo format_tanggal_indonesia($absensi->waktu_mulai, TRUE); ?> - <?php echo format_tanggal_indonesia($absensi->waktu_selesai, TRUE); ?></p>
             <p>Durasi: <b><?= $absensi->durasi; ?></b> menit</p>
         </div>
     </div>
@@ -35,63 +35,29 @@
             </div>
 
             <div class="messages">
-                <div class="item">
-                    <div class="text">
-                        <div class="heading">
-                            <a href="#">John Doe</a>
-                            <span class="date">08:33</span>
-                        </div>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis suscipit eros vitae iaculis.
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <div class="heading">
-                            <a href="#">Dmitry Ivaniuk</a>
-                            <span class="date">08:39</span>
-                        </div>
-                        Integer et ipsum vitae urna mattis dictum. Sed eu sollicitudin nibh, in luctus velit.
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <div class="heading">
-                            <a href="#">Dmitry Ivaniuk</a>
-                            <span class="date">08:42</span>
-                        </div>
-                        In dapibus ex ut nisl laoreet aliquam. Donec in mollis leo. Aenean nec suscipit neque, non iaculis justo. Quisque eget odio efficitur, porta risus vitae, sagittis neque.
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <div class="heading">
-                            <a href="#">John Doe</a>
-                            <span class="date">08:58</span>
-                        </div>
-                        Curabitur et euismod urna?
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <div class="heading">
-                            <a href="#">Dmitry Ivaniuk</a>
-                            <span class="date">09:11</span>
-                        </div>
-                        Fusce ultricies erat quis massa interdum, eu elementum urna iaculis
-                    </div>
-                </div>
-                <div class="item">
-                    <div class="text">
-                        <div class="heading">
-                            <a href="#">John Doe</a>
-                            <span class="date">09:22</span>
-                        </div>
-                        Vestibulum cursus ipsum ut dolor vulputate dapibus. Donec elementum est vel vulputate malesuada?
-                    </div>
-                </div>
+                <?php
+                    if(!empty($absensi->absensi_mahasiswa))
+                    {
+                        foreach($absensi->absensi_mahasiswa as $item):
+                ?>
+                            <div class="item item-absensi-<?= $item->id; ?>">
+                                <div class="text">
+                                    <div class="heading">
+                                        <a href="#"><?= "({$item->mahasiswa->nim}) {$item->mahasiswa->user->name}"; ?></a>
+                                        <span class="date">Masuk: <?= format_tanggal_indonesia($item->waktu_masuk, TRUE); ?> - Keluar: <?= format_tanggal_indonesia($item->waktu_keluar, TRUE); ?></span>
+                                    </div>
+                                </div>
+                            </div>
+                <?php
+                        endforeach;
+                    }
+                ?>
+                <?php  ?>
             </div>
         </div>
     </div>
+    <input type="hidden" name="ip_address" value="<?= $ip_address; ?>" id="ip-address">
+    <input type="hidden" name="absensi_id" value="<?= $absensi->id; ?>" id="absensi-id">
     <!-- END CONTENT FRAME BODY -->
 </div>
 <!-- END PAGE CONTENT FRAME -->

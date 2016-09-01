@@ -22,6 +22,7 @@
 }());
 
 // Place any jQuery/helper plugins in here.
+
 /* My Custom Progressbar */
 $.mpb = function(action,options){
 
@@ -65,3 +66,21 @@ $.mpb = function(action,options){
 
 }
 /* Eof My Custom Progressbar */
+
+/* Moment */
+var $server_time = $('#server-time').data('time');
+moment.locale('id');
+
+var clock = function(){
+    if($('#clock').length > 0) {
+        var time = moment().format('D MMMM YYYY, HH:mm:ss');
+        $('#clock').html(time);
+        setTimeout(clock, 1000);
+    }
+}
+
+clock();
+
+/* Eof Flipclock */
+
+

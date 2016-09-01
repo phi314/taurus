@@ -110,7 +110,7 @@ class Absensi_machine_Controller extends US_Controller {
         $ip_address = $this->session->userdata('ip_address');
         $ip_address = "127.0.0.1";
         $this->data['ip_address'] = $ip_address;
-        $this->load->model(['laboratorium_model', 'absensi_model']);
+        $this->load->model(['laboratorium_model', 'absensi_model', 'absensi_mahasiswa_model']);
         $this->load->helper('absensi_helper');
         $laboratorium = $this->laboratorium_model->get(['ip_address'=>$ip_address]);
         if($laboratorium === FALSE)
