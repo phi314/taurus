@@ -27,7 +27,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                 <div class="item">
                     <div class="text">
                         <div class="heading">
-                            <a href="<?php echo site_url('absensi_machine/absensi/detail/'.$data_absensi->id); ?>"><?= $data_absensi->mengajar->mata_kuliah->nama_mata_kuliah; ?></a>
+                            <a href="<?php echo site_url('absensi-machine/'.$data_absensi->id); ?>"><?= $data_absensi->mengajar->mata_kuliah->nama_mata_kuliah; ?></a>
                             <span class="date"><?= format_tanggal_indonesia($data_absensi->waktu_mulai, TRUE); ?> (<?= $data_absensi->durasi; ?>) Menit</span>
                         </div>
                         <?= "({$data_absensi->mengajar->dosen->nip}) {$data_absensi->mengajar->dosen->user->name}"; ?>

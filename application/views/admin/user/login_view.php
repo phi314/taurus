@@ -1,4 +1,4 @@
-<div class="login-title"><strong>Welcome</strong>, Please login</div>
+<div class="login-title"><strong>Selamat Datang</strong>, Silahkan login</div>
 
 <?php echo $this->session->flashdata('message'); ?>
 
@@ -22,10 +22,9 @@
     </div>
     <div class="form-group">
         <div class="col-md-6">
-            <a href="#" class="btn btn-link btn-block">Forgot your password?</a>
         </div>
         <div class="col-md-6">
-            <?php echo form_submit('submit', 'Log In', 'class="btn btn-info btn-block"'); ?>
+            <?php echo form_submit('submit', 'Log In Admin', 'class="btn btn-info btn-block"'); ?>
         </div>
     </div>
 <?php echo form_close(); ?>

@@ -107,15 +107,14 @@ class Absensi_machine_Controller extends US_Controller {
     {
         parent::__construct();
         $this->data['page_title'] = 'Absensi';
-        $ip_address = $this->session->userdata('ip_address');
-        $ip_address = "127.0.0.1";
+        $ip_address = $this->input->ip_address();
         $this->data['ip_address'] = $ip_address;
         $this->load->model(['laboratorium_model', 'absensi_model', 'absensi_mahasiswa_model']);
         $this->load->helper('absensi_helper');
         $laboratorium = $this->laboratorium_model->get(['ip_address'=>$ip_address]);
         if($laboratorium === FALSE)
         {
-            redirect('home/error_no_registered_ip');
+            redirect('error-page/no-registered-ip');
         }
         $this->data['laboratorium'] = $laboratorium;
     }
@@ -139,6 +138,7 @@ class Public_Controller extends US_Controller {
         parent::render($the_view, $template);
     }
 }
+
 
 /* End of file US_Controller.php */
 /* Location: ./application/core/US_Controller.php */

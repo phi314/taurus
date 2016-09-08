@@ -27,7 +27,7 @@ class Home extends Public_Controller {
 
 	public function index()
 	{
-        redirect('absensi_machine');
+        redirect('absensi-machine');
 	}
 
     public function debug()

@@ -13,9 +13,8 @@
     <div class="content-frame-top">
         <!-- The Breadcrumb -->
         <ul class="breadcrumb">
-            <li><a href="<?php echo site_url('absensi_machine'); ?>">Home</a></li>
-            <li><a href="<?php echo site_url('absensi_machine/absensi'); ?>">Absensi</a></li>
-            <li class="active">Detail</li>
+            <li><a href="<?php echo site_url('absensi-machine'); ?>">Home</a></li>
+            <li class="active">Absensi</li>
         </ul>
         <div class="page-title">
             <h2><span class="fa fa-check-square"></span> <?= $absensi->mengajar->mata_kuliah->nama_mata_kuliah; ?> (<?= $absensi->mengajar->dosen->user->name; ?>)</h2>

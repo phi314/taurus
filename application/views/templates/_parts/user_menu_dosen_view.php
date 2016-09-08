@@ -8,8 +8,16 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  */
 ?>
 <li>
-    <a href="<?php echo site_url('dosen/absensi'); ?>" title="Absensi"><span class="fa fa-check-square"></span><span class="xn-text">Absensi</span></a>
+    <a href="<?php echo site_url('dosen/dashboard'); ?>" title="Dashboard"><span class="fa fa-dashboard"></span> <span class="xn-text">Dashboard</span></a>
 </li>
 <li>
-    <a href="<?php echo site_url('dosen/mahasiswa'); ?>" title="Mahasiswa"><span class="fa fa-users"></span> <span class="xn-text">Mahasiswa</span></a>
+    <a href="<?php echo site_url('dosen/absensi'); ?>" title="Absensi"><span class="fa fa-check-square"></span><span class="xn-text">Absensi</span></a>
+</li>
+<li class="xn-openable">
+    <a href="#" title="Laporan"><span class="fa fa-book"></span> <span class="xn-text">Laporan</span></a>
+    <ul>
+        <li>
+            <a href="<?php echo site_url('dosen/report'); ?>" title="Laporan/tanggal"><span class="fa fa-calendar-check-o"></span> Laporan/tanggal</a>
+        </li>
+    </ul>
 </li>

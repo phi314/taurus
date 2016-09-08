@@ -7,6 +7,9 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  * Time: 1:28 PM
  */
 ?>
+<li>
+    <a href="<?php echo site_url('admin/dashboard'); ?>" title="Dashboard"><span class="fa fa-dashboard"></span> <span class="xn-text">Dashboard</span></a>
+</li>
 <li class="xn-openable">
     <a href="#" title="Users"><span class="fa fa-user-md"></span> <span class="xn-text">Users</span></a>
     <ul>

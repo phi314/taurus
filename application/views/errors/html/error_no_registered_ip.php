@@ -2,7 +2,7 @@
 <html lang="en">
     <head>        
         <!-- META SECTION -->
-        <title>Atlant - Responsive Bootstrap Admin Template</title>            
+        <title>Universitas Pendidikan Indonesia</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,7 +17,7 @@
     <body>
         <div class="error-container">
             <div class="error-code">500</div>
-            <div class="error-text">Your IP Address (<?= $ip_address; ?>) is not Registered</div>
+            <div class="error-text">IP Address (<?= $ip_address; ?>) anda belum terdaftar</div>
         </div>
     </body>
 </html>

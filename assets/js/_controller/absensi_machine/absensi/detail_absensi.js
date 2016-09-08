@@ -19,7 +19,7 @@ $kode_rfid_form.on('submit', function(e){
 
     // Go ajax ...
     $.ajax({
-        url: site_url + 'absensi_machine/absensi/create',
+        url: site_url + 'absensi-machine/absensi',
         type: 'POST',
         data: {
             absensi_id: $absensi_id.val(),
@@ -36,15 +36,6 @@ $kode_rfid_form.on('submit', function(e){
             }).setTimeout(3000);
         },
         success: function(data){
-            var template_detail_absensi = '<div class="item item-absensi-'+ data.absensi_mahasiswa_id +'">' +
-                '<div class="text">' +
-                    '<div class="heading">' +
-                        '<a href="#">('+ data.mahasiswa.nim +') '+ data.mahasiswa.user.name +'</a>' +
-                        '<span class="date">Masuk: '+ data.time +' Keluar:</span>' +
-                    '</div>' +
-                '</div>' +
-            '</div>';
-
             noty({
                 text: data.message,
                 layout: 'topRight',
@@ -53,6 +44,15 @@ $kode_rfid_form.on('submit', function(e){
 
             if(data.status === true)
             {
+                var template_detail_absensi = '<div class="item item-absensi-'+ data.absensi_mahasiswa_id +'">' +
+                    '<div class="text">' +
+                    '<div class="heading">' +
+                    '<a href="#">('+ data.mahasiswa.nim +') '+ data.mahasiswa.user.name +'</a>' +
+                    '<span class="date">Masuk: '+ data.time +' Keluar:</span>' +
+                    '</div>' +
+                    '</div>' +
+                    '</div>';
+
                 if(data.keluar === true)
                 {
                     $('.item-absensi-' + data.absensi_mahasiswa_id).remove();

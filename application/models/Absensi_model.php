@@ -32,8 +32,26 @@ class Absensi_model extends US_Model {
             'laboratorium' => ['field'=>'laboratorium', 'label'=>'Laboratorium', 'rules'=>'trim|required|integer'],
             'mata_kuliah' => ['field'=>'mata_kuliah', 'label'=>'Mata Kuliah', 'rules'=>'trim|required|integer'],
             'absensi_id' => ['field'=>'absensi_id', 'label'=>'ID Absensi', 'rules'=>'trim|required|integer'],
+        ],
+        'report-tanggal' => [
+            'mengajar' => ['field'=>'mengajar', 'label'=>'Mata Kuliah', 'rules'=>'trim|required|integer'],
+            'dari' => ['field'=>'dari', 'label'=>'Tanggal dari', 'rules'=>'trim|required'],
+            'sampai' => ['field'=>'sampai', 'label'=>'Tanggal sampai', 'rules'=>'trim|required'],
         ]
     ];
+
+    public function last_absensi_by_dosen($dosen_id)
+    {
+        $q = $this->db->select('absensi.id as absensi_id, nama_laboratorium, nama_mata_kuliah, waktu_mulai')
+            ->join('dosen_mata_kuliah', "dosen_id={$dosen_id}")
+            ->join('laboratorium', "laboratorium.id=absensi.laboratorium_id")
+            ->join('mata_kuliah', "mata_kuliah.id=dosen_mata_kuliah.mata_kuliah_id")
+            ->order_by('waktu_mulai', 'DESC')
+            ->limit(1)
+            ->get('absensi');
+
+        return $q->row();
+    }
 }
 
 /* End of file Absensi_model.php */

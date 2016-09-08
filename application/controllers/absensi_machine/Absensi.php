@@ -8,7 +8,6 @@ class Absensi extends Absensi_machine_Controller {
     public function __construct()
     {
         parent::__construct();
-        $this->load->library(['session']);
     }
 
 	public function index()
@@ -31,7 +30,7 @@ class Absensi extends Absensi_machine_Controller {
         if(is_null($absensi_id))
         {
             $this->session->set_flashdata('message', 'Tidak ada mata kuliah yang aktif');
-            redirect('absensi_machine', 'refresh');
+            redirect('absensi-machine', 'refresh');
         }
 
         $absensi = $this->absensi_model
@@ -51,14 +50,14 @@ class Absensi extends Absensi_machine_Controller {
         if($absensi === FALSE)
         {
             $this->session->set_flashdata('message', 'Tidak dapat menemukan data absensi');
-            redirect('absensi_machine', 'refresh');
+            redirect('absensi-machine', 'refresh');
         }
 
         // if absensi is active
         if(absensi_status($absensi->waktu_mulai, $absensi->durasi) != 'active')
         {
             $this->session->set_flashdata('message', 'Mesin Absensi sedang tidak aktif');
-            redirect('absensi_machine', 'refresh');
+            redirect('absensi-machine', 'refresh');
         }
 
         $this->data['page_title'] = "Detail Absensi";
@@ -72,17 +71,13 @@ class Absensi extends Absensi_machine_Controller {
         $this->render('absensi_machine/list_detail_absensi_view');
     }
 
-    public function error_no_registered_ip()
-    {
-        $this->data['ip_address'] = $this->session->userdata('ip_address');
-        $this->render('errors/html/error_no_registered_ip', 'page_master');
-    }
-
     public function create()
     {
         $this->data['status'] = FALSE;
         $this->data['message'] = FALSE;
         $this->data['keluar'] = FALSE;
+        $this->data['mahasiswa'] = NULL;
+        $this->data['absensi'] = NULL;
         $this->data['type'] = 'error'; // error, success, warning
         $this->data['time'] = format_tanggal_indonesia(date('Y-m-d h:i:s'), TRUE);
         $status_absensi = NULL;
@@ -173,7 +168,6 @@ class Absensi extends Absensi_machine_Controller {
                             $this->data['message'] = $mahasiswa->user->name.' sudah melakukan absen masuk';
                         }
                     }
-
                 }
                 else
                 {
@@ -204,15 +198,5 @@ class Absensi extends Absensi_machine_Controller {
         {
             return $absensi_mahasiswa;
         }
-    }
-
-    public function debug()
-    {
-        $data = [
-
-        ];
-        $this->data['google_analytics'] = TRUE;
-
-        $this->render('debug_view');
     }
 }

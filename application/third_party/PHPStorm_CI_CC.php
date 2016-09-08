@@ -77,7 +77,7 @@
 	 ***************** YOUR LIBRARIES *****************
 	 * @property Bcrypt              $bcrypt               Bcrypt Class
 	 * @property Ion_auth            $ion_auth             Ion Auth Class
-	 * @property Absensi_us          $absensi_us             Absensi Class
+	 * @property Mypdf               $dompdf               Dompdf Class
 	 ***************** YOUR MODELS *****************
 	 * @property mahasiswa_model          $mahasiswa_model
 	 * @property dosen_model              $dosen_model

@@ -50,9 +50,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'home';
-$route['404_override'] = '';
-$route['translate_uri_dashes'] = FALSE;
+$route['404_override'] = 'error_page/error_404';
+$route['translate_uri_dashes'] = TRUE;
+
+$route['error-page/no-registered-ip'] = 'error_page/error_no_registered_ip';
 
 $route['admin'] = 'admin/dashboard';
 $route['dosen'] = 'dosen/dashboard';
-$route['absensi_machine'] = 'absensi_machine/absensi';
+
+$route['absensi-machine/absensi']['post'] = 'absensi_machine/absensi/create';
+$route['absensi-machine'] = 'absensi_machine/absensi';
+$route['absensi-machine/(:num)'] = 'absensi_machine/absensi/detail/$1';

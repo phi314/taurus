@@ -30,9 +30,9 @@
                         &copy; <?= date('Y'); ?> Unleashed Framework
                     </div>
                     <div class="pull-right">
-                        <a href="#">About</a> |
-                        <a href="#">Privacy</a> |
-                        <a href="#">Contact Us</a>
+                        <a href="<?= site_url(); ?>">Home</a> |
+                        <a href="<?= site_url('admin'); ?>">Admin</a> |
+                        <a href="<?= site_url('dosen'); ?>">Dosen</a>
                     </div>
                 </div>
             </div>

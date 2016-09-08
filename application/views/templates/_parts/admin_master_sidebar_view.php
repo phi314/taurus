@@ -28,9 +28,6 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                 </div>
             </div>
         </li>
-        <li>
-            <a href="<?php echo site_url('admin/dashboard'); ?>" title="Dashboard"><span class="fa fa-dashboard"></span> <span class="xn-text">Dashboard</span></a>
-        </li>
         <?= $current_user_menu; ?>
     </ul>
     <!-- END X-NAVIGATION -->

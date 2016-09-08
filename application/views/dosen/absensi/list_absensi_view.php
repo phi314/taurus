@@ -58,9 +58,10 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                                     </td>
                                     <td>
                                         <?php
-                                            echo anchor('dosen/absensi/edit/'.$data_absensi->id, '<i class="fa fa-pencil"></i>',  ['class'=>'btn btn-link btn-xs']);
-                                            echo anchor('dosen/absensi/detail/'.$data_absensi->id, '<i class="fa fa-users"></i>',  ['class'=>'btn btn-link btn-xs']);
-                                            echo anchor('dosen/absensi/delete/'.$data_absensi->id, '<i class="fa fa-remove"></i>', ['class'=>'btn btn-link btn-xs btn-delete-mahasiswa']);
+                                            echo anchor('dosen/absensi/edit/'.$data_absensi->id, '<i class="fa fa-pencil"></i> edit',  ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('dosen/absensi/detail/'.$data_absensi->id, '<i class="fa fa-users"></i> mahasiswa',  ['class'=>'btn btn-link btn-xs']);
+                                            echo anchor('dosen/absensi/detail/'.$data_absensi->id.'/pdf', '<i class="fa fa-file-pdf-o"></i> simpan pdf',  ['class'=>'btn btn-link btn-xs', 'target'=>'_blank']);
+                                            echo anchor('dosen/absensi/delete/'.$data_absensi->id, '<i class="fa fa-remove"></i> hapus', ['class'=>'btn btn-link btn-xs btn-delete-absensi']);
                                         ?>
                                     </td>
                                 </tr>

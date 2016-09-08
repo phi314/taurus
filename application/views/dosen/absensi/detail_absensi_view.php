@@ -12,8 +12,8 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 <!-- The Breadcrumb -->
 <ul class="breadcrumb">
     <li><a href="<?php echo site_url('dosen'); ?>">Dashboard</a></li>
-    <li><a href="<?php echo site_url('absensi'); ?>">Absensi</a></li>
-    <li class="active"><?= "{$absensi->mengajar->mata_kuliah->nama_mata_kuliah} - {$absensi->laboratorium->nama_laboratorium}"; ?></li>
+    <li><a href="<?php echo site_url('dosen/absensi'); ?>">Absensi</a></li>
+    <li class="active"><?= "{$absensi->mengajar->mata_kuliah->nama_mata_kuliah} - Laboratorium {$absensi->laboratorium->nama_laboratorium}"; ?></li>
 </ul>
 
 <div class="row">
@@ -21,7 +21,14 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
         <div class="panel panel-default">
             <div class="panel-heading">
-                <h3 class="panel-title"><?= $page_title; ?></h3>
+                <h3 class="panel-title">
+                    <?= $page_title; ?>
+                    <div class="small"><?php echo format_date($absensi->waktu_mulai); ?></div>
+
+                </h3>
+                <ul class="panel-controls">
+                    <li><a href="<?php echo site_url('dosen/absensi/detail/'.$absensi->id.'/pdf'); ?>" title="Save PDF"><i class="fa fa-file-pdf-o"></i></a></li>
+                </ul>
             </div>
             <div class="panel-body panel-body-table">
                 <div class="table-responsive">

@@ -19,13 +19,13 @@ class Users extends Admin_Controller {
         }
     }
 
-    public function index($group_id = NULL)
+    public function index()
     {
         $this->data['page_title']   = 'Users';
         $this->data['before_body'] = "
             <script src='".site_url(JS.'_controller/admin/users/list_users.js')."'></script>
         ";
-        $this->data['users']       = $this->ion_auth->users($group_id)->result();
+        $this->data['users']       = $this->ion_auth->users('1')->result();
         $this->render('admin/users/list_users_view');
     }
 
@@ -33,10 +33,7 @@ class Users extends Admin_Controller {
     {
         $this->data['page_title'] = 'Create user';
         $this->load->library('form_validation');
-        $this->form_validation->set_rules('first_name', 'First name', 'trim');
-        $this->form_validation->set_rules('last_name', 'Last name', 'trim');
-        $this->form_validation->set_rules('company', 'Company', 'trim');
-        $this->form_validation->set_rules('phone', 'Phone', 'trim');
+        $this->form_validation->set_rules('name', 'Name', 'trim');
         $this->form_validation->set_rules('username', 'Username', 'trim|required|is_unique[users.username]');
         $this->form_validation->set_rules('email', 'Email', 'trim|required|valid_email|is_unique[users.email]');
         $this->form_validation->set_rules('password', 'Password', 'required|min_length[6]');
@@ -57,10 +54,7 @@ class Users extends Admin_Controller {
             $group_ids = $this->input->post('groups');
 
             $additional_data = [
-                'first_name' => $this->input->post('first_name'),
-                'last_name' => $this->input->post('last_name'),
-                'company' => $this->input->post('company'),
-                'phone' => $this->input->post('phone')
+                'name' => $this->input->post('name')
             ];
 
             $this->ion_auth->register($username, $password, $email, $additional_data, $group_ids);

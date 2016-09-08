@@ -117,6 +117,30 @@ function format_tanggal_indonesia($tgl, $waktu = FALSE, $bln_only = FALSE){
     return $tanggal_formatted;
 }
 
+function format_date($date, $date_format = FALSE, $locale = 'id')
+{
+    setlocale(LC_ALL, $locale);
+    switch($date_format)
+    {
+        case 'date':
+            $format = '%d %B %Y';
+            break;
+        case 'time':
+            $format = '%H:%I:%S';
+            break;
+        case 'time-no-sec':
+            $format = '%H:%I';
+            break;
+        case 'no-time':
+            $format = '%A, %d %B %Y';
+            break;
+        default:
+            $format = '%A, %d %B %Y %H:%I:%S';
+            break;
+    }
+    return strftime($format, strtotime($date));
+}
+
 /**
  * @param $bulan
  * @return string

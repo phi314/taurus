@@ -31,7 +31,7 @@ class User extends US_Controller {
         if($this->form_validation->run() === FALSE)
         {
             $this->load->helper('form');
-            $this->render('admin/user/login_view', 'admin_auth');
+            $this->render('admin/user/login_view', 'auth_master');
         }
         else
         {

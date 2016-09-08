@@ -11,7 +11,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 <ul class="breadcrumb">
     <li><a href="<?php echo site_url('admin'); ?>">Dashboard</a></li>
     <li><a href="<?php echo site_url('admin/users'); ?>">Users</a></li>
-    <li class="active">Create</li>
+    <li class="active">Edit</li>
 </ul>
 
 <div class="row">
@@ -24,31 +24,10 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
             </div>
             <div class="panel-body">
                 <div class="form-group">
-                    <?php echo form_label('First name', 'first_name', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
+                    <?php echo form_label('Name', 'name', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
                     <div class="col-md-6 col-xs-12">
-                        <?php echo form_input('first_name', set_value('first_name', $user->first_name), 'class="form-control"'); ?>
-                        <?php echo form_error('first_name', '<div class="text-danger help-block">', '</div>'); ?>
-                    </div>
-                </div>
-                <div class="form-group">
-                    <?php echo form_label('Last name', 'last_name', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
-                    <div class="col-md-6 col-xs-12">
-                        <?php echo form_input('last_name', set_value('last_name', $user->last_name), 'class="form-control"'); ?>
-                        <?php echo form_error('last_name', '<div class="text-danger help-block">', '</div>'); ?>
-                    </div>
-                </div>
-                <div class="form-group">
-                    <?php echo form_label('Company', 'company', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
-                    <div class="col-md-6 col-xs-12">
-                        <?php echo form_input('company', set_value('company', $user->company), 'class="form-control"'); ?>
-                        <?php echo form_error('company', '<div class="text-danger help-block">', '</div>'); ?>
-                    </div>
-                </div>
-                <div class="form-group">
-                    <?php echo form_label('Phone', 'phone', ['class'=>'col-md-3 col-xs-12 control-label']); ?>
-                    <div class="col-md-6 col-xs-12">
-                        <?php echo form_input('phone', set_value('phone', $user->phone), 'class="form-control"'); ?>
-                        <?php echo form_error('phone', '<div class="text-danger help-block">', '</div>'); ?>
+                        <?php echo form_input('name', set_value('name', $user->name), 'class="form-control"'); ?>
+                        <?php echo form_error('name', '<div class="text-danger help-block">', '</div>'); ?>
                     </div>
                 </div>
                 <div class="form-group">
