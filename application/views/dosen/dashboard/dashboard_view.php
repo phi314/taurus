@@ -31,14 +31,14 @@
         </a>
     </div>
     <div class="col-md-3">
-        <a class="tile tile-success tile-valign" href="#">9.5gb
+        <a class="tile tile-success tile-valign" href="#"><?= $jumlah_mengajar; ?>
             <div class="informer informer-default dir-tr"><span class="fa fa-cloud"></span></div>
             <div class="informer informer-default dir-bl">Jumlah Mata Kuliah</div>
         </a>
     </div>
     <div class="col-md-3">
         <a class="tile tile-info tile-valign" href="#">
-            1,153
+            <?= $jumlah_mahasiswa; ?>
             <div class="informer informer-default">Jumlah Mahasiswa</div>
             <div class="informer informer-default dir-br"><span class="fa fa-users"></span></div>
         </a>

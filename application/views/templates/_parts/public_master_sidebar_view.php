@@ -17,11 +17,11 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
         </li>
         <li class="xn-profile">
             <a href="" class="profile-mini">
-                <img src="<?php echo site_url('assets/demo/avatar.jpg'); ?>" alt="John Doe"/>
+                <img src="<?php echo site_url('assets/img/logo-small.png'); ?>" alt="Universitas Pendidikan Indonesia"/>
             </a>
             <div class="profile">
                 <div class="profile-image">
-                    <img src="<?php echo site_url('assets/demo/avatar.jpg'); ?>" alt="John Doe"/>
+                    <img src="<?php echo site_url('assets/img/logo-small.png'); ?>" alt="Universitas Pendidikan Indonesia"/>
                 </div>
                 <div class="profile-data">
                     <div class="profile-data-name">Lab. <?= $laboratorium->nama_laboratorium; ?></div>

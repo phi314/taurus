@@ -92,6 +92,10 @@ class Dosen_Controller extends US_Controller {
         {
             $this->data['current_user_menu'] = $this->load->view('templates/_parts/user_menu_dosen_view', NULL, TRUE);
         }
+        else
+        {
+            redirect('admin', 'refresh');
+        }
         $this->data['page_title'] = 'Halaman dosen';
     }
 

@@ -106,7 +106,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
             <?php
             foreach($array_tanggal as $tanggal):
                 $detail_absensi = $this->absensi_mahasiswa_model->get(['absensi_id'=>$tanggal['id'], 'mahasiswa_id'=>$mahasiswa['id']]);
-                $waktu_masuk = 'X';
+                $waktu_masuk = 'x';
                 $waktu_keluar = 'x';
                 if($detail_absensi !== FALSE)
                 {

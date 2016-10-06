@@ -101,8 +101,8 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
                             <?php
                                 foreach($array_tanggal as $tanggal):
                                     $detail_absensi = $this->absensi_mahasiswa_model->get(['absensi_id'=>$tanggal['id'], 'mahasiswa_id'=>$mahasiswa['id']]);
-                                    $waktu_masuk = 'X';
-                                    $waktu_keluar = 'x';
+                                    $waktu_masuk = '<i class="fa fa-times"></i>';
+                                    $waktu_keluar = '<i class="fa fa-times"></i>';
                                     if($detail_absensi !== FALSE)
                                     {
                                         $waktu_masuk = format_date($detail_absensi->waktu_masuk, 'time-no-sec');

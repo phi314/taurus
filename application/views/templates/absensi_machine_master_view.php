@@ -30,7 +30,7 @@
                 <div class="page-content">
 
                     <!-- The Header -->
-                    <?php $this->load->view('templates/_parts/public_master_header_view'); ?>
+                    <?php $this->load->view('templates/_parts/absensi_machine_master_header_view'); ?>
 
                     <!-- PAGE CONTENT WRAPPER -->
                     <div class="page-content-wrap">

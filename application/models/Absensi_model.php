@@ -52,6 +52,32 @@ class Absensi_model extends US_Model {
 
         return $q->row();
     }
+
+    public function mahasiswa_by_absensi_mengajar($dosen_mata_kuliah_id)
+    {
+        $q = $this->db->distinct()->select("absensi_mahasiswa.mahasiswa_id, mahasiswa.nim, users.name")
+            ->join("absensi", "dosen_mata_kuliah_id=$dosen_mata_kuliah_id")
+            ->join("mahasiswa", "mahasiswa.id=absensi_mahasiswa.mahasiswa_id")
+            ->join("users", "users.id=absensi_mahasiswa.mahasiswa_id")
+            ->get("absensi_mahasiswa");
+
+        $array_mahasiswa = [];
+
+        if($q->num_rows() > 0)
+        {
+
+            foreach($q->result() as $mahasiswa)
+            {
+                $array_mahasiswa[] = [
+                    'id'=>$mahasiswa->mahasiswa_id,
+                    'nim'=>$mahasiswa->nim,
+                    'name'=>$mahasiswa->name
+                ];
+            }
+        }
+
+        return $array_mahasiswa;
+    }
 }
 
 /* End of file Absensi_model.php */

@@ -23,7 +23,10 @@ class Report extends Dosen_Controller {
             <script src='".site_url(JS.'bootstrap/bootstrap-datepicker.js')."'></script>
         ";
         $this->load->model(['mengajar_model']);
-        $this->data['mengajar'] = $this->mengajar_model->with_mata_kuliah('fields:nama_mata_kuliah')->get_all(['dosen_id'=>$this->ion_auth->get_user_id()]);
+        $this->data['mengajar'] = $this->mengajar_model
+            ->with_mata_kuliah('fields:nama_mata_kuliah')
+            ->with_dosen('fields:nip', ['with'=>['relation'=>'user', 'fields'=>'name']])
+            ->get_all(['dosen_id'=>$this->ion_auth->get_user_id()]);
         $this->form_validation->set_rules($this->absensi_model->rules['report-tanggal']);
         if($this->form_validation->run() === FALSE)
         {
@@ -37,21 +40,13 @@ class Report extends Dosen_Controller {
             $to_pdf = $this->input->post('to_pdf') ? TRUE : FALSE;
             $this->data['date_from'] = $from;
             $this->data['date_to'] = $to;
-            $this->data['mengajar'] = $this->mengajar_model
-                ->with_dosen('fields:nip', ['with'=>['relation'=>'user', 'fields'=>'name']])
-                ->with_mata_kuliah('fields: nama_mata_kuliah')
-                ->get($mengajar_id);
             $absensi = $this->absensi_model
-                ->with_absensi_mahasiswa('fields:id, waktu_masuk, waktu_keluar',
-                    ['with'=>
-                        ['relation'=>'mahasiswa', 'fields'=>'nim', 'with'=>
-                            ['relation'=>'user', 'fields'=>'name']
-                        ]
-                    ])
+                ->with_absensi_mahasiswa('fields:id, waktu_masuk, waktu_keluar')
                 ->where(['DATE(waktu_mulai) >='=> $from, 'DATE(waktu_mulai) <='=>$to])
                 ->get_all(['dosen_mata_kuliah_id'=>$mengajar_id]);
+
             $array_tanggal = [];
-            $array_mahasiswa = [];
+            $array_mahasiswa = $this->absensi_model->mahasiswa_by_absensi_mengajar($mengajar_id);
 
             if(!empty($absensi))
             {
@@ -60,18 +55,14 @@ class Report extends Dosen_Controller {
                     $array_tanggal[] = [
                         'id' => $data_absensi->id,
                         'waktu_mulai' => $data_absensi->waktu_mulai
-                    ];
-                    foreach($data_absensi->absensi_mahasiswa as $data_mahasiswa)
-                    {
-                        $array_mahasiswa[$data_mahasiswa->mahasiswa_id] = [
-                            'id' => $data_mahasiswa->mahasiswa->id,
-                            'nim' => $data_mahasiswa->mahasiswa->nim,
-                            'name' => $data_mahasiswa->mahasiswa->user->name
-                        ];
-                    }
+                  ];
                 }
             }
 
+            $this->data['mengajar'] = $this->mengajar_model
+                ->with_mata_kuliah('fields:nama_mata_kuliah')
+                ->with_dosen('fields:nip', ['with'=>['relation'=>'user', 'fields'=>'name']])
+                ->get(['id'=>$mengajar_id]);
             $this->data['absensi'] = $absensi;
             $this->data['array_mahasiswa'] = $array_mahasiswa;
             $this->data['array_tanggal'] = $array_tanggal;
@@ -84,7 +75,7 @@ class Report extends Dosen_Controller {
                 $this->dompdf->load_html($html_view);
                 $this->dompdf->set_paper('A4', 'portait');
                 $this->dompdf->render();
-                $this->dompdf->stream(strtotime(now())."_".format_date($absensi->waktu_mulai, 'no-time')."_{$absensi->mengajar->mata_kuliah->nama_mata_kuliah}", array('Attachment'=>0));
+                $this->dompdf->stream(strtotime(now())."_".format_date($absensi->waktu_mulai, 'no-time').'_'.$mengajar_id, array('Attachment'=>0));
             }
         }
 

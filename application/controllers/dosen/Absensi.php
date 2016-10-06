@@ -130,18 +130,18 @@ class Absensi extends Dosen_Controller {
         }
 
         $absensi = $this->absensi_model
-            ->with_mengajar('fields:id', [
-                'with'=>[
+            ->with_mengajar('fields:id', ['with'=>
+                [
                     ['relation'=>'dosen', 'fields'=>'nip', 'with'=>['relation'=>'user', 'fields'=>'name']],
                     ['relation'=>'mata_kuliah', 'fields'=>'nama_mata_kuliah']
                 ]
             ])
             ->with_laboratorium('fields:nama_laboratorium')
-            ->with_absensi_mahasiswa('fields:id, waktu_masuk, waktu_keluar', [
-                'with'=>[
+            ->with_absensi_mahasiswa('fields:id, waktu_masuk, waktu_keluar',
+                ['with'=>
                     ['relation'=>'mahasiswa', 'fields'=>'nim', 'with'=>['relation'=>'user', 'fields'=>'name'], 'order_by'=>'nim, asc']
-                ]
-            ])->get($absensi_id);
+            ])
+            ->get($absensi_id);
         $this->data['absensi'] = $absensi;
         $this->data['page_title'] = $absensi->mengajar->mata_kuliah->nama_mata_kuliah.' - '.$absensi->mengajar->dosen->user->name;
 
